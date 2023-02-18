@@ -1,0 +1,2524 @@
+[2019-11-05 14:04:24 : INFO] - Re_Smush_It_Task with attachment ID : 1074, autocreated on : November 05, 2019 02:04:24 
+[2019-11-05 14:09:36 : INFO] - 
+ 
+[2019-11-05 14:09:36 : INFO] - Header for logs at time:  Tue, 05 Nov 2019 14:09:36 +0000 on https://www.hitools.fr 
+[2019-11-05 14:09:36 : INFO] - WP: 5.2.4 
+[2019-11-05 14:09:36 : INFO] - PHP: 7.2.24 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2019-11-05 14:09:36 : INFO] - MySQL: 5.5.60 
+[2019-11-05 14:09:36 : INFO] - WPLANG: fr_FR 
+[2019-11-05 14:09:36 : INFO] - Server: Apache 
+[2019-11-05 14:09:36 : INFO] - Outbound connections: N 
+[2019-11-05 14:09:36 : INFO] - safe_mode: 0 
+[2019-11-05 14:09:36 : INFO] - max_execution_time: 50000 
+[2019-11-05 14:09:36 : INFO] - memory_limit: -1 (used: 63.8M | 66.3M) 
+[2019-11-05 14:09:36 : INFO] - multisite: N 
+[2019-11-05 14:09:36 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2019-11-05 14:09:36 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2019-11-05 14:09:36 : INFO] - Set semaphore last lock (smush) time to 2019-11-05 14:09:36 
+[2019-11-05 14:09:36 : INFO] - Semaphore lock (smush) complete 
+[2019-11-05 14:09:36 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2019-11-05 14:09:36 : INFO] - Re_Smush_It_Task with attachment ID : 1074, autocreated on : November 05, 2019 02:04:24 
+[2019-11-05 14:09:36 : INFO] - 100 
+[2019-11-05 14:09:37 : INFO] - Backing up the original image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2019/11/Fob29-keytag-hitools-updraft-pre-smush-original.jpg 
+[2019-11-05 14:09:37 : INFO] - Re_Smush_It_Task with attachment ID : 1074, autocreated on : November 05, 2019 02:04:24 
+[2019-11-05 14:09:37 : INFO] - 100 
+[2019-11-05 14:09:37 : INFO] - Re_Smush_It_Task with attachment ID : 1074, autocreated on : November 05, 2019 02:04:24 
+[2019-11-05 14:09:37 : INFO] - 100 
+[2019-11-05 14:09:38 : INFO] - Re_Smush_It_Task with attachment ID : 1074, autocreated on : November 05, 2019 02:04:24 
+[2019-11-05 14:09:38 : INFO] - 100 
+[2019-11-05 14:09:38 : INFO] - Re_Smush_It_Task with attachment ID : 1074, autocreated on : November 05, 2019 02:04:24 
+[2019-11-05 14:09:38 : INFO] - 100 
+[2019-11-05 14:09:38 : INFO] - Re_Smush_It_Task with attachment ID : 1074, autocreated on : November 05, 2019 02:04:24 
+[2019-11-05 14:09:38 : INFO] - 100 
+[2019-11-05 14:09:40 : INFO] - Re_Smush_It_Task with attachment ID : 1074, autocreated on : November 05, 2019 02:04:24 
+[2019-11-05 14:09:40 : INFO] - 100 
+[2019-11-05 14:09:41 : INFO] - Re_Smush_It_Task with attachment ID : 1074, autocreated on : November 05, 2019 02:04:24 
+[2019-11-05 14:09:41 : INFO] - 100 
+[2019-11-05 14:09:41 : INFO] - Re_Smush_It_Task with attachment ID : 1074, autocreated on : November 05, 2019 02:04:24 
+[2019-11-05 14:09:41 : INFO] - 100 
+[2019-11-05 14:09:41 : INFO] - Re_Smush_It_Task with attachment ID : 1074, autocreated on : November 05, 2019 02:04:24 
+[2019-11-05 14:09:41 : INFO] - 100 
+[2019-11-05 14:09:41 : INFO] - Re_Smush_It_Task with attachment ID : 1074, autocreated on : November 05, 2019 02:04:24 
+[2019-11-05 14:09:41 : INFO] - 100 
+[2019-11-05 14:09:41 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2019/11/Fob29-keytag-hitools.jpg.Le fichier a été compressé de 85.40 KB à 64.39 KB en réduisant de 24.6 pourcent avec WP-Optimize. 
+[2019-11-05 14:09:41 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2019-11-05 14:09:41 : INFO] - Decremented the semaphore (smush) by 1 
+[2019-11-05 14:09:41 : INFO] - Semaphore (smush) unlocked 
+[2019-11-05 14:09:41 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2019-11-05 14:09:41 : INFO] - Semaphore (smush, hit_options) was successfully cleaned up 
+[2019-11-05 14:09:41 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2019-11-05 14:19:37 : INFO] - 
+ 
+[2019-11-05 14:19:37 : INFO] - Header for logs at time:  Tue, 05 Nov 2019 14:19:37 +0000 on https://www.hitools.fr 
+[2019-11-05 14:19:37 : INFO] - WP: 5.2.4 
+[2019-11-05 14:19:37 : INFO] - PHP: 7.2.24 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2019-11-05 14:19:37 : INFO] - MySQL: 5.5.60 
+[2019-11-05 14:19:37 : INFO] - WPLANG: fr_FR 
+[2019-11-05 14:19:37 : INFO] - Server: Apache 
+[2019-11-05 14:19:37 : INFO] - Outbound connections: N 
+[2019-11-05 14:19:37 : INFO] - safe_mode: 0 
+[2019-11-05 14:19:37 : INFO] - max_execution_time: 50000 
+[2019-11-05 14:19:37 : INFO] - memory_limit: -1 (used: 63.8M | 66.3M) 
+[2019-11-05 14:19:37 : INFO] - multisite: N 
+[2019-11-05 14:19:37 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2019-11-05 14:19:37 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2019-11-05 14:46:43 : INFO] - Re_Smush_It_Task with attachment ID : 1077, autocreated on : November 05, 2019 02:46:43 
+[2019-11-05 14:52:43 : INFO] - 
+ 
+[2019-11-05 14:52:43 : INFO] - Header for logs at time:  Tue, 05 Nov 2019 14:52:43 +0000 on https://www.hitools.fr 
+[2019-11-05 14:52:43 : INFO] - WP: 5.2.4 
+[2019-11-05 14:52:43 : INFO] - PHP: 7.2.24 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2019-11-05 14:52:43 : INFO] - MySQL: 5.5.60 
+[2019-11-05 14:52:43 : INFO] - WPLANG: fr_FR 
+[2019-11-05 14:52:43 : INFO] - Server: Apache 
+[2019-11-05 14:52:43 : INFO] - Outbound connections: N 
+[2019-11-05 14:52:43 : INFO] - safe_mode: 0 
+[2019-11-05 14:52:43 : INFO] - max_execution_time: 50000 
+[2019-11-05 14:52:43 : INFO] - memory_limit: -1 (used: 63.8M | 66.3M) 
+[2019-11-05 14:52:43 : INFO] - multisite: N 
+[2019-11-05 14:52:43 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2019-11-05 14:52:43 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2019-11-05 14:52:43 : INFO] - Set semaphore last lock (smush) time to 2019-11-05 14:52:43 
+[2019-11-05 14:52:43 : INFO] - Semaphore lock (smush) complete 
+[2019-11-05 14:52:43 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2019-11-05 14:52:43 : INFO] - Re_Smush_It_Task with attachment ID : 1077, autocreated on : November 05, 2019 02:46:43 
+[2019-11-05 14:52:43 : INFO] - 100 
+[2019-11-05 14:52:44 : INFO] - Backing up the original image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2019/10/FOBK77-noir-blanc3-hitools-updraft-pre-smush-original.jpg 
+[2019-11-05 14:52:44 : INFO] - Re_Smush_It_Task with attachment ID : 1077, autocreated on : November 05, 2019 02:46:43 
+[2019-11-05 14:52:44 : INFO] - 100 
+[2019-11-05 14:52:44 : INFO] - Re_Smush_It_Task with attachment ID : 1077, autocreated on : November 05, 2019 02:46:43 
+[2019-11-05 14:52:44 : INFO] - 100 
+[2019-11-05 14:52:44 : INFO] - Re_Smush_It_Task with attachment ID : 1077, autocreated on : November 05, 2019 02:46:43 
+[2019-11-05 14:52:44 : INFO] - 100 
+[2019-11-05 14:52:44 : INFO] - Re_Smush_It_Task with attachment ID : 1077, autocreated on : November 05, 2019 02:46:43 
+[2019-11-05 14:52:44 : INFO] - 100 
+[2019-11-05 14:52:44 : INFO] - Re_Smush_It_Task with attachment ID : 1077, autocreated on : November 05, 2019 02:46:43 
+[2019-11-05 14:52:44 : INFO] - 100 
+[2019-11-05 14:52:46 : INFO] - Re_Smush_It_Task with attachment ID : 1077, autocreated on : November 05, 2019 02:46:43 
+[2019-11-05 14:52:46 : INFO] - 100 
+[2019-11-05 14:52:46 : INFO] - Re_Smush_It_Task with attachment ID : 1077, autocreated on : November 05, 2019 02:46:43 
+[2019-11-05 14:52:46 : INFO] - 100 
+[2019-11-05 14:52:47 : INFO] - Re_Smush_It_Task with attachment ID : 1077, autocreated on : November 05, 2019 02:46:43 
+[2019-11-05 14:52:47 : INFO] - 100 
+[2019-11-05 14:52:47 : INFO] - Re_Smush_It_Task with attachment ID : 1077, autocreated on : November 05, 2019 02:46:43 
+[2019-11-05 14:52:47 : INFO] - 100 
+[2019-11-05 14:52:48 : INFO] - Re_Smush_It_Task with attachment ID : 1077, autocreated on : November 05, 2019 02:46:43 
+[2019-11-05 14:52:48 : INFO] - 100 
+[2019-11-05 14:52:49 : INFO] - Re_Smush_It_Task with attachment ID : 1077, autocreated on : November 05, 2019 02:46:43 
+[2019-11-05 14:52:49 : INFO] - 100 
+[2019-11-05 14:52:49 : INFO] - Re_Smush_It_Task with attachment ID : 1077, autocreated on : November 05, 2019 02:46:43 
+[2019-11-05 14:52:49 : INFO] - 100 
+[2019-11-05 14:52:49 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2019/10/FOBK77-noir-blanc3-hitools.jpg.Le fichier a été compressé de 80.65 KB à 72.72 KB en réduisant de 9.84 pourcent avec WP-Optimize. 
+[2019-11-05 14:52:49 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2019-11-05 14:52:49 : INFO] - Decremented the semaphore (smush) by 1 
+[2019-11-05 14:52:49 : INFO] - Semaphore (smush) unlocked 
+[2019-11-05 14:52:49 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2019-11-05 14:52:49 : INFO] - Semaphore (smush, hit_options) was successfully cleaned up 
+[2019-11-05 14:52:49 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2019-11-05 14:55:29 : INFO] - Re_Smush_It_Task with attachment ID : 1078, autocreated on : November 05, 2019 02:55:29 
+[2019-11-05 15:02:48 : INFO] - 
+ 
+[2019-11-05 15:02:48 : INFO] - Header for logs at time:  Tue, 05 Nov 2019 15:02:48 +0000 on https://www.hitools.fr 
+[2019-11-05 15:02:48 : INFO] - WP: 5.2.4 
+[2019-11-05 15:02:48 : INFO] - PHP: 7.2.24 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2019-11-05 15:02:48 : INFO] - MySQL: 5.5.60 
+[2019-11-05 15:02:48 : INFO] - WPLANG: fr_FR 
+[2019-11-05 15:02:48 : INFO] - Server: Apache 
+[2019-11-05 15:02:48 : INFO] - Outbound connections: N 
+[2019-11-05 15:02:48 : INFO] - safe_mode: 0 
+[2019-11-05 15:02:48 : INFO] - max_execution_time: 50000 
+[2019-11-05 15:02:48 : INFO] - memory_limit: -1 (used: 64M | 66.3M) 
+[2019-11-05 15:02:48 : INFO] - multisite: N 
+[2019-11-05 15:02:48 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2019-11-05 15:02:48 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2019-11-05 15:02:48 : INFO] - Set semaphore last lock (smush) time to 2019-11-05 15:02:48 
+[2019-11-05 15:02:48 : INFO] - Semaphore lock (smush) complete 
+[2019-11-05 15:02:48 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2019-11-05 15:02:48 : INFO] - Re_Smush_It_Task with attachment ID : 1078, autocreated on : November 05, 2019 02:55:29 
+[2019-11-05 15:02:48 : INFO] - 100 
+[2019-11-05 15:02:48 : INFO] - Backing up the original image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2019/10/FOBK77-noir-blanc4-hitools-updraft-pre-smush-original.jpg 
+[2019-11-05 15:02:48 : INFO] - Re_Smush_It_Task with attachment ID : 1078, autocreated on : November 05, 2019 02:55:29 
+[2019-11-05 15:02:48 : INFO] - 100 
+[2019-11-05 15:02:48 : INFO] - Re_Smush_It_Task with attachment ID : 1078, autocreated on : November 05, 2019 02:55:29 
+[2019-11-05 15:02:48 : INFO] - 100 
+[2019-11-05 15:02:49 : INFO] - Re_Smush_It_Task with attachment ID : 1078, autocreated on : November 05, 2019 02:55:29 
+[2019-11-05 15:02:49 : INFO] - 100 
+[2019-11-05 15:02:49 : INFO] - Re_Smush_It_Task with attachment ID : 1078, autocreated on : November 05, 2019 02:55:29 
+[2019-11-05 15:02:49 : INFO] - 100 
+[2019-11-05 15:02:49 : INFO] - Re_Smush_It_Task with attachment ID : 1078, autocreated on : November 05, 2019 02:55:29 
+[2019-11-05 15:02:49 : INFO] - 100 
+[2019-11-05 15:02:49 : INFO] - Re_Smush_It_Task with attachment ID : 1078, autocreated on : November 05, 2019 02:55:29 
+[2019-11-05 15:02:49 : INFO] - 100 
+[2019-11-05 15:02:49 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2019/10/FOBK77-noir-blanc4-hitools.jpg.Le fichier a été compressé de 16.11 KB à 15.61 KB en réduisant de 3.07 pourcent avec WP-Optimize. 
+[2019-11-05 15:02:49 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2019-11-05 15:02:49 : INFO] - Decremented the semaphore (smush) by 1 
+[2019-11-05 15:02:49 : INFO] - Semaphore (smush) unlocked 
+[2019-11-05 15:02:49 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2019-11-05 15:02:49 : INFO] - Semaphore (smush, hit_options) was successfully cleaned up 
+[2019-11-05 15:02:49 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2019-11-05 15:12:49 : INFO] - 
+ 
+[2019-11-05 15:12:49 : INFO] - Header for logs at time:  Tue, 05 Nov 2019 15:12:49 +0000 on https://www.hitools.fr 
+[2019-11-05 15:12:49 : INFO] - WP: 5.2.4 
+[2019-11-05 15:12:49 : INFO] - PHP: 7.2.24 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2019-11-05 15:12:49 : INFO] - MySQL: 5.5.60 
+[2019-11-05 15:12:49 : INFO] - WPLANG: fr_FR 
+[2019-11-05 15:12:49 : INFO] - Server: Apache 
+[2019-11-05 15:12:49 : INFO] - Outbound connections: N 
+[2019-11-05 15:12:49 : INFO] - safe_mode: 0 
+[2019-11-05 15:12:49 : INFO] - max_execution_time: 50000 
+[2019-11-05 15:12:49 : INFO] - memory_limit: -1 (used: 63.8M | 66.3M) 
+[2019-11-05 15:12:49 : INFO] - multisite: N 
+[2019-11-05 15:12:49 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2019-11-05 15:12:49 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2019-11-12 16:03:12 : INFO] - Re_Smush_It_Task with attachment ID : 1094, autocreated on : November 12, 2019 04:03:12 
+[2019-11-12 16:06:28 : INFO] - Re_Smush_It_Task with attachment ID : 1095, autocreated on : November 12, 2019 04:06:28 
+[2019-11-12 16:09:51 : INFO] - 
+ 
+[2019-11-12 16:09:51 : INFO] - Header for logs at time:  Tue, 12 Nov 2019 16:09:51 +0000 on https://www.hitools.fr 
+[2019-11-12 16:09:51 : INFO] - WP: 5.2.4 
+[2019-11-12 16:09:51 : INFO] - PHP: 7.2.24 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2019-11-12 16:09:51 : INFO] - MySQL: 5.5.60 
+[2019-11-12 16:09:51 : INFO] - WPLANG: fr_FR 
+[2019-11-12 16:09:51 : INFO] - Server: Apache 
+[2019-11-12 16:09:51 : INFO] - Outbound connections: N 
+[2019-11-12 16:09:51 : INFO] - safe_mode: 0 
+[2019-11-12 16:09:51 : INFO] - max_execution_time: 50000 
+[2019-11-12 16:09:51 : INFO] - memory_limit: -1 (used: 64.4M | 66.3M) 
+[2019-11-12 16:09:51 : INFO] - multisite: N 
+[2019-11-12 16:09:51 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2019-11-12 16:09:51 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2019-11-12 16:09:51 : INFO] - Set semaphore last lock (smush) time to 2019-11-12 16:09:51 
+[2019-11-12 16:09:51 : INFO] - Semaphore lock (smush) complete 
+[2019-11-12 16:09:51 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2019-11-12 16:09:51 : INFO] - Re_Smush_It_Task with attachment ID : 1094, autocreated on : November 12, 2019 04:03:12 
+[2019-11-12 16:09:51 : INFO] - 100 
+[2019-11-12 16:09:51 : INFO] - Backing up the original image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2019/11/Desfire-Ev1-8K-Em4200-hitools-updraft-pre-smush-original.jpg 
+[2019-11-12 16:09:51 : INFO] - Re_Smush_It_Task with attachment ID : 1094, autocreated on : November 12, 2019 04:03:12 
+[2019-11-12 16:09:51 : INFO] - 100 
+[2019-11-12 16:09:52 : INFO] - Re_Smush_It_Task with attachment ID : 1094, autocreated on : November 12, 2019 04:03:12 
+[2019-11-12 16:09:52 : INFO] - 100 
+[2019-11-12 16:09:52 : INFO] - Re_Smush_It_Task with attachment ID : 1094, autocreated on : November 12, 2019 04:03:12 
+[2019-11-12 16:09:52 : INFO] - 100 
+[2019-11-12 16:09:52 : INFO] - Re_Smush_It_Task with attachment ID : 1094, autocreated on : November 12, 2019 04:03:12 
+[2019-11-12 16:09:52 : INFO] - 100 
+[2019-11-12 16:09:52 : INFO] - Re_Smush_It_Task with attachment ID : 1094, autocreated on : November 12, 2019 04:03:12 
+[2019-11-12 16:09:52 : INFO] - 100 
+[2019-11-12 16:09:52 : INFO] - Re_Smush_It_Task with attachment ID : 1094, autocreated on : November 12, 2019 04:03:12 
+[2019-11-12 16:09:52 : INFO] - 100 
+[2019-11-12 16:09:52 : INFO] - Re_Smush_It_Task with attachment ID : 1094, autocreated on : November 12, 2019 04:03:12 
+[2019-11-12 16:09:52 : INFO] - 100 
+[2019-11-12 16:09:52 : INFO] - Re_Smush_It_Task with attachment ID : 1094, autocreated on : November 12, 2019 04:03:12 
+[2019-11-12 16:09:52 : INFO] - 100 
+[2019-11-12 16:09:53 : INFO] - Re_Smush_It_Task with attachment ID : 1094, autocreated on : November 12, 2019 04:03:12 
+[2019-11-12 16:09:53 : INFO] - 100 
+[2019-11-12 16:09:53 : INFO] - Re_Smush_It_Task with attachment ID : 1094, autocreated on : November 12, 2019 04:03:12 
+[2019-11-12 16:09:53 : INFO] - 100 
+[2019-11-12 16:09:53 : INFO] - Re_Smush_It_Task with attachment ID : 1094, autocreated on : November 12, 2019 04:03:12 
+[2019-11-12 16:09:53 : INFO] - 100 
+[2019-11-12 16:09:53 : INFO] - Re_Smush_It_Task with attachment ID : 1094, autocreated on : November 12, 2019 04:03:12 
+[2019-11-12 16:09:53 : INFO] - 100 
+[2019-11-12 16:09:53 : INFO] - Re_Smush_It_Task with attachment ID : 1094, autocreated on : November 12, 2019 04:03:12 
+[2019-11-12 16:09:53 : INFO] - 100 
+[2019-11-12 16:09:53 : INFO] - Re_Smush_It_Task with attachment ID : 1094, autocreated on : November 12, 2019 04:03:12 
+[2019-11-12 16:09:53 : INFO] - 100 
+[2019-11-12 16:09:54 : INFO] - Re_Smush_It_Task with attachment ID : 1094, autocreated on : November 12, 2019 04:03:12 
+[2019-11-12 16:09:54 : INFO] - 100 
+[2019-11-12 16:09:54 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2019/11/Desfire-Ev1-8K-Em4200-hitools.jpg.Le fichier a été compressé de 33.16 KB à 25.86 KB en réduisant de 22.01 pourcent avec WP-Optimize. 
+[2019-11-12 16:09:54 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2019-11-12 16:09:54 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2019-11-12 16:09:54 : INFO] - Re_Smush_It_Task with attachment ID : 1095, autocreated on : November 12, 2019 04:06:28 
+[2019-11-12 16:09:54 : INFO] - 100 
+[2019-11-12 16:09:54 : INFO] - Backing up the original image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2019/11/Desfire-Ev1-8K-Em4200-hitools-1-updraft-pre-smush-original.jpg 
+[2019-11-12 16:09:54 : INFO] - Re_Smush_It_Task with attachment ID : 1095, autocreated on : November 12, 2019 04:06:28 
+[2019-11-12 16:09:54 : INFO] - 100 
+[2019-11-12 16:09:54 : INFO] - Re_Smush_It_Task with attachment ID : 1095, autocreated on : November 12, 2019 04:06:28 
+[2019-11-12 16:09:54 : INFO] - 100 
+[2019-11-12 16:09:54 : INFO] - Re_Smush_It_Task with attachment ID : 1095, autocreated on : November 12, 2019 04:06:28 
+[2019-11-12 16:09:54 : INFO] - 100 
+[2019-11-12 16:09:54 : INFO] - Re_Smush_It_Task with attachment ID : 1095, autocreated on : November 12, 2019 04:06:28 
+[2019-11-12 16:09:54 : INFO] - 100 
+[2019-11-12 16:09:55 : INFO] - Re_Smush_It_Task with attachment ID : 1095, autocreated on : November 12, 2019 04:06:28 
+[2019-11-12 16:09:55 : INFO] - 100 
+[2019-11-12 16:09:55 : INFO] - Re_Smush_It_Task with attachment ID : 1095, autocreated on : November 12, 2019 04:06:28 
+[2019-11-12 16:09:55 : INFO] - 100 
+[2019-11-12 16:09:55 : INFO] - Re_Smush_It_Task with attachment ID : 1095, autocreated on : November 12, 2019 04:06:28 
+[2019-11-12 16:09:55 : INFO] - 100 
+[2019-11-12 16:09:56 : INFO] - Re_Smush_It_Task with attachment ID : 1095, autocreated on : November 12, 2019 04:06:28 
+[2019-11-12 16:09:56 : INFO] - 100 
+[2019-11-12 16:09:56 : INFO] - Re_Smush_It_Task with attachment ID : 1095, autocreated on : November 12, 2019 04:06:28 
+[2019-11-12 16:09:56 : INFO] - 100 
+[2019-11-12 16:09:56 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2019/11/Desfire-Ev1-8K-Em4200-hitools-1.jpg.Le fichier a été compressé de 23.55 KB à 19.85 KB en réduisant de 15.71 pourcent avec WP-Optimize. 
+[2019-11-12 16:09:56 : INFO] - Completed processing task with ID : 7, and type 'smush' 
+[2019-11-12 16:09:56 : INFO] - Decremented the semaphore (smush) by 1 
+[2019-11-12 16:09:56 : INFO] - Semaphore (smush) unlocked 
+[2019-11-12 16:09:56 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2019-11-12 16:09:56 : INFO] - Semaphore (smush, hit_options) was successfully cleaned up 
+[2019-11-12 16:09:56 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2019-11-12 16:19:57 : INFO] - 
+ 
+[2019-11-12 16:19:57 : INFO] - Header for logs at time:  Tue, 12 Nov 2019 16:19:57 +0000 on https://www.hitools.fr 
+[2019-11-12 16:19:57 : INFO] - WP: 5.2.4 
+[2019-11-12 16:19:57 : INFO] - PHP: 7.2.24 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2019-11-12 16:19:57 : INFO] - MySQL: 5.5.60 
+[2019-11-12 16:19:57 : INFO] - WPLANG: fr_FR 
+[2019-11-12 16:19:57 : INFO] - Server: Apache 
+[2019-11-12 16:19:57 : INFO] - Outbound connections: N 
+[2019-11-12 16:19:57 : INFO] - safe_mode: 0 
+[2019-11-12 16:19:57 : INFO] - max_execution_time: 50000 
+[2019-11-12 16:19:57 : INFO] - memory_limit: -1 (used: 64.4M | 66.3M) 
+[2019-11-12 16:19:57 : INFO] - multisite: N 
+[2019-11-12 16:19:57 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2019-11-12 16:19:57 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-27 15:01:02 : INFO] - Re_Smush_It_Task with attachment ID : 1122, autocreated on : February 27, 2020 03:01:02 
+[2020-02-27 15:06:02 : INFO] - 
+ 
+[2020-02-27 15:06:02 : INFO] - Header for logs at time:  Thu, 27 Feb 2020 15:06:02 +0000 on https://www.hitools.fr 
+[2020-02-27 15:06:02 : INFO] - WP: 5.3.2 
+[2020-02-27 15:06:02 : INFO] - PHP: 7.2.27 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-02-27 15:06:02 : INFO] - MySQL: 5.5.60 
+[2020-02-27 15:06:02 : INFO] - WPLANG: fr_FR 
+[2020-02-27 15:06:02 : INFO] - Server: Apache 
+[2020-02-27 15:06:02 : INFO] - Outbound connections: N 
+[2020-02-27 15:06:02 : INFO] - safe_mode: 0 
+[2020-02-27 15:06:02 : INFO] - max_execution_time: 50000 
+[2020-02-27 15:06:02 : INFO] - memory_limit: -1 (used: 65.9M | 68.3M) 
+[2020-02-27 15:06:02 : INFO] - multisite: N 
+[2020-02-27 15:06:02 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-02-27 15:06:02 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-02-27 15:06:02 : INFO] - Set semaphore last lock (smush) time to 2020-02-27 15:06:02 
+[2020-02-27 15:06:02 : INFO] - Semaphore lock (smush) complete 
+[2020-02-27 15:06:02 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2020-02-27 15:06:02 : INFO] - Re_Smush_It_Task with attachment ID : 1122, autocreated on : February 27, 2020 03:01:02 
+[2020-02-27 15:06:02 : INFO] - 100 
+[2020-02-27 15:06:03 : INFO] - Backing up the original image - 2020/02/Omnikey-3121-desktop-reader_hitools-updraft-pre-smush-original.jpg 
+[2020-02-27 15:06:03 : INFO] - Re_Smush_It_Task with attachment ID : 1122, autocreated on : February 27, 2020 03:01:02 
+[2020-02-27 15:06:03 : INFO] - 100 
+[2020-02-27 15:06:03 : INFO] - Re_Smush_It_Task with attachment ID : 1122, autocreated on : February 27, 2020 03:01:02 
+[2020-02-27 15:06:03 : INFO] - 100 
+[2020-02-27 15:06:04 : INFO] - Re_Smush_It_Task with attachment ID : 1122, autocreated on : February 27, 2020 03:01:02 
+[2020-02-27 15:06:04 : INFO] - 100 
+[2020-02-27 15:06:04 : INFO] - Re_Smush_It_Task with attachment ID : 1122, autocreated on : February 27, 2020 03:01:02 
+[2020-02-27 15:06:04 : INFO] - 100 
+[2020-02-27 15:06:04 : INFO] - Re_Smush_It_Task with attachment ID : 1122, autocreated on : February 27, 2020 03:01:02 
+[2020-02-27 15:06:04 : INFO] - 100 
+[2020-02-27 15:06:06 : INFO] - Re_Smush_It_Task with attachment ID : 1122, autocreated on : February 27, 2020 03:01:02 
+[2020-02-27 15:06:06 : INFO] - 100 
+[2020-02-27 15:06:07 : INFO] - Re_Smush_It_Task with attachment ID : 1122, autocreated on : February 27, 2020 03:01:02 
+[2020-02-27 15:06:07 : INFO] - 100 
+[2020-02-27 15:06:07 : INFO] - Re_Smush_It_Task with attachment ID : 1122, autocreated on : February 27, 2020 03:01:02 
+[2020-02-27 15:06:07 : INFO] - 100 
+[2020-02-27 15:06:08 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2020/02/Omnikey-3121-desktop-reader_hitools.jpg.Le fichier a été compressé de 27.96 KB à 27.96 KB en réduisant de 0 pourcent avec WP-Optimize. 
+[2020-02-27 15:06:08 : INFO] - Completed processing task with ID : 8, and type 'smush' 
+[2020-02-27 15:06:08 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-02-27 15:06:08 : INFO] - Semaphore (smush) unlocked 
+[2020-02-27 15:06:08 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-02-27 15:06:08 : INFO] - Semaphore (smush, hit_options) was successfully cleaned up 
+[2020-02-27 15:06:08 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-02-27 15:16:50 : INFO] - 
+ 
+[2020-02-27 15:16:50 : INFO] - Header for logs at time:  Thu, 27 Feb 2020 15:16:50 +0000 on https://www.hitools.fr 
+[2020-02-27 15:16:50 : INFO] - WP: 5.3.2 
+[2020-02-27 15:16:50 : INFO] - PHP: 7.2.27 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-02-27 15:16:50 : INFO] - MySQL: 5.5.60 
+[2020-02-27 15:16:50 : INFO] - WPLANG: fr_FR 
+[2020-02-27 15:16:50 : INFO] - Server: Apache 
+[2020-02-27 15:16:50 : INFO] - Outbound connections: N 
+[2020-02-27 15:16:50 : INFO] - safe_mode: 0 
+[2020-02-27 15:16:50 : INFO] - max_execution_time: 50000 
+[2020-02-27 15:16:50 : INFO] - memory_limit: -1 (used: 65.9M | 68.3M) 
+[2020-02-27 15:16:50 : INFO] - multisite: N 
+[2020-02-27 15:16:50 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-02-27 15:16:50 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-02-28 11:14:42 : INFO] - Re_Smush_It_Task with attachment ID : 1127, autocreated on : February 28, 2020 11:14:42 
+[2020-02-28 11:16:14 : INFO] - Re_Smush_It_Task with attachment ID : 1128, autocreated on : February 28, 2020 11:16:14 
+[2020-02-28 11:19:56 : INFO] - 
+ 
+[2020-02-28 11:19:56 : INFO] - Header for logs at time:  Fri, 28 Feb 2020 11:19:56 +0000 on https://www.hitools.fr 
+[2020-02-28 11:19:56 : INFO] - WP: 5.3.2 
+[2020-02-28 11:19:56 : INFO] - PHP: 7.2.27 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-02-28 11:19:56 : INFO] - MySQL: 5.5.60 
+[2020-02-28 11:19:56 : INFO] - WPLANG: fr_FR 
+[2020-02-28 11:19:56 : INFO] - Server: Apache 
+[2020-02-28 11:19:56 : INFO] - Outbound connections: N 
+[2020-02-28 11:19:56 : INFO] - safe_mode: 0 
+[2020-02-28 11:19:56 : INFO] - max_execution_time: 50000 
+[2020-02-28 11:19:56 : INFO] - memory_limit: -1 (used: 65.9M | 68.3M) 
+[2020-02-28 11:19:56 : INFO] - multisite: N 
+[2020-02-28 11:19:56 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-02-28 11:19:56 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2020-02-28 11:19:56 : INFO] - Set semaphore last lock (smush) time to 2020-02-28 11:19:56 
+[2020-02-28 11:19:56 : INFO] - Semaphore lock (smush) complete 
+[2020-02-28 11:19:56 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2020-02-28 11:19:56 : INFO] - Re_Smush_It_Task with attachment ID : 1127, autocreated on : February 28, 2020 11:14:42 
+[2020-02-28 11:19:56 : INFO] - 100 
+[2020-02-28 11:19:56 : INFO] - Backing up the original image - 2020/02/omnikey-heavy-base_xs-updraft-pre-smush-original.jpg 
+[2020-02-28 11:19:56 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2020/02/omnikey-heavy-base_xs.jpg.Le fichier a été compressé de 844 bytes à 844 bytes en réduisant de 0 pourcent avec WP-Optimize. 
+[2020-02-28 11:19:56 : INFO] - Completed processing task with ID : 9, and type 'smush' 
+[2020-02-28 11:19:56 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2020-02-28 11:19:56 : INFO] - Re_Smush_It_Task with attachment ID : 1128, autocreated on : February 28, 2020 11:16:14 
+[2020-02-28 11:19:56 : INFO] - 100 
+[2020-02-28 11:20:04 : INFO] - Task with ID 10 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2020-02-28 11:20:04 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/c8394bf8a093c702aba972a10f0379cf\/_src_extra-heavy-base_xs.jpg","dest":"http:\/\/par3.static.resmush.it\/c8394bf8a093c702aba972a10f0379cf\/extra-heavy-base_xs.jpg","src_size":820,"dest_size":820,"percent":0,"output":"json","expires":"Fri, 28 Feb 2020 12:34:59 +0100","generator":"reSmush.it rev.2.0.4.20190519"} 
+[2020-02-28 11:20:04 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-02-28 11:20:04 : INFO] - Semaphore (smush) unlocked 
+[2020-02-28 11:20:04 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2020-02-28 11:20:04 : INFO] - Semaphore (smush, hit_options) was successfully cleaned up 
+[2020-02-28 11:20:04 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2020-02-28 11:30:14 : INFO] - 
+ 
+[2020-02-28 11:30:14 : INFO] - Header for logs at time:  Fri, 28 Feb 2020 11:30:14 +0000 on https://www.hitools.fr 
+[2020-02-28 11:30:14 : INFO] - WP: 5.3.2 
+[2020-02-28 11:30:14 : INFO] - PHP: 7.2.27 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-02-28 11:30:14 : INFO] - MySQL: 5.5.60 
+[2020-02-28 11:30:14 : INFO] - WPLANG: fr_FR 
+[2020-02-28 11:30:14 : INFO] - Server: Apache 
+[2020-02-28 11:30:14 : INFO] - Outbound connections: N 
+[2020-02-28 11:30:14 : INFO] - safe_mode: 0 
+[2020-02-28 11:30:14 : INFO] - max_execution_time: 50000 
+[2020-02-28 11:30:14 : INFO] - memory_limit: -1 (used: 66.1M | 68.3M) 
+[2020-02-28 11:30:14 : INFO] - multisite: N 
+[2020-02-28 11:30:14 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-02-28 11:30:14 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-03-23 10:36:08 : INFO] - Re_Smush_It_Task with attachment ID : 1133, autocreated on : March 23, 2020 10:36:08 
+[2020-03-23 10:51:32 : INFO] - Re_Smush_It_Task with attachment ID : 1134, autocreated on : March 23, 2020 10:51:32 
+[2020-03-23 10:56:48 : INFO] - 
+ 
+[2020-03-23 10:56:48 : INFO] - Header for logs at time:  Mon, 23 Mar 2020 10:56:48 +0000 on https://www.hitools.fr 
+[2020-03-23 10:56:48 : INFO] - WP: 5.3.2 
+[2020-03-23 10:56:48 : INFO] - PHP: 7.2.28 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-23 10:56:48 : INFO] - MySQL: 5.5.60 
+[2020-03-23 10:56:48 : INFO] - WPLANG: fr_FR 
+[2020-03-23 10:56:48 : INFO] - Server: Apache 
+[2020-03-23 10:56:48 : INFO] - Outbound connections: N 
+[2020-03-23 10:56:48 : INFO] - safe_mode: 0 
+[2020-03-23 10:56:48 : INFO] - max_execution_time: 50000 
+[2020-03-23 10:56:48 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-23 10:56:48 : INFO] - multisite: N 
+[2020-03-23 10:56:48 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-23 10:56:48 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2020-03-23 10:56:48 : INFO] - Set semaphore last lock (smush) time to 2020-03-23 10:56:48 
+[2020-03-23 10:56:48 : INFO] - Semaphore lock (smush) complete 
+[2020-03-23 10:56:48 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2020-03-23 10:56:48 : INFO] - Re_Smush_It_Task with attachment ID : 1133, autocreated on : March 23, 2020 10:36:08 
+[2020-03-23 10:56:48 : INFO] - 100 
+[2020-03-23 10:56:48 : INFO] - Backing up the original image - 2020/03/OMNIKEY_5422-top_s-hitools-updraft-pre-smush-original.jpg 
+[2020-03-23 10:56:48 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2020/03/OMNIKEY_5422-top_s-hitools.jpg.Le fichier a été compressé de 1.43 KB à 1.43 KB en réduisant de 0 pourcent avec WP-Optimize. 
+[2020-03-23 10:56:48 : INFO] - Completed processing task with ID : 11, and type 'smush' 
+[2020-03-23 10:56:48 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2020-03-23 10:56:48 : INFO] - Re_Smush_It_Task with attachment ID : 1134, autocreated on : March 23, 2020 10:51:32 
+[2020-03-23 10:56:48 : INFO] - 100 
+[2020-03-23 10:56:48 : INFO] - Backing up the original image - 2020/03/lecteur-hid-omnikey-hitools-updraft-pre-smush-original.jpg 
+[2020-03-23 10:56:48 : INFO] - Re_Smush_It_Task with attachment ID : 1134, autocreated on : March 23, 2020 10:51:32 
+[2020-03-23 10:56:48 : INFO] - 100 
+[2020-03-23 10:56:48 : INFO] - Re_Smush_It_Task with attachment ID : 1134, autocreated on : March 23, 2020 10:51:32 
+[2020-03-23 10:56:48 : INFO] - 100 
+[2020-03-23 10:56:48 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2020/03/lecteur-hid-omnikey-hitools.jpg.Le fichier a été compressé de 3.77 KB à 3.27 KB en réduisant de 13.25 pourcent avec WP-Optimize. 
+[2020-03-23 10:56:48 : INFO] - Completed processing task with ID : 12, and type 'smush' 
+[2020-03-23 10:56:48 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-23 10:56:48 : INFO] - Semaphore (smush) unlocked 
+[2020-03-23 10:56:48 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2020-03-23 10:56:48 : INFO] - Semaphore (smush, hit_options) was successfully cleaned up 
+[2020-03-23 10:56:48 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2020-03-23 11:09:36 : INFO] - 
+ 
+[2020-03-23 11:09:36 : INFO] - Header for logs at time:  Mon, 23 Mar 2020 11:09:36 +0000 on https://www.hitools.fr 
+[2020-03-23 11:09:36 : INFO] - WP: 5.3.2 
+[2020-03-23 11:09:36 : INFO] - PHP: 7.2.28 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-23 11:09:36 : INFO] - MySQL: 5.5.60 
+[2020-03-23 11:09:36 : INFO] - WPLANG: fr_FR 
+[2020-03-23 11:09:36 : INFO] - Server: Apache 
+[2020-03-23 11:09:36 : INFO] - Outbound connections: N 
+[2020-03-23 11:09:36 : INFO] - safe_mode: 0 
+[2020-03-23 11:09:36 : INFO] - max_execution_time: 50000 
+[2020-03-23 11:09:36 : INFO] - memory_limit: -1 (used: 71.4M | 74.5M) 
+[2020-03-23 11:09:36 : INFO] - multisite: N 
+[2020-03-23 11:09:36 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-23 11:09:36 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-03-23 13:44:34 : INFO] - Re_Smush_It_Task with attachment ID : 1136, autocreated on : March 23, 2020 01:44:34 
+[2020-03-23 13:49:36 : INFO] - 
+ 
+[2020-03-23 13:49:36 : INFO] - Header for logs at time:  Mon, 23 Mar 2020 13:49:36 +0000 on https://www.hitools.fr 
+[2020-03-23 13:49:36 : INFO] - WP: 5.3.2 
+[2020-03-23 13:49:36 : INFO] - PHP: 7.2.28 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-23 13:49:36 : INFO] - MySQL: 5.5.60 
+[2020-03-23 13:49:36 : INFO] - WPLANG: fr_FR 
+[2020-03-23 13:49:36 : INFO] - Server: Apache 
+[2020-03-23 13:49:36 : INFO] - Outbound connections: N 
+[2020-03-23 13:49:36 : INFO] - safe_mode: 0 
+[2020-03-23 13:49:36 : INFO] - max_execution_time: 50000 
+[2020-03-23 13:49:36 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-23 13:49:36 : INFO] - multisite: N 
+[2020-03-23 13:49:36 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-23 13:49:36 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-03-23 13:49:36 : INFO] - Set semaphore last lock (smush) time to 2020-03-23 13:49:36 
+[2020-03-23 13:49:36 : INFO] - Semaphore lock (smush) complete 
+[2020-03-23 13:49:36 : INFO] - Processing task with ID : 13, and type 'smush' 
+[2020-03-23 13:49:36 : INFO] - Re_Smush_It_Task with attachment ID : 1136, autocreated on : March 23, 2020 01:44:34 
+[2020-03-23 13:49:36 : INFO] - 100 
+[2020-03-23 13:49:37 : INFO] - Backing up the original image - 2020/03/omnikey-5021-cl-hitools-updraft-pre-smush-original.png 
+[2020-03-23 13:49:37 : INFO] - Re_Smush_It_Task with attachment ID : 1136, autocreated on : March 23, 2020 01:44:34 
+[2020-03-23 13:49:37 : INFO] - 100 
+[2020-03-23 13:49:38 : INFO] - Re_Smush_It_Task with attachment ID : 1136, autocreated on : March 23, 2020 01:44:34 
+[2020-03-23 13:49:38 : INFO] - 100 
+[2020-03-23 13:49:39 : INFO] - Re_Smush_It_Task with attachment ID : 1136, autocreated on : March 23, 2020 01:44:34 
+[2020-03-23 13:49:39 : INFO] - 100 
+[2020-03-23 13:49:40 : INFO] - Re_Smush_It_Task with attachment ID : 1136, autocreated on : March 23, 2020 01:44:34 
+[2020-03-23 13:49:40 : INFO] - 100 
+[2020-03-23 13:49:40 : INFO] - Re_Smush_It_Task with attachment ID : 1136, autocreated on : March 23, 2020 01:44:34 
+[2020-03-23 13:49:40 : INFO] - 100 
+[2020-03-23 13:49:41 : INFO] - Re_Smush_It_Task with attachment ID : 1136, autocreated on : March 23, 2020 01:44:34 
+[2020-03-23 13:49:41 : INFO] - 100 
+[2020-03-23 13:49:41 : INFO] - Re_Smush_It_Task with attachment ID : 1136, autocreated on : March 23, 2020 01:44:34 
+[2020-03-23 13:49:41 : INFO] - 100 
+[2020-03-23 13:49:42 : INFO] - Re_Smush_It_Task with attachment ID : 1136, autocreated on : March 23, 2020 01:44:34 
+[2020-03-23 13:49:42 : INFO] - 100 
+[2020-03-23 13:49:42 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2020/03/omnikey-5021-cl-hitools.png.Le fichier a été compressé de 378.50 KB à 113.28 KB en réduisant de 70.07 pourcent avec WP-Optimize. 
+[2020-03-23 13:49:42 : INFO] - Completed processing task with ID : 13, and type 'smush' 
+[2020-03-23 13:49:42 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-23 13:49:42 : INFO] - Semaphore (smush) unlocked 
+[2020-03-23 13:49:42 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-03-23 13:49:42 : INFO] - Semaphore (smush, hit_options) was successfully cleaned up 
+[2020-03-23 13:49:42 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-03-23 13:59:39 : INFO] - 
+ 
+[2020-03-23 13:59:39 : INFO] - Header for logs at time:  Mon, 23 Mar 2020 13:59:39 +0000 on https://www.hitools.fr 
+[2020-03-23 13:59:39 : INFO] - WP: 5.3.2 
+[2020-03-23 13:59:39 : INFO] - PHP: 7.2.28 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-23 13:59:39 : INFO] - MySQL: 5.5.60 
+[2020-03-23 13:59:39 : INFO] - WPLANG: fr_FR 
+[2020-03-23 13:59:39 : INFO] - Server: Apache 
+[2020-03-23 13:59:39 : INFO] - Outbound connections: N 
+[2020-03-23 13:59:39 : INFO] - safe_mode: 0 
+[2020-03-23 13:59:39 : INFO] - max_execution_time: 50000 
+[2020-03-23 13:59:39 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-23 13:59:39 : INFO] - multisite: N 
+[2020-03-23 13:59:39 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-23 13:59:39 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-03-23 14:24:14 : INFO] - Re_Smush_It_Task with attachment ID : 1139, autocreated on : March 23, 2020 02:24:14 
+[2020-03-23 14:29:24 : INFO] - 
+ 
+[2020-03-23 14:29:24 : INFO] - Header for logs at time:  Mon, 23 Mar 2020 14:29:24 +0000 on https://www.hitools.fr 
+[2020-03-23 14:29:24 : INFO] - WP: 5.3.2 
+[2020-03-23 14:29:24 : INFO] - PHP: 7.2.28 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-23 14:29:24 : INFO] - MySQL: 5.5.60 
+[2020-03-23 14:29:24 : INFO] - WPLANG: fr_FR 
+[2020-03-23 14:29:24 : INFO] - Server: Apache 
+[2020-03-23 14:29:24 : INFO] - Outbound connections: N 
+[2020-03-23 14:29:24 : INFO] - safe_mode: 0 
+[2020-03-23 14:29:24 : INFO] - max_execution_time: 50000 
+[2020-03-23 14:29:24 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-23 14:29:24 : INFO] - multisite: N 
+[2020-03-23 14:29:24 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-23 14:29:24 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-03-23 14:29:24 : INFO] - Set semaphore last lock (smush) time to 2020-03-23 14:29:24 
+[2020-03-23 14:29:24 : INFO] - Semaphore lock (smush) complete 
+[2020-03-23 14:29:24 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2020-03-23 14:29:24 : INFO] - Re_Smush_It_Task with attachment ID : 1139, autocreated on : March 23, 2020 02:24:14 
+[2020-03-23 14:29:24 : INFO] - 100 
+[2020-03-23 14:29:25 : INFO] - Backing up the original image - 2020/03/omnikeyr-5427-ck_hitools-updraft-pre-smush-original.png 
+[2020-03-23 14:29:25 : INFO] - Re_Smush_It_Task with attachment ID : 1139, autocreated on : March 23, 2020 02:24:14 
+[2020-03-23 14:29:25 : INFO] - 100 
+[2020-03-23 14:29:25 : INFO] - Re_Smush_It_Task with attachment ID : 1139, autocreated on : March 23, 2020 02:24:14 
+[2020-03-23 14:29:25 : INFO] - 100 
+[2020-03-23 14:29:25 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2020/03/omnikeyr-5427-ck_hitools.png.Le fichier a été compressé de 30.06 KB à 11.53 KB en réduisant de 61.66 pourcent avec WP-Optimize. 
+[2020-03-23 14:29:25 : INFO] - Completed processing task with ID : 14, and type 'smush' 
+[2020-03-23 14:29:25 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-23 14:29:25 : INFO] - Semaphore (smush) unlocked 
+[2020-03-23 14:29:25 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-03-23 14:29:25 : INFO] - Semaphore (smush, hit_options) was successfully cleaned up 
+[2020-03-23 14:29:25 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-03-23 14:40:35 : INFO] - 
+ 
+[2020-03-23 14:40:35 : INFO] - Header for logs at time:  Mon, 23 Mar 2020 14:40:35 +0000 on http://www.hitools.fr 
+[2020-03-23 14:40:35 : INFO] - WP: 5.3.2 
+[2020-03-23 14:40:35 : INFO] - PHP: 7.2.28 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-23 14:40:35 : INFO] - MySQL: 5.5.60 
+[2020-03-23 14:40:35 : INFO] - WPLANG: fr_FR 
+[2020-03-23 14:40:35 : INFO] - Server: Apache 
+[2020-03-23 14:40:35 : INFO] - Outbound connections: N 
+[2020-03-23 14:40:35 : INFO] - safe_mode: 0 
+[2020-03-23 14:40:35 : INFO] - max_execution_time: 50000 
+[2020-03-23 14:40:35 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-23 14:40:35 : INFO] - multisite: N 
+[2020-03-23 14:40:35 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-23 14:40:35 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-03-25 10:06:08 : INFO] - Re_Smush_It_Task with attachment ID : 1141, autocreated on : March 25, 2020 10:06:08 
+[2020-03-25 10:11:17 : INFO] - 
+ 
+[2020-03-25 10:11:17 : INFO] - Header for logs at time:  Wed, 25 Mar 2020 10:11:17 +0000 on https://www.hitools.fr 
+[2020-03-25 10:11:17 : INFO] - WP: 5.3.2 
+[2020-03-25 10:11:17 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-25 10:11:17 : INFO] - MySQL: 5.5.60 
+[2020-03-25 10:11:17 : INFO] - WPLANG: fr_FR 
+[2020-03-25 10:11:17 : INFO] - Server: Apache 
+[2020-03-25 10:11:17 : INFO] - Outbound connections: N 
+[2020-03-25 10:11:17 : INFO] - safe_mode: 0 
+[2020-03-25 10:11:17 : INFO] - max_execution_time: 50000 
+[2020-03-25 10:11:17 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-25 10:11:17 : INFO] - multisite: N 
+[2020-03-25 10:11:17 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-25 10:11:17 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-03-25 10:11:17 : INFO] - Set semaphore last lock (smush) time to 2020-03-25 10:11:17 
+[2020-03-25 10:11:17 : INFO] - Semaphore lock (smush) complete 
+[2020-03-25 10:11:17 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2020-03-25 10:11:17 : INFO] - Re_Smush_It_Task with attachment ID : 1141, autocreated on : March 25, 2020 10:06:08 
+[2020-03-25 10:11:17 : INFO] - 100 
+[2020-03-25 10:11:17 : INFO] - Backing up the original image - 2020/03/Omnikey-5023-cl-hitools-updraft-pre-smush-original.png 
+[2020-03-25 10:11:17 : INFO] - Re_Smush_It_Task with attachment ID : 1141, autocreated on : March 25, 2020 10:06:08 
+[2020-03-25 10:11:17 : INFO] - 100 
+[2020-03-25 10:11:18 : INFO] - Re_Smush_It_Task with attachment ID : 1141, autocreated on : March 25, 2020 10:06:08 
+[2020-03-25 10:11:18 : INFO] - 100 
+[2020-03-25 10:11:18 : INFO] - Re_Smush_It_Task with attachment ID : 1141, autocreated on : March 25, 2020 10:06:08 
+[2020-03-25 10:11:18 : INFO] - 100 
+[2020-03-25 10:11:18 : INFO] - Re_Smush_It_Task with attachment ID : 1141, autocreated on : March 25, 2020 10:06:08 
+[2020-03-25 10:11:18 : INFO] - 100 
+[2020-03-25 10:11:19 : INFO] - Re_Smush_It_Task with attachment ID : 1141, autocreated on : March 25, 2020 10:06:08 
+[2020-03-25 10:11:19 : INFO] - 100 
+[2020-03-25 10:11:19 : INFO] - Re_Smush_It_Task with attachment ID : 1141, autocreated on : March 25, 2020 10:06:08 
+[2020-03-25 10:11:19 : INFO] - 100 
+[2020-03-25 10:11:19 : INFO] - Re_Smush_It_Task with attachment ID : 1141, autocreated on : March 25, 2020 10:06:08 
+[2020-03-25 10:11:19 : INFO] - 100 
+[2020-03-25 10:11:20 : INFO] - Re_Smush_It_Task with attachment ID : 1141, autocreated on : March 25, 2020 10:06:08 
+[2020-03-25 10:11:20 : INFO] - 100 
+[2020-03-25 10:11:20 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2020/03/Omnikey-5023-cl-hitools.png.Le fichier a été compressé de 379.09 KB à 114.15 KB en réduisant de 69.89 pourcent avec WP-Optimize. 
+[2020-03-25 10:11:20 : INFO] - Completed processing task with ID : 15, and type 'smush' 
+[2020-03-25 10:11:20 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-25 10:11:20 : INFO] - Semaphore (smush) unlocked 
+[2020-03-25 10:11:20 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-03-25 10:11:20 : INFO] - Semaphore (smush, hit_options) was successfully cleaned up 
+[2020-03-25 10:11:20 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-03-25 10:21:28 : INFO] - 
+ 
+[2020-03-25 10:21:28 : INFO] - Header for logs at time:  Wed, 25 Mar 2020 10:21:28 +0000 on https://www.hitools.fr 
+[2020-03-25 10:21:28 : INFO] - WP: 5.3.2 
+[2020-03-25 10:21:28 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-25 10:21:28 : INFO] - MySQL: 5.5.60 
+[2020-03-25 10:21:28 : INFO] - WPLANG: fr_FR 
+[2020-03-25 10:21:28 : INFO] - Server: Apache 
+[2020-03-25 10:21:28 : INFO] - Outbound connections: N 
+[2020-03-25 10:21:28 : INFO] - safe_mode: 0 
+[2020-03-25 10:21:28 : INFO] - max_execution_time: 50000 
+[2020-03-25 10:21:28 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-25 10:21:28 : INFO] - multisite: N 
+[2020-03-25 10:21:28 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-25 10:21:28 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-03-25 10:25:06 : INFO] - Re_Smush_It_Task with attachment ID : 1144, autocreated on : March 25, 2020 10:25:06 
+[2020-03-25 10:30:13 : INFO] - 
+ 
+[2020-03-25 10:30:13 : INFO] - Header for logs at time:  Wed, 25 Mar 2020 10:30:13 +0000 on https://www.hitools.fr 
+[2020-03-25 10:30:13 : INFO] - WP: 5.3.2 
+[2020-03-25 10:30:13 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-25 10:30:13 : INFO] - MySQL: 5.5.60 
+[2020-03-25 10:30:13 : INFO] - WPLANG: fr_FR 
+[2020-03-25 10:30:13 : INFO] - Server: Apache 
+[2020-03-25 10:30:13 : INFO] - Outbound connections: N 
+[2020-03-25 10:30:13 : INFO] - safe_mode: 0 
+[2020-03-25 10:30:13 : INFO] - max_execution_time: 50000 
+[2020-03-25 10:30:13 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-25 10:30:13 : INFO] - multisite: N 
+[2020-03-25 10:30:13 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-25 10:30:13 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-03-25 10:30:13 : INFO] - Set semaphore last lock (smush) time to 2020-03-25 10:30:13 
+[2020-03-25 10:30:13 : INFO] - Semaphore lock (smush) complete 
+[2020-03-25 10:30:13 : INFO] - Processing task with ID : 16, and type 'smush' 
+[2020-03-25 10:30:13 : INFO] - Re_Smush_It_Task with attachment ID : 1144, autocreated on : March 25, 2020 10:25:06 
+[2020-03-25 10:30:13 : INFO] - 100 
+[2020-03-25 10:30:13 : INFO] - Backing up the original image - 2020/03/ominkey-5027-ck-hitools-updraft-pre-smush-original.png 
+[2020-03-25 10:30:13 : INFO] - Re_Smush_It_Task with attachment ID : 1144, autocreated on : March 25, 2020 10:25:06 
+[2020-03-25 10:30:13 : INFO] - 100 
+[2020-03-25 10:30:15 : INFO] - Re_Smush_It_Task with attachment ID : 1144, autocreated on : March 25, 2020 10:25:06 
+[2020-03-25 10:30:15 : INFO] - 100 
+[2020-03-25 10:30:15 : INFO] - Re_Smush_It_Task with attachment ID : 1144, autocreated on : March 25, 2020 10:25:06 
+[2020-03-25 10:30:15 : INFO] - 100 
+[2020-03-25 10:30:15 : INFO] - Re_Smush_It_Task with attachment ID : 1144, autocreated on : March 25, 2020 10:25:06 
+[2020-03-25 10:30:15 : INFO] - 100 
+[2020-03-25 10:30:15 : INFO] - Re_Smush_It_Task with attachment ID : 1144, autocreated on : March 25, 2020 10:25:06 
+[2020-03-25 10:30:15 : INFO] - 100 
+[2020-03-25 10:30:16 : INFO] - Re_Smush_It_Task with attachment ID : 1144, autocreated on : March 25, 2020 10:25:06 
+[2020-03-25 10:30:16 : INFO] - 100 
+[2020-03-25 10:30:17 : INFO] - Re_Smush_It_Task with attachment ID : 1144, autocreated on : March 25, 2020 10:25:06 
+[2020-03-25 10:30:17 : INFO] - 100 
+[2020-03-25 10:30:17 : INFO] - Re_Smush_It_Task with attachment ID : 1144, autocreated on : March 25, 2020 10:25:06 
+[2020-03-25 10:30:17 : INFO] - 100 
+[2020-03-25 10:30:17 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2020/03/ominkey-5027-ck-hitools.png.Le fichier a été compressé de 379.09 KB à 114.15 KB en réduisant de 69.89 pourcent avec WP-Optimize. 
+[2020-03-25 10:30:17 : INFO] - Completed processing task with ID : 16, and type 'smush' 
+[2020-03-25 10:30:17 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-25 10:30:17 : INFO] - Semaphore (smush) unlocked 
+[2020-03-25 10:30:17 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-03-25 10:30:17 : INFO] - Semaphore (smush, hit_options) was successfully cleaned up 
+[2020-03-25 10:30:17 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-03-25 10:37:23 : INFO] - Re_Smush_It_Task with attachment ID : 1146, autocreated on : March 25, 2020 10:37:23 
+[2020-03-25 10:40:15 : INFO] - 
+ 
+[2020-03-25 10:40:15 : INFO] - Header for logs at time:  Wed, 25 Mar 2020 10:40:15 +0000 on https://www.hitools.fr 
+[2020-03-25 10:40:15 : INFO] - WP: 5.3.2 
+[2020-03-25 10:40:15 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-25 10:40:15 : INFO] - MySQL: 5.5.60 
+[2020-03-25 10:40:15 : INFO] - WPLANG: fr_FR 
+[2020-03-25 10:40:15 : INFO] - Server: Apache 
+[2020-03-25 10:40:15 : INFO] - Outbound connections: N 
+[2020-03-25 10:40:15 : INFO] - safe_mode: 0 
+[2020-03-25 10:40:15 : INFO] - max_execution_time: 50000 
+[2020-03-25 10:40:15 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-25 10:40:15 : INFO] - multisite: N 
+[2020-03-25 10:40:15 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-25 10:40:15 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-03-25 10:40:15 : INFO] - Set semaphore last lock (smush) time to 2020-03-25 10:40:15 
+[2020-03-25 10:40:15 : INFO] - Semaphore lock (smush) complete 
+[2020-03-25 10:40:15 : INFO] - Processing task with ID : 17, and type 'smush' 
+[2020-03-25 10:40:15 : INFO] - Re_Smush_It_Task with attachment ID : 1146, autocreated on : March 25, 2020 10:37:23 
+[2020-03-25 10:40:15 : INFO] - 100 
+[2020-03-25 10:40:15 : INFO] - Backing up the original image - 2020/03/omnikey-5427-ck-gen2-bt_hitools-updraft-pre-smush-original.png 
+[2020-03-25 10:40:15 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2020/03/omnikey-5427-ck-gen2-bt_hitools.png.Le fichier a été compressé de 9.46 KB à 4.05 KB en réduisant de 57.17 pourcent avec WP-Optimize. 
+[2020-03-25 10:40:15 : INFO] - Completed processing task with ID : 17, and type 'smush' 
+[2020-03-25 10:40:15 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-25 10:40:15 : INFO] - Semaphore (smush) unlocked 
+[2020-03-25 10:40:15 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-03-25 10:40:15 : INFO] - Semaphore (smush, hit_options) was successfully cleaned up 
+[2020-03-25 10:40:15 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-03-25 10:51:01 : INFO] - 
+ 
+[2020-03-25 10:51:01 : INFO] - Header for logs at time:  Wed, 25 Mar 2020 10:51:01 +0000 on https://www.hitools.fr 
+[2020-03-25 10:51:01 : INFO] - WP: 5.3.2 
+[2020-03-25 10:51:01 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-25 10:51:01 : INFO] - MySQL: 5.5.60 
+[2020-03-25 10:51:01 : INFO] - WPLANG: fr_FR 
+[2020-03-25 10:51:01 : INFO] - Server: Apache 
+[2020-03-25 10:51:01 : INFO] - Outbound connections: N 
+[2020-03-25 10:51:01 : INFO] - safe_mode: 0 
+[2020-03-25 10:51:01 : INFO] - max_execution_time: 50000 
+[2020-03-25 10:51:01 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-25 10:51:01 : INFO] - multisite: N 
+[2020-03-25 10:51:01 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-25 10:51:01 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-03-26 17:00:38 : INFO] - Re_Smush_It_Task with attachment ID : 1148, autocreated on : March 26, 2020 05:00:38 
+[2020-03-26 17:05:52 : INFO] - 
+ 
+[2020-03-26 17:05:52 : INFO] - Header for logs at time:  Thu, 26 Mar 2020 17:05:52 +0000 on https://www.hitools.fr 
+[2020-03-26 17:05:52 : INFO] - WP: 5.3.2 
+[2020-03-26 17:05:52 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-26 17:05:52 : INFO] - MySQL: 5.5.60 
+[2020-03-26 17:05:52 : INFO] - WPLANG: fr_FR 
+[2020-03-26 17:05:52 : INFO] - Server: Apache 
+[2020-03-26 17:05:52 : INFO] - Outbound connections: N 
+[2020-03-26 17:05:52 : INFO] - safe_mode: 0 
+[2020-03-26 17:05:52 : INFO] - max_execution_time: 50000 
+[2020-03-26 17:05:52 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-26 17:05:52 : INFO] - multisite: N 
+[2020-03-26 17:05:52 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-26 17:05:52 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-03-26 17:05:52 : INFO] - Set semaphore last lock (smush) time to 2020-03-26 17:05:52 
+[2020-03-26 17:05:52 : INFO] - Semaphore lock (smush) complete 
+[2020-03-26 17:05:52 : INFO] - Processing task with ID : 18, and type 'smush' 
+[2020-03-26 17:05:52 : INFO] - Re_Smush_It_Task with attachment ID : 1148, autocreated on : March 26, 2020 05:00:38 
+[2020-03-26 17:05:52 : INFO] - 100 
+[2020-03-26 17:05:53 : INFO] - Backing up the original image - 2020/03/ACGPass_desktop_hitools-updraft-pre-smush-original.gif 
+[2020-03-26 17:05:53 : INFO] - Re_Smush_It_Task with attachment ID : 1148, autocreated on : March 26, 2020 05:00:38 
+[2020-03-26 17:05:53 : INFO] - 100 
+[2020-03-26 17:05:53 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2020/03/ACGPass_desktop_hitools.gif.Le fichier a été compressé de 9.72 KB à 9.72 KB en réduisant de 0 pourcent avec WP-Optimize. 
+[2020-03-26 17:05:53 : INFO] - Completed processing task with ID : 18, and type 'smush' 
+[2020-03-26 17:05:53 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-26 17:05:53 : INFO] - Semaphore (smush) unlocked 
+[2020-03-26 17:05:53 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-03-26 17:05:53 : INFO] - Semaphore (smush, hit_options) was successfully cleaned up 
+[2020-03-26 17:05:53 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-03-26 17:17:00 : INFO] - 
+ 
+[2020-03-26 17:17:00 : INFO] - Header for logs at time:  Thu, 26 Mar 2020 17:17:00 +0000 on https://www.hitools.fr 
+[2020-03-26 17:17:00 : INFO] - WP: 5.3.2 
+[2020-03-26 17:17:00 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-26 17:17:00 : INFO] - MySQL: 5.5.60 
+[2020-03-26 17:17:00 : INFO] - WPLANG: fr_FR 
+[2020-03-26 17:17:00 : INFO] - Server: Apache 
+[2020-03-26 17:17:00 : INFO] - Outbound connections: N 
+[2020-03-26 17:17:00 : INFO] - safe_mode: 0 
+[2020-03-26 17:17:00 : INFO] - max_execution_time: 50000 
+[2020-03-26 17:17:00 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-26 17:17:00 : INFO] - multisite: N 
+[2020-03-26 17:17:00 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-26 17:17:00 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-03-26 17:38:12 : INFO] - Re_Smush_It_Task with attachment ID : 1151, autocreated on : March 26, 2020 05:38:12 
+[2020-03-26 17:43:26 : INFO] - 
+ 
+[2020-03-26 17:43:26 : INFO] - Header for logs at time:  Thu, 26 Mar 2020 17:43:26 +0000 on https://www.hitools.fr 
+[2020-03-26 17:43:26 : INFO] - WP: 5.3.2 
+[2020-03-26 17:43:26 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-26 17:43:26 : INFO] - MySQL: 5.5.60 
+[2020-03-26 17:43:26 : INFO] - WPLANG: fr_FR 
+[2020-03-26 17:43:26 : INFO] - Server: Apache 
+[2020-03-26 17:43:26 : INFO] - Outbound connections: N 
+[2020-03-26 17:43:26 : INFO] - safe_mode: 0 
+[2020-03-26 17:43:26 : INFO] - max_execution_time: 50000 
+[2020-03-26 17:43:26 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-26 17:43:26 : INFO] - multisite: N 
+[2020-03-26 17:43:26 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-26 17:43:26 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-03-26 17:43:26 : INFO] - Set semaphore last lock (smush) time to 2020-03-26 17:43:26 
+[2020-03-26 17:43:26 : INFO] - Semaphore lock (smush) complete 
+[2020-03-26 17:43:26 : INFO] - Processing task with ID : 19, and type 'smush' 
+[2020-03-26 17:43:26 : INFO] - Re_Smush_It_Task with attachment ID : 1151, autocreated on : March 26, 2020 05:38:12 
+[2020-03-26 17:43:26 : INFO] - 100 
+[2020-03-26 17:43:26 : INFO] - Backing up the original image - 2020/03/Omnikey_5321_CL_hitools-updraft-pre-smush-original.jpg 
+[2020-03-26 17:43:26 : INFO] - Re_Smush_It_Task with attachment ID : 1151, autocreated on : March 26, 2020 05:38:12 
+[2020-03-26 17:43:26 : INFO] - 100 
+[2020-03-26 17:43:26 : INFO] - Re_Smush_It_Task with attachment ID : 1151, autocreated on : March 26, 2020 05:38:12 
+[2020-03-26 17:43:26 : INFO] - 100 
+[2020-03-26 17:43:26 : INFO] - Re_Smush_It_Task with attachment ID : 1151, autocreated on : March 26, 2020 05:38:12 
+[2020-03-26 17:43:26 : INFO] - 100 
+[2020-03-26 17:43:27 : INFO] - Re_Smush_It_Task with attachment ID : 1151, autocreated on : March 26, 2020 05:38:12 
+[2020-03-26 17:43:27 : INFO] - 100 
+[2020-03-26 17:43:27 : INFO] - Re_Smush_It_Task with attachment ID : 1151, autocreated on : March 26, 2020 05:38:12 
+[2020-03-26 17:43:27 : INFO] - 100 
+[2020-03-26 17:43:27 : INFO] - Re_Smush_It_Task with attachment ID : 1151, autocreated on : March 26, 2020 05:38:12 
+[2020-03-26 17:43:27 : INFO] - 100 
+[2020-03-26 17:43:27 : INFO] - Re_Smush_It_Task with attachment ID : 1151, autocreated on : March 26, 2020 05:38:12 
+[2020-03-26 17:43:27 : INFO] - 100 
+[2020-03-26 17:43:27 : INFO] - Re_Smush_It_Task with attachment ID : 1151, autocreated on : March 26, 2020 05:38:12 
+[2020-03-26 17:43:27 : INFO] - 100 
+[2020-03-26 17:43:28 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2020/03/Omnikey_5321_CL_hitools.jpg.Le fichier a été compressé de 6.43 KB à 6.43 KB en réduisant de 0 pourcent avec WP-Optimize. 
+[2020-03-26 17:43:28 : INFO] - Completed processing task with ID : 19, and type 'smush' 
+[2020-03-26 17:43:28 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-26 17:43:28 : INFO] - Semaphore (smush) unlocked 
+[2020-03-26 17:43:28 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-03-26 17:43:28 : INFO] - Semaphore (smush, hit_options) was successfully cleaned up 
+[2020-03-26 17:43:28 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-03-26 17:53:38 : INFO] - 
+ 
+[2020-03-26 17:53:38 : INFO] - Header for logs at time:  Thu, 26 Mar 2020 17:53:38 +0000 on https://www.hitools.fr 
+[2020-03-26 17:53:38 : INFO] - WP: 5.3.2 
+[2020-03-26 17:53:38 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-26 17:53:38 : INFO] - MySQL: 5.5.60 
+[2020-03-26 17:53:38 : INFO] - WPLANG: fr_FR 
+[2020-03-26 17:53:38 : INFO] - Server: Apache 
+[2020-03-26 17:53:38 : INFO] - Outbound connections: N 
+[2020-03-26 17:53:38 : INFO] - safe_mode: 0 
+[2020-03-26 17:53:38 : INFO] - max_execution_time: 50000 
+[2020-03-26 17:53:38 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-26 17:53:38 : INFO] - multisite: N 
+[2020-03-26 17:53:38 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-26 17:53:38 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-03-27 08:54:36 : INFO] - Re_Smush_It_Task with attachment ID : 1153, autocreated on : March 27, 2020 08:54:36 
+[2020-03-27 08:59:43 : INFO] - 
+ 
+[2020-03-27 08:59:43 : INFO] - Header for logs at time:  Fri, 27 Mar 2020 08:59:43 +0000 on https://www.hitools.fr 
+[2020-03-27 08:59:43 : INFO] - WP: 5.3.2 
+[2020-03-27 08:59:43 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-27 08:59:43 : INFO] - MySQL: 5.5.60 
+[2020-03-27 08:59:43 : INFO] - WPLANG: fr_FR 
+[2020-03-27 08:59:43 : INFO] - Server: Apache 
+[2020-03-27 08:59:43 : INFO] - Outbound connections: N 
+[2020-03-27 08:59:43 : INFO] - safe_mode: 0 
+[2020-03-27 08:59:43 : INFO] - max_execution_time: 50000 
+[2020-03-27 08:59:43 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-27 08:59:43 : INFO] - multisite: N 
+[2020-03-27 08:59:43 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-27 08:59:43 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-03-27 08:59:43 : INFO] - Set semaphore last lock (smush) time to 2020-03-27 08:59:43 
+[2020-03-27 08:59:43 : INFO] - Semaphore lock (smush) complete 
+[2020-03-27 08:59:43 : INFO] - Processing task with ID : 20, and type 'smush' 
+[2020-03-27 08:59:43 : INFO] - Re_Smush_It_Task with attachment ID : 1153, autocreated on : March 27, 2020 08:54:36 
+[2020-03-27 08:59:43 : INFO] - 100 
+[2020-03-27 08:59:43 : INFO] - Backing up the original image - 2020/03/Omnikey_6321_hitools-updraft-pre-smush-original.jpg 
+[2020-03-27 08:59:43 : INFO] - Re_Smush_It_Task with attachment ID : 1153, autocreated on : March 27, 2020 08:54:36 
+[2020-03-27 08:59:43 : INFO] - 100 
+[2020-03-27 08:59:43 : INFO] - Re_Smush_It_Task with attachment ID : 1153, autocreated on : March 27, 2020 08:54:36 
+[2020-03-27 08:59:43 : INFO] - 100 
+[2020-03-27 08:59:43 : INFO] - Re_Smush_It_Task with attachment ID : 1153, autocreated on : March 27, 2020 08:54:36 
+[2020-03-27 08:59:43 : INFO] - 100 
+[2020-03-27 08:59:43 : INFO] - Re_Smush_It_Task with attachment ID : 1153, autocreated on : March 27, 2020 08:54:36 
+[2020-03-27 08:59:43 : INFO] - 100 
+[2020-03-27 08:59:43 : INFO] - Re_Smush_It_Task with attachment ID : 1153, autocreated on : March 27, 2020 08:54:36 
+[2020-03-27 08:59:43 : INFO] - 100 
+[2020-03-27 08:59:44 : INFO] - Re_Smush_It_Task with attachment ID : 1153, autocreated on : March 27, 2020 08:54:36 
+[2020-03-27 08:59:44 : INFO] - 100 
+[2020-03-27 08:59:44 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2020/03/Omnikey_6321_hitools.jpg.Le fichier a été compressé de 6.23 KB à 6.23 KB en réduisant de 0 pourcent avec WP-Optimize. 
+[2020-03-27 08:59:44 : INFO] - Completed processing task with ID : 20, and type 'smush' 
+[2020-03-27 08:59:44 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-27 08:59:44 : INFO] - Semaphore (smush) unlocked 
+[2020-03-27 08:59:44 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-03-27 08:59:44 : INFO] - Semaphore (smush, hit_options) was successfully cleaned up 
+[2020-03-27 08:59:44 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-03-27 09:09:49 : INFO] - 
+ 
+[2020-03-27 09:09:49 : INFO] - Header for logs at time:  Fri, 27 Mar 2020 09:09:49 +0000 on https://www.hitools.fr 
+[2020-03-27 09:09:49 : INFO] - WP: 5.3.2 
+[2020-03-27 09:09:49 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-27 09:09:49 : INFO] - MySQL: 5.5.60 
+[2020-03-27 09:09:49 : INFO] - WPLANG: fr_FR 
+[2020-03-27 09:09:49 : INFO] - Server: Apache 
+[2020-03-27 09:09:49 : INFO] - Outbound connections: N 
+[2020-03-27 09:09:49 : INFO] - safe_mode: 0 
+[2020-03-27 09:09:49 : INFO] - max_execution_time: 50000 
+[2020-03-27 09:09:49 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-27 09:09:49 : INFO] - multisite: N 
+[2020-03-27 09:09:49 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-27 09:09:49 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-03-27 09:15:19 : INFO] - Re_Smush_It_Task with attachment ID : 1155, autocreated on : March 27, 2020 09:15:18 
+[2020-03-27 09:20:29 : INFO] - 
+ 
+[2020-03-27 09:20:29 : INFO] - Header for logs at time:  Fri, 27 Mar 2020 09:20:29 +0000 on https://www.hitools.fr 
+[2020-03-27 09:20:29 : INFO] - WP: 5.3.2 
+[2020-03-27 09:20:29 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-27 09:20:29 : INFO] - MySQL: 5.5.60 
+[2020-03-27 09:20:29 : INFO] - WPLANG: fr_FR 
+[2020-03-27 09:20:29 : INFO] - Server: Apache 
+[2020-03-27 09:20:29 : INFO] - Outbound connections: N 
+[2020-03-27 09:20:29 : INFO] - safe_mode: 0 
+[2020-03-27 09:20:29 : INFO] - max_execution_time: 50000 
+[2020-03-27 09:20:29 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-27 09:20:29 : INFO] - multisite: N 
+[2020-03-27 09:20:29 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-27 09:20:29 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-03-27 09:20:29 : INFO] - Set semaphore last lock (smush) time to 2020-03-27 09:20:29 
+[2020-03-27 09:20:29 : INFO] - Semaphore lock (smush) complete 
+[2020-03-27 09:20:29 : INFO] - Processing task with ID : 21, and type 'smush' 
+[2020-03-27 09:20:30 : INFO] - Re_Smush_It_Task with attachment ID : 1155, autocreated on : March 27, 2020 09:15:18 
+[2020-03-27 09:20:30 : INFO] - 100 
+[2020-03-27 09:20:31 : INFO] - Backing up the original image - 2020/03/Omnikey_3021_hitools-updraft-pre-smush-original.jpg 
+[2020-03-27 09:20:31 : INFO] - Re_Smush_It_Task with attachment ID : 1155, autocreated on : March 27, 2020 09:15:18 
+[2020-03-27 09:20:31 : INFO] - 100 
+[2020-03-27 09:20:31 : INFO] - Re_Smush_It_Task with attachment ID : 1155, autocreated on : March 27, 2020 09:15:18 
+[2020-03-27 09:20:31 : INFO] - 100 
+[2020-03-27 09:20:31 : INFO] - Re_Smush_It_Task with attachment ID : 1155, autocreated on : March 27, 2020 09:15:18 
+[2020-03-27 09:20:31 : INFO] - 100 
+[2020-03-27 09:20:31 : INFO] - Re_Smush_It_Task with attachment ID : 1155, autocreated on : March 27, 2020 09:15:18 
+[2020-03-27 09:20:31 : INFO] - 100 
+[2020-03-27 09:20:31 : INFO] - Re_Smush_It_Task with attachment ID : 1155, autocreated on : March 27, 2020 09:15:18 
+[2020-03-27 09:20:31 : INFO] - 100 
+[2020-03-27 09:20:31 : INFO] - Re_Smush_It_Task with attachment ID : 1155, autocreated on : March 27, 2020 09:15:18 
+[2020-03-27 09:20:31 : INFO] - 100 
+[2020-03-27 09:20:31 : INFO] - Re_Smush_It_Task with attachment ID : 1155, autocreated on : March 27, 2020 09:15:18 
+[2020-03-27 09:20:31 : INFO] - 100 
+[2020-03-27 09:20:31 : INFO] - Re_Smush_It_Task with attachment ID : 1155, autocreated on : March 27, 2020 09:15:18 
+[2020-03-27 09:20:31 : INFO] - 100 
+[2020-03-27 09:20:32 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2020/03/Omnikey_3021_hitools.jpg.Le fichier a été compressé de 10.27 KB à 10.27 KB en réduisant de 0 pourcent avec WP-Optimize. 
+[2020-03-27 09:20:32 : INFO] - Completed processing task with ID : 21, and type 'smush' 
+[2020-03-27 09:20:32 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-27 09:20:32 : INFO] - Semaphore (smush) unlocked 
+[2020-03-27 09:20:32 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-03-27 09:20:32 : INFO] - Semaphore (smush, hit_options) was successfully cleaned up 
+[2020-03-27 09:20:32 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-03-27 09:31:10 : INFO] - 
+ 
+[2020-03-27 09:31:10 : INFO] - Header for logs at time:  Fri, 27 Mar 2020 09:31:10 +0000 on https://www.hitools.fr 
+[2020-03-27 09:31:10 : INFO] - WP: 5.3.2 
+[2020-03-27 09:31:10 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-27 09:31:10 : INFO] - MySQL: 5.5.60 
+[2020-03-27 09:31:10 : INFO] - WPLANG: fr_FR 
+[2020-03-27 09:31:10 : INFO] - Server: Apache 
+[2020-03-27 09:31:10 : INFO] - Outbound connections: N 
+[2020-03-27 09:31:10 : INFO] - safe_mode: 0 
+[2020-03-27 09:31:10 : INFO] - max_execution_time: 50000 
+[2020-03-27 09:31:10 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-27 09:31:10 : INFO] - multisite: N 
+[2020-03-27 09:31:10 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-27 09:31:10 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-03-27 09:37:57 : INFO] - Re_Smush_It_Task with attachment ID : 1157, autocreated on : March 27, 2020 09:37:57 
+[2020-03-27 09:43:11 : INFO] - 
+ 
+[2020-03-27 09:43:11 : INFO] - Header for logs at time:  Fri, 27 Mar 2020 09:43:11 +0000 on https://www.hitools.fr 
+[2020-03-27 09:43:11 : INFO] - WP: 5.3.2 
+[2020-03-27 09:43:11 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-27 09:43:11 : INFO] - MySQL: 5.5.60 
+[2020-03-27 09:43:11 : INFO] - WPLANG: fr_FR 
+[2020-03-27 09:43:11 : INFO] - Server: Apache 
+[2020-03-27 09:43:11 : INFO] - Outbound connections: N 
+[2020-03-27 09:43:11 : INFO] - safe_mode: 0 
+[2020-03-27 09:43:11 : INFO] - max_execution_time: 50000 
+[2020-03-27 09:43:11 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-27 09:43:11 : INFO] - multisite: N 
+[2020-03-27 09:43:11 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-27 09:43:11 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-03-27 09:43:11 : INFO] - Set semaphore last lock (smush) time to 2020-03-27 09:43:11 
+[2020-03-27 09:43:11 : INFO] - Semaphore lock (smush) complete 
+[2020-03-27 09:43:11 : INFO] - Processing task with ID : 22, and type 'smush' 
+[2020-03-27 09:43:11 : INFO] - Re_Smush_It_Task with attachment ID : 1157, autocreated on : March 27, 2020 09:37:57 
+[2020-03-27 09:43:11 : INFO] - 100 
+[2020-03-27 09:43:11 : INFO] - Backing up the original image - 2020/03/Omnikey_6121_hitools-updraft-pre-smush-original.jpg 
+[2020-03-27 09:43:11 : INFO] - Re_Smush_It_Task with attachment ID : 1157, autocreated on : March 27, 2020 09:37:57 
+[2020-03-27 09:43:11 : INFO] - 100 
+[2020-03-27 09:43:11 : INFO] - Re_Smush_It_Task with attachment ID : 1157, autocreated on : March 27, 2020 09:37:57 
+[2020-03-27 09:43:11 : INFO] - 100 
+[2020-03-27 09:43:11 : INFO] - Re_Smush_It_Task with attachment ID : 1157, autocreated on : March 27, 2020 09:37:57 
+[2020-03-27 09:43:11 : INFO] - 100 
+[2020-03-27 09:43:12 : INFO] - Re_Smush_It_Task with attachment ID : 1157, autocreated on : March 27, 2020 09:37:57 
+[2020-03-27 09:43:12 : INFO] - 100 
+[2020-03-27 09:43:12 : INFO] - Re_Smush_It_Task with attachment ID : 1157, autocreated on : March 27, 2020 09:37:57 
+[2020-03-27 09:43:12 : INFO] - 100 
+[2020-03-27 09:43:12 : INFO] - Re_Smush_It_Task with attachment ID : 1157, autocreated on : March 27, 2020 09:37:57 
+[2020-03-27 09:43:12 : INFO] - 100 
+[2020-03-27 09:43:12 : INFO] - Re_Smush_It_Task with attachment ID : 1157, autocreated on : March 27, 2020 09:37:57 
+[2020-03-27 09:43:12 : INFO] - 100 
+[2020-03-27 09:43:12 : INFO] - Re_Smush_It_Task with attachment ID : 1157, autocreated on : March 27, 2020 09:37:57 
+[2020-03-27 09:43:12 : INFO] - 100 
+[2020-03-27 09:43:12 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2020/03/Omnikey_6121_hitools.jpg.Le fichier a été compressé de 7.08 KB à 7.08 KB en réduisant de 0 pourcent avec WP-Optimize. 
+[2020-03-27 09:43:12 : INFO] - Completed processing task with ID : 22, and type 'smush' 
+[2020-03-27 09:43:12 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-27 09:43:12 : INFO] - Semaphore (smush) unlocked 
+[2020-03-27 09:43:12 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-03-27 09:43:12 : INFO] - Semaphore (smush, hit_options) was successfully cleaned up 
+[2020-03-27 09:43:12 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-03-27 09:53:16 : INFO] - 
+ 
+[2020-03-27 09:53:16 : INFO] - Header for logs at time:  Fri, 27 Mar 2020 09:53:16 +0000 on https://www.hitools.fr 
+[2020-03-27 09:53:16 : INFO] - WP: 5.3.2 
+[2020-03-27 09:53:16 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-27 09:53:16 : INFO] - MySQL: 5.5.60 
+[2020-03-27 09:53:16 : INFO] - WPLANG: fr_FR 
+[2020-03-27 09:53:16 : INFO] - Server: Apache 
+[2020-03-27 09:53:16 : INFO] - Outbound connections: N 
+[2020-03-27 09:53:16 : INFO] - safe_mode: 0 
+[2020-03-27 09:53:16 : INFO] - max_execution_time: 50000 
+[2020-03-27 09:53:16 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-27 09:53:16 : INFO] - multisite: N 
+[2020-03-27 09:53:16 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-27 09:53:16 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-03-27 10:36:01 : INFO] - Re_Smush_It_Task with attachment ID : 1159, autocreated on : March 27, 2020 10:36:01 
+[2020-03-27 10:41:15 : INFO] - 
+ 
+[2020-03-27 10:41:15 : INFO] - Header for logs at time:  Fri, 27 Mar 2020 10:41:15 +0000 on https://www.hitools.fr 
+[2020-03-27 10:41:15 : INFO] - WP: 5.3.2 
+[2020-03-27 10:41:15 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-27 10:41:15 : INFO] - MySQL: 5.5.60 
+[2020-03-27 10:41:15 : INFO] - WPLANG: fr_FR 
+[2020-03-27 10:41:15 : INFO] - Server: Apache 
+[2020-03-27 10:41:15 : INFO] - Outbound connections: N 
+[2020-03-27 10:41:15 : INFO] - safe_mode: 0 
+[2020-03-27 10:41:15 : INFO] - max_execution_time: 50000 
+[2020-03-27 10:41:15 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-27 10:41:15 : INFO] - multisite: N 
+[2020-03-27 10:41:15 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-27 10:41:15 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-03-27 10:41:15 : INFO] - Set semaphore last lock (smush) time to 2020-03-27 10:41:15 
+[2020-03-27 10:41:15 : INFO] - Semaphore lock (smush) complete 
+[2020-03-27 10:41:15 : INFO] - Processing task with ID : 23, and type 'smush' 
+[2020-03-27 10:41:15 : INFO] - Re_Smush_It_Task with attachment ID : 1159, autocreated on : March 27, 2020 10:36:01 
+[2020-03-27 10:41:15 : INFO] - 100 
+[2020-03-27 10:41:15 : INFO] - Backing up the original image - 2020/03/ok-5025cl-hitools-updraft-pre-smush-original.png 
+[2020-03-27 10:41:15 : INFO] - Re_Smush_It_Task with attachment ID : 1159, autocreated on : March 27, 2020 10:36:01 
+[2020-03-27 10:41:15 : INFO] - 100 
+[2020-03-27 10:41:15 : INFO] - Re_Smush_It_Task with attachment ID : 1159, autocreated on : March 27, 2020 10:36:01 
+[2020-03-27 10:41:15 : INFO] - 100 
+[2020-03-27 10:41:16 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2020/03/ok-5025cl-hitools.png.Le fichier a été compressé de 21.59 KB à 8.56 KB en réduisant de 60.35 pourcent avec WP-Optimize. 
+[2020-03-27 10:41:16 : INFO] - Completed processing task with ID : 23, and type 'smush' 
+[2020-03-27 10:41:16 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-27 10:41:16 : INFO] - Semaphore (smush) unlocked 
+[2020-03-27 10:41:16 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-03-27 10:41:16 : INFO] - Semaphore (smush, hit_options) was successfully cleaned up 
+[2020-03-27 10:41:16 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-03-27 10:52:53 : INFO] - 
+ 
+[2020-03-27 10:52:53 : INFO] - Header for logs at time:  Fri, 27 Mar 2020 10:52:53 +0000 on https://www.hitools.fr 
+[2020-03-27 10:52:53 : INFO] - WP: 5.3.2 
+[2020-03-27 10:52:53 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-27 10:52:53 : INFO] - MySQL: 5.5.60 
+[2020-03-27 10:52:53 : INFO] - WPLANG: fr_FR 
+[2020-03-27 10:52:53 : INFO] - Server: Apache 
+[2020-03-27 10:52:53 : INFO] - Outbound connections: N 
+[2020-03-27 10:52:53 : INFO] - safe_mode: 0 
+[2020-03-27 10:52:53 : INFO] - max_execution_time: 50000 
+[2020-03-27 10:52:53 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-27 10:52:53 : INFO] - multisite: N 
+[2020-03-27 10:52:53 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-27 10:52:53 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-03-27 14:19:52 : INFO] - Re_Smush_It_Task with attachment ID : 1161, autocreated on : March 27, 2020 02:19:52 
+[2020-03-27 14:40:50 : INFO] - Re_Smush_It_Task with attachment ID : 1163, autocreated on : March 27, 2020 02:40:50 
+[2020-03-27 15:01:06 : INFO] - Re_Smush_It_Task with attachment ID : 1165, autocreated on : March 27, 2020 03:01:06 
+[2020-03-27 15:06:07 : INFO] - 
+ 
+[2020-03-27 15:06:07 : INFO] - Header for logs at time:  Fri, 27 Mar 2020 15:06:07 +0000 on https://www.hitools.fr 
+[2020-03-27 15:06:07 : INFO] - WP: 5.3.2 
+[2020-03-27 15:06:07 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-27 15:06:07 : INFO] - MySQL: 5.5.60 
+[2020-03-27 15:06:07 : INFO] - WPLANG: fr_FR 
+[2020-03-27 15:06:07 : INFO] - Server: Apache 
+[2020-03-27 15:06:07 : INFO] - Outbound connections: N 
+[2020-03-27 15:06:07 : INFO] - safe_mode: 0 
+[2020-03-27 15:06:07 : INFO] - max_execution_time: 50000 
+[2020-03-27 15:06:07 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-27 15:06:07 : INFO] - multisite: N 
+[2020-03-27 15:06:07 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-27 15:06:07 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2020-03-27 15:06:07 : INFO] - Set semaphore last lock (smush) time to 2020-03-27 15:06:07 
+[2020-03-27 15:06:07 : INFO] - Semaphore lock (smush) complete 
+[2020-03-27 15:06:07 : INFO] - Processing task with ID : 26, and type 'smush' 
+[2020-03-27 15:06:07 : INFO] - Re_Smush_It_Task with attachment ID : 1165, autocreated on : March 27, 2020 03:01:06 
+[2020-03-27 15:06:07 : INFO] - 100 
+[2020-03-27 15:06:08 : INFO] - Backing up the original image - 2020/03/omnikey-3121-reader-board_hitools-updraft-pre-smush-original.jpg 
+[2020-03-27 15:06:08 : INFO] - Re_Smush_It_Task with attachment ID : 1165, autocreated on : March 27, 2020 03:01:06 
+[2020-03-27 15:06:08 : INFO] - 100 
+[2020-03-27 15:06:08 : INFO] - Re_Smush_It_Task with attachment ID : 1165, autocreated on : March 27, 2020 03:01:06 
+[2020-03-27 15:06:08 : INFO] - 100 
+[2020-03-27 15:06:08 : INFO] - Re_Smush_It_Task with attachment ID : 1165, autocreated on : March 27, 2020 03:01:06 
+[2020-03-27 15:06:08 : INFO] - 100 
+[2020-03-27 15:06:09 : INFO] - Re_Smush_It_Task with attachment ID : 1165, autocreated on : March 27, 2020 03:01:06 
+[2020-03-27 15:06:09 : INFO] - 100 
+[2020-03-27 15:06:09 : INFO] - Re_Smush_It_Task with attachment ID : 1165, autocreated on : March 27, 2020 03:01:06 
+[2020-03-27 15:06:09 : INFO] - 100 
+[2020-03-27 15:06:09 : INFO] - Re_Smush_It_Task with attachment ID : 1165, autocreated on : March 27, 2020 03:01:06 
+[2020-03-27 15:06:09 : INFO] - 100 
+[2020-03-27 15:06:10 : INFO] - Re_Smush_It_Task with attachment ID : 1165, autocreated on : March 27, 2020 03:01:06 
+[2020-03-27 15:06:10 : INFO] - 100 
+[2020-03-27 15:06:10 : INFO] - Re_Smush_It_Task with attachment ID : 1165, autocreated on : March 27, 2020 03:01:06 
+[2020-03-27 15:06:10 : INFO] - 100 
+[2020-03-27 15:06:11 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2020/03/omnikey-3121-reader-board_hitools.jpg.Le fichier a été compressé de 37.64 KB à 35.64 KB en réduisant de 5.3 pourcent avec WP-Optimize. 
+[2020-03-27 15:06:11 : INFO] - Completed processing task with ID : 26, and type 'smush' 
+[2020-03-27 15:06:11 : INFO] - Processing task with ID : 25, and type 'smush' 
+[2020-03-27 15:06:11 : INFO] - Re_Smush_It_Task with attachment ID : 1163, autocreated on : March 27, 2020 02:40:50 
+[2020-03-27 15:06:11 : INFO] - 100 
+[2020-03-27 15:06:11 : INFO] - Backing up the original image - 2020/03/omnikey-heavy-base_hitools-updraft-pre-smush-original.jpg 
+[2020-03-27 15:06:11 : INFO] - Re_Smush_It_Task with attachment ID : 1163, autocreated on : March 27, 2020 02:40:50 
+[2020-03-27 15:06:11 : INFO] - 100 
+[2020-03-27 15:06:12 : INFO] - Re_Smush_It_Task with attachment ID : 1163, autocreated on : March 27, 2020 02:40:50 
+[2020-03-27 15:06:12 : INFO] - 100 
+[2020-03-27 15:06:12 : INFO] - Re_Smush_It_Task with attachment ID : 1163, autocreated on : March 27, 2020 02:40:50 
+[2020-03-27 15:06:12 : INFO] - 100 
+[2020-03-27 15:06:12 : INFO] - Re_Smush_It_Task with attachment ID : 1163, autocreated on : March 27, 2020 02:40:50 
+[2020-03-27 15:06:12 : INFO] - 100 
+[2020-03-27 15:06:12 : INFO] - Re_Smush_It_Task with attachment ID : 1163, autocreated on : March 27, 2020 02:40:50 
+[2020-03-27 15:06:12 : INFO] - 100 
+[2020-03-27 15:06:12 : INFO] - Re_Smush_It_Task with attachment ID : 1163, autocreated on : March 27, 2020 02:40:50 
+[2020-03-27 15:06:12 : INFO] - 100 
+[2020-03-27 15:06:13 : INFO] - Re_Smush_It_Task with attachment ID : 1163, autocreated on : March 27, 2020 02:40:50 
+[2020-03-27 15:06:13 : INFO] - 100 
+[2020-03-27 15:06:14 : INFO] - Re_Smush_It_Task with attachment ID : 1163, autocreated on : March 27, 2020 02:40:50 
+[2020-03-27 15:06:14 : INFO] - 100 
+[2020-03-27 15:06:14 : INFO] - Re_Smush_It_Task with attachment ID : 1163, autocreated on : March 27, 2020 02:40:50 
+[2020-03-27 15:06:14 : INFO] - 100 
+[2020-03-27 15:06:14 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2020/03/omnikey-heavy-base_hitools.jpg.Le fichier a été compressé de 23.53 KB à 23.53 KB en réduisant de 0 pourcent avec WP-Optimize. 
+[2020-03-27 15:06:14 : INFO] - Completed processing task with ID : 25, and type 'smush' 
+[2020-03-27 15:06:14 : INFO] - Processing task with ID : 24, and type 'smush' 
+[2020-03-27 15:06:14 : INFO] - Re_Smush_It_Task with attachment ID : 1161, autocreated on : March 27, 2020 02:19:52 
+[2020-03-27 15:06:14 : INFO] - 100 
+[2020-03-27 15:06:14 : INFO] - Backing up the original image - 2020/03/extra-heavy-base_hitools-updraft-pre-smush-original.jpg 
+[2020-03-27 15:06:14 : INFO] - Re_Smush_It_Task with attachment ID : 1161, autocreated on : March 27, 2020 02:19:52 
+[2020-03-27 15:06:14 : INFO] - 100 
+[2020-03-27 15:06:15 : INFO] - Re_Smush_It_Task with attachment ID : 1161, autocreated on : March 27, 2020 02:19:52 
+[2020-03-27 15:06:15 : INFO] - 100 
+[2020-03-27 15:06:15 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2020/03/extra-heavy-base_hitools.jpg.Le fichier a été compressé de 4.70 KB à 4.70 KB en réduisant de 0 pourcent avec WP-Optimize. 
+[2020-03-27 15:06:15 : INFO] - Completed processing task with ID : 24, and type 'smush' 
+[2020-03-27 15:06:15 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-27 15:06:15 : INFO] - Semaphore (smush) unlocked 
+[2020-03-27 15:06:15 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2020-03-27 15:06:15 : INFO] - Semaphore (smush, hit_options) was successfully cleaned up 
+[2020-03-27 15:06:15 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2020-03-27 15:16:12 : INFO] - 
+ 
+[2020-03-27 15:16:12 : INFO] - Header for logs at time:  Fri, 27 Mar 2020 15:16:12 +0000 on https://www.hitools.fr 
+[2020-03-27 15:16:12 : INFO] - WP: 5.3.2 
+[2020-03-27 15:16:12 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-27 15:16:12 : INFO] - MySQL: 5.5.60 
+[2020-03-27 15:16:12 : INFO] - WPLANG: fr_FR 
+[2020-03-27 15:16:12 : INFO] - Server: Apache 
+[2020-03-27 15:16:12 : INFO] - Outbound connections: N 
+[2020-03-27 15:16:12 : INFO] - safe_mode: 0 
+[2020-03-27 15:16:12 : INFO] - max_execution_time: 50000 
+[2020-03-27 15:16:12 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-27 15:16:12 : INFO] - multisite: N 
+[2020-03-27 15:16:12 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-27 15:16:12 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-03-27 15:23:45 : INFO] - Re_Smush_It_Task with attachment ID : 1167, autocreated on : March 27, 2020 03:23:45 
+[2020-03-27 15:29:45 : INFO] - 
+ 
+[2020-03-27 15:29:45 : INFO] - Header for logs at time:  Fri, 27 Mar 2020 15:29:45 +0000 on https://www.hitools.fr 
+[2020-03-27 15:29:45 : INFO] - WP: 5.3.2 
+[2020-03-27 15:29:45 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-27 15:29:45 : INFO] - MySQL: 5.5.60 
+[2020-03-27 15:29:45 : INFO] - WPLANG: fr_FR 
+[2020-03-27 15:29:45 : INFO] - Server: Apache 
+[2020-03-27 15:29:45 : INFO] - Outbound connections: N 
+[2020-03-27 15:29:45 : INFO] - safe_mode: 0 
+[2020-03-27 15:29:45 : INFO] - max_execution_time: 50000 
+[2020-03-27 15:29:45 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-27 15:29:45 : INFO] - multisite: N 
+[2020-03-27 15:29:45 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-27 15:29:45 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-03-27 15:29:45 : INFO] - Set semaphore last lock (smush) time to 2020-03-27 15:29:45 
+[2020-03-27 15:29:45 : INFO] - Semaphore lock (smush) complete 
+[2020-03-27 15:29:45 : INFO] - Processing task with ID : 27, and type 'smush' 
+[2020-03-27 15:29:45 : INFO] - Re_Smush_It_Task with attachment ID : 1167, autocreated on : March 27, 2020 03:23:45 
+[2020-03-27 15:29:45 : INFO] - 100 
+[2020-03-27 15:29:45 : INFO] - Backing up the original image - 2020/03/omnikey-mounting-bracket_hitools-updraft-pre-smush-original.jpg 
+[2020-03-27 15:29:45 : INFO] - Re_Smush_It_Task with attachment ID : 1167, autocreated on : March 27, 2020 03:23:45 
+[2020-03-27 15:29:45 : INFO] - 100 
+[2020-03-27 15:29:46 : INFO] - Re_Smush_It_Task with attachment ID : 1167, autocreated on : March 27, 2020 03:23:45 
+[2020-03-27 15:29:46 : INFO] - 100 
+[2020-03-27 15:29:46 : INFO] - Re_Smush_It_Task with attachment ID : 1167, autocreated on : March 27, 2020 03:23:45 
+[2020-03-27 15:29:46 : INFO] - 100 
+[2020-03-27 15:29:46 : INFO] - Re_Smush_It_Task with attachment ID : 1167, autocreated on : March 27, 2020 03:23:45 
+[2020-03-27 15:29:46 : INFO] - 100 
+[2020-03-27 15:29:46 : INFO] - Re_Smush_It_Task with attachment ID : 1167, autocreated on : March 27, 2020 03:23:45 
+[2020-03-27 15:29:46 : INFO] - 100 
+[2020-03-27 15:29:46 : INFO] - Re_Smush_It_Task with attachment ID : 1167, autocreated on : March 27, 2020 03:23:45 
+[2020-03-27 15:29:46 : INFO] - 100 
+[2020-03-27 15:29:47 : INFO] - Re_Smush_It_Task with attachment ID : 1167, autocreated on : March 27, 2020 03:23:45 
+[2020-03-27 15:29:47 : INFO] - 100 
+[2020-03-27 15:29:47 : INFO] - Re_Smush_It_Task with attachment ID : 1167, autocreated on : March 27, 2020 03:23:45 
+[2020-03-27 15:29:47 : INFO] - 100 
+[2020-03-27 15:29:47 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2020/03/omnikey-mounting-bracket_hitools.jpg.Le fichier a été compressé de 17.04 KB à 17.04 KB en réduisant de 0 pourcent avec WP-Optimize. 
+[2020-03-27 15:29:47 : INFO] - Completed processing task with ID : 27, and type 'smush' 
+[2020-03-27 15:29:47 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-27 15:29:47 : INFO] - Semaphore (smush) unlocked 
+[2020-03-27 15:29:47 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-03-27 15:29:47 : INFO] - Semaphore (smush, hit_options) was successfully cleaned up 
+[2020-03-27 15:29:47 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-03-27 15:40:01 : INFO] - 
+ 
+[2020-03-27 15:40:01 : INFO] - Header for logs at time:  Fri, 27 Mar 2020 15:40:01 +0000 on https://www.hitools.fr 
+[2020-03-27 15:40:01 : INFO] - WP: 5.3.2 
+[2020-03-27 15:40:01 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-27 15:40:01 : INFO] - MySQL: 5.5.60 
+[2020-03-27 15:40:01 : INFO] - WPLANG: fr_FR 
+[2020-03-27 15:40:01 : INFO] - Server: Apache 
+[2020-03-27 15:40:01 : INFO] - Outbound connections: N 
+[2020-03-27 15:40:01 : INFO] - safe_mode: 0 
+[2020-03-27 15:40:01 : INFO] - max_execution_time: 50000 
+[2020-03-27 15:40:01 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-27 15:40:01 : INFO] - multisite: N 
+[2020-03-27 15:40:01 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-27 15:40:01 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-03-27 16:08:56 : INFO] - Re_Smush_It_Task with attachment ID : 1169, autocreated on : March 27, 2020 04:08:56 
+[2020-03-27 16:13:57 : INFO] - 
+ 
+[2020-03-27 16:13:57 : INFO] - Header for logs at time:  Fri, 27 Mar 2020 16:13:57 +0000 on https://www.hitools.fr 
+[2020-03-27 16:13:57 : INFO] - WP: 5.3.2 
+[2020-03-27 16:13:57 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-27 16:13:57 : INFO] - MySQL: 5.5.60 
+[2020-03-27 16:13:57 : INFO] - WPLANG: fr_FR 
+[2020-03-27 16:13:57 : INFO] - Server: Apache 
+[2020-03-27 16:13:57 : INFO] - Outbound connections: N 
+[2020-03-27 16:13:57 : INFO] - safe_mode: 0 
+[2020-03-27 16:13:57 : INFO] - max_execution_time: 50000 
+[2020-03-27 16:13:57 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-27 16:13:57 : INFO] - multisite: N 
+[2020-03-27 16:13:57 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-27 16:13:57 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-03-27 16:13:57 : INFO] - Set semaphore last lock (smush) time to 2020-03-27 16:13:57 
+[2020-03-27 16:13:57 : INFO] - Semaphore lock (smush) complete 
+[2020-03-27 16:13:57 : INFO] - Processing task with ID : 28, and type 'smush' 
+[2020-03-27 16:13:57 : INFO] - Re_Smush_It_Task with attachment ID : 1169, autocreated on : March 27, 2020 04:08:56 
+[2020-03-27 16:13:57 : INFO] - 100 
+[2020-03-27 16:13:58 : INFO] - Backing up the original image - 2020/03/omnikey_5122_hitools-updraft-pre-smush-original.png 
+[2020-03-27 16:13:58 : INFO] - Re_Smush_It_Task with attachment ID : 1169, autocreated on : March 27, 2020 04:08:56 
+[2020-03-27 16:13:58 : INFO] - 100 
+[2020-03-27 16:13:58 : INFO] - Re_Smush_It_Task with attachment ID : 1169, autocreated on : March 27, 2020 04:08:56 
+[2020-03-27 16:13:58 : INFO] - 100 
+[2020-03-27 16:13:58 : INFO] - Re_Smush_It_Task with attachment ID : 1169, autocreated on : March 27, 2020 04:08:56 
+[2020-03-27 16:13:58 : INFO] - 100 
+[2020-03-27 16:13:59 : INFO] - Re_Smush_It_Task with attachment ID : 1169, autocreated on : March 27, 2020 04:08:56 
+[2020-03-27 16:13:59 : INFO] - 100 
+[2020-03-27 16:13:59 : INFO] - Re_Smush_It_Task with attachment ID : 1169, autocreated on : March 27, 2020 04:08:56 
+[2020-03-27 16:13:59 : INFO] - 100 
+[2020-03-27 16:13:59 : INFO] - Re_Smush_It_Task with attachment ID : 1169, autocreated on : March 27, 2020 04:08:56 
+[2020-03-27 16:13:59 : INFO] - 100 
+[2020-03-27 16:14:00 : INFO] - Re_Smush_It_Task with attachment ID : 1169, autocreated on : March 27, 2020 04:08:56 
+[2020-03-27 16:14:00 : INFO] - 100 
+[2020-03-27 16:14:01 : INFO] - Re_Smush_It_Task with attachment ID : 1169, autocreated on : March 27, 2020 04:08:56 
+[2020-03-27 16:14:01 : INFO] - 100 
+[2020-03-27 16:14:02 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2020/03/omnikey_5122_hitools.png.Le fichier a été compressé de 324.88 KB à 79.80 KB en réduisant de 75.44 pourcent avec WP-Optimize. 
+[2020-03-27 16:14:02 : INFO] - Completed processing task with ID : 28, and type 'smush' 
+[2020-03-27 16:14:02 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-27 16:14:02 : INFO] - Semaphore (smush) unlocked 
+[2020-03-27 16:14:02 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-03-27 16:14:02 : INFO] - Semaphore (smush, hit_options) was successfully cleaned up 
+[2020-03-27 16:14:02 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-03-27 16:24:16 : INFO] - 
+ 
+[2020-03-27 16:24:16 : INFO] - Header for logs at time:  Fri, 27 Mar 2020 16:24:16 +0000 on https://www.hitools.fr 
+[2020-03-27 16:24:16 : INFO] - WP: 5.3.2 
+[2020-03-27 16:24:16 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-27 16:24:16 : INFO] - MySQL: 5.5.60 
+[2020-03-27 16:24:16 : INFO] - WPLANG: fr_FR 
+[2020-03-27 16:24:16 : INFO] - Server: Apache 
+[2020-03-27 16:24:16 : INFO] - Outbound connections: N 
+[2020-03-27 16:24:16 : INFO] - safe_mode: 0 
+[2020-03-27 16:24:16 : INFO] - max_execution_time: 50000 
+[2020-03-27 16:24:16 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-27 16:24:16 : INFO] - multisite: N 
+[2020-03-27 16:24:16 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-27 16:24:16 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-03-30 09:41:54 : INFO] - Re_Smush_It_Task with attachment ID : 1171, autocreated on : March 30, 2020 09:41:54 
+[2020-03-30 09:46:54 : INFO] - 
+ 
+[2020-03-30 09:46:54 : INFO] - Header for logs at time:  Mon, 30 Mar 2020 09:46:54 +0000 on https://www.hitools.fr 
+[2020-03-30 09:46:54 : INFO] - WP: 5.3.2 
+[2020-03-30 09:46:54 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-30 09:46:54 : INFO] - MySQL: 5.5.60 
+[2020-03-30 09:46:54 : INFO] - WPLANG: fr_FR 
+[2020-03-30 09:46:54 : INFO] - Server: Apache 
+[2020-03-30 09:46:54 : INFO] - Outbound connections: N 
+[2020-03-30 09:46:54 : INFO] - safe_mode: 0 
+[2020-03-30 09:46:54 : INFO] - max_execution_time: 50000 
+[2020-03-30 09:46:54 : INFO] - memory_limit: -1 (used: 71.1M | 74.5M) 
+[2020-03-30 09:46:54 : INFO] - multisite: N 
+[2020-03-30 09:46:54 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-30 09:46:54 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-03-30 09:46:54 : INFO] - Set semaphore last lock (smush) time to 2020-03-30 09:46:54 
+[2020-03-30 09:46:54 : INFO] - Semaphore lock (smush) complete 
+[2020-03-30 09:46:54 : INFO] - Processing task with ID : 29, and type 'smush' 
+[2020-03-30 09:46:54 : INFO] - Re_Smush_It_Task with attachment ID : 1171, autocreated on : March 30, 2020 09:41:54 
+[2020-03-30 09:46:54 : INFO] - 100 
+[2020-03-30 09:46:55 : INFO] - Backing up the original image - 2020/03/ok-5127-ck-reader-board_hitools-updraft-pre-smush-original.jpg 
+[2020-03-30 09:46:55 : INFO] - Re_Smush_It_Task with attachment ID : 1171, autocreated on : March 30, 2020 09:41:54 
+[2020-03-30 09:46:55 : INFO] - 100 
+[2020-03-30 09:46:55 : INFO] - Re_Smush_It_Task with attachment ID : 1171, autocreated on : March 30, 2020 09:41:54 
+[2020-03-30 09:46:55 : INFO] - 100 
+[2020-03-30 09:46:56 : INFO] - Task with ID 29 and type (smush) failed with error code 400 - No file or url provided 
+[2020-03-30 09:46:56 : INFO] - Re_Smush_It_Task with attachment ID : 1171, autocreated on : March 30, 2020 09:41:54 
+[2020-03-30 09:46:56 : INFO] - 100 
+[2020-03-30 09:46:57 : INFO] - Re_Smush_It_Task with attachment ID : 1171, autocreated on : March 30, 2020 09:41:54 
+[2020-03-30 09:46:57 : INFO] - 100 
+[2020-03-30 09:46:58 : INFO] - Re_Smush_It_Task with attachment ID : 1171, autocreated on : March 30, 2020 09:41:54 
+[2020-03-30 09:46:58 : INFO] - 100 
+[2020-03-30 09:46:59 : INFO] - Task with ID 29 and type (smush) failed with error code 400 - No file or url provided 
+[2020-03-30 09:46:59 : INFO] - Re_Smush_It_Task with attachment ID : 1171, autocreated on : March 30, 2020 09:41:54 
+[2020-03-30 09:46:59 : INFO] - 100 
+[2020-03-30 09:46:59 : INFO] - Re_Smush_It_Task with attachment ID : 1171, autocreated on : March 30, 2020 09:41:54 
+[2020-03-30 09:46:59 : INFO] - 100 
+[2020-03-30 09:46:59 : INFO] - Task with ID 29 and type (smush) failed with error code 400 - No file or url provided 
+[2020-03-30 09:46:59 : INFO] - Re_Smush_It_Task with attachment ID : 1171, autocreated on : March 30, 2020 09:41:54 
+[2020-03-30 09:46:59 : INFO] - 100 
+[2020-03-30 09:46:59 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2020/03/ok-5127-ck-reader-board_hitools.jpg.Le fichier a été compressé de 33.13 KB à 32.06 KB en réduisant de 3.23 pourcent avec WP-Optimize. 
+[2020-03-30 09:46:59 : INFO] - Completed processing task with ID : 29, and type 'smush' 
+[2020-03-30 09:46:59 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-30 09:46:59 : INFO] - Semaphore (smush) unlocked 
+[2020-03-30 09:46:59 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-03-30 09:46:59 : INFO] - Semaphore (smush, hit_options) was successfully cleaned up 
+[2020-03-30 09:46:59 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-03-30 09:58:21 : INFO] - 
+ 
+[2020-03-30 09:58:21 : INFO] - Header for logs at time:  Mon, 30 Mar 2020 09:58:21 +0000 on https://www.hitools.fr 
+[2020-03-30 09:58:21 : INFO] - WP: 5.3.2 
+[2020-03-30 09:58:21 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-30 09:58:21 : INFO] - MySQL: 5.5.60 
+[2020-03-30 09:58:21 : INFO] - WPLANG: fr_FR 
+[2020-03-30 09:58:21 : INFO] - Server: Apache 
+[2020-03-30 09:58:21 : INFO] - Outbound connections: N 
+[2020-03-30 09:58:21 : INFO] - safe_mode: 0 
+[2020-03-30 09:58:21 : INFO] - max_execution_time: 50000 
+[2020-03-30 09:58:21 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-30 09:58:21 : INFO] - multisite: N 
+[2020-03-30 09:58:21 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-30 09:58:21 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-03-30 10:00:14 : INFO] - Re_Smush_It_Task with attachment ID : 1173, autocreated on : March 30, 2020 10:00:14 
+[2020-03-30 10:05:19 : INFO] - 
+ 
+[2020-03-30 10:05:19 : INFO] - Header for logs at time:  Mon, 30 Mar 2020 10:05:19 +0000 on https://www.hitools.fr 
+[2020-03-30 10:05:19 : INFO] - WP: 5.3.2 
+[2020-03-30 10:05:19 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-30 10:05:19 : INFO] - MySQL: 5.5.60 
+[2020-03-30 10:05:19 : INFO] - WPLANG: fr_FR 
+[2020-03-30 10:05:19 : INFO] - Server: Apache 
+[2020-03-30 10:05:19 : INFO] - Outbound connections: N 
+[2020-03-30 10:05:19 : INFO] - safe_mode: 0 
+[2020-03-30 10:05:19 : INFO] - max_execution_time: 50000 
+[2020-03-30 10:05:19 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-30 10:05:19 : INFO] - multisite: N 
+[2020-03-30 10:05:19 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-30 10:05:19 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-03-30 10:05:19 : INFO] - Set semaphore last lock (smush) time to 2020-03-30 10:05:19 
+[2020-03-30 10:05:19 : INFO] - Semaphore lock (smush) complete 
+[2020-03-30 10:05:19 : INFO] - Processing task with ID : 30, and type 'smush' 
+[2020-03-30 10:05:19 : INFO] - Re_Smush_It_Task with attachment ID : 1173, autocreated on : March 30, 2020 10:00:14 
+[2020-03-30 10:05:19 : INFO] - 100 
+[2020-03-30 10:05:24 : INFO] - Backing up the original image - 2020/03/omnikey-5553-reader-core_hitools-updraft-pre-smush-original.jpg 
+[2020-03-30 10:05:24 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2020/03/omnikey-5553-reader-core_hitools.jpg.Le fichier a été compressé de 2.56 KB à 2.56 KB en réduisant de 0 pourcent avec WP-Optimize. 
+[2020-03-30 10:05:24 : INFO] - Completed processing task with ID : 30, and type 'smush' 
+[2020-03-30 10:05:24 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-30 10:05:24 : INFO] - Semaphore (smush) unlocked 
+[2020-03-30 10:05:24 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-03-30 10:05:24 : INFO] - Semaphore (smush, hit_options) was successfully cleaned up 
+[2020-03-30 10:05:24 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-03-30 10:08:36 : INFO] - Re_Smush_It_Task with attachment ID : 1174, autocreated on : March 30, 2020 10:08:36 
+[2020-03-30 10:25:12 : INFO] - 
+ 
+[2020-03-30 10:25:12 : INFO] - Header for logs at time:  Mon, 30 Mar 2020 10:25:12 +0000 on https://www.hitools.fr 
+[2020-03-30 10:25:12 : INFO] - WP: 5.3.2 
+[2020-03-30 10:25:12 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-30 10:25:12 : INFO] - MySQL: 5.5.60 
+[2020-03-30 10:25:12 : INFO] - WPLANG: fr_FR 
+[2020-03-30 10:25:12 : INFO] - Server: Apache 
+[2020-03-30 10:25:12 : INFO] - Outbound connections: N 
+[2020-03-30 10:25:12 : INFO] - safe_mode: 0 
+[2020-03-30 10:25:12 : INFO] - max_execution_time: 50000 
+[2020-03-30 10:25:12 : INFO] - memory_limit: -1 (used: 71.4M | 74.5M) 
+[2020-03-30 10:25:12 : INFO] - multisite: N 
+[2020-03-30 10:25:12 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-30 10:25:12 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-03-30 10:25:12 : INFO] - Set semaphore last lock (smush) time to 2020-03-30 10:25:12 
+[2020-03-30 10:25:12 : INFO] - Semaphore lock (smush) complete 
+[2020-03-30 10:25:12 : INFO] - Processing task with ID : 31, and type 'smush' 
+[2020-03-30 10:25:12 : INFO] - Re_Smush_It_Task with attachment ID : 1174, autocreated on : March 30, 2020 10:08:36 
+[2020-03-30 10:25:12 : INFO] - 100 
+[2020-03-30 10:25:13 : INFO] - Backing up the original image - 2020/03/embedded-multi-iso_hitools-updraft-pre-smush-original.png 
+[2020-03-30 10:25:13 : INFO] - Re_Smush_It_Task with attachment ID : 1174, autocreated on : March 30, 2020 10:08:36 
+[2020-03-30 10:25:13 : INFO] - 100 
+[2020-03-30 10:25:16 : INFO] - Task with ID 31 and type (smush) failed with error code 400 - No file or url provided 
+[2020-03-30 10:25:16 : INFO] - Re_Smush_It_Task with attachment ID : 1174, autocreated on : March 30, 2020 10:08:36 
+[2020-03-30 10:25:16 : INFO] - 100 
+[2020-03-30 10:25:16 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2020/03/embedded-multi-iso_hitools.png.Le fichier a été compressé de 52.32 KB à 15.87 KB en réduisant de 69.67 pourcent avec WP-Optimize. 
+[2020-03-30 10:25:16 : INFO] - Completed processing task with ID : 31, and type 'smush' 
+[2020-03-30 10:25:16 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-30 10:25:16 : INFO] - Semaphore (smush) unlocked 
+[2020-03-30 10:25:16 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-03-30 10:25:16 : INFO] - Semaphore (smush, hit_options) was successfully cleaned up 
+[2020-03-30 10:25:16 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-03-30 10:43:18 : INFO] - 
+ 
+[2020-03-30 10:43:18 : INFO] - Header for logs at time:  Mon, 30 Mar 2020 10:43:18 +0000 on https://www.hitools.fr 
+[2020-03-30 10:43:18 : INFO] - WP: 5.3.2 
+[2020-03-30 10:43:18 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-30 10:43:18 : INFO] - MySQL: 5.5.60 
+[2020-03-30 10:43:18 : INFO] - WPLANG: fr_FR 
+[2020-03-30 10:43:18 : INFO] - Server: Apache 
+[2020-03-30 10:43:18 : INFO] - Outbound connections: N 
+[2020-03-30 10:43:18 : INFO] - safe_mode: 0 
+[2020-03-30 10:43:18 : INFO] - max_execution_time: 50000 
+[2020-03-30 10:43:18 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-30 10:43:18 : INFO] - multisite: N 
+[2020-03-30 10:43:18 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-30 10:43:18 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-03-30 13:14:46 : INFO] - Re_Smush_It_Task with attachment ID : 1176, autocreated on : March 30, 2020 01:14:46 
+[2020-03-30 13:20:09 : INFO] - 
+ 
+[2020-03-30 13:20:09 : INFO] - Header for logs at time:  Mon, 30 Mar 2020 13:20:09 +0000 on https://www.hitools.fr 
+[2020-03-30 13:20:09 : INFO] - WP: 5.3.2 
+[2020-03-30 13:20:09 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-30 13:20:09 : INFO] - MySQL: 5.5.60 
+[2020-03-30 13:20:09 : INFO] - WPLANG: fr_FR 
+[2020-03-30 13:20:09 : INFO] - Server: Apache 
+[2020-03-30 13:20:09 : INFO] - Outbound connections: N 
+[2020-03-30 13:20:09 : INFO] - safe_mode: 0 
+[2020-03-30 13:20:09 : INFO] - max_execution_time: 50000 
+[2020-03-30 13:20:09 : INFO] - memory_limit: -1 (used: 71.1M | 74.5M) 
+[2020-03-30 13:20:09 : INFO] - multisite: N 
+[2020-03-30 13:20:09 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-30 13:20:09 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-03-30 13:20:09 : INFO] - Set semaphore last lock (smush) time to 2020-03-30 13:20:09 
+[2020-03-30 13:20:09 : INFO] - Semaphore lock (smush) complete 
+[2020-03-30 13:20:09 : INFO] - Processing task with ID : 32, and type 'smush' 
+[2020-03-30 13:20:09 : INFO] - Re_Smush_It_Task with attachment ID : 1176, autocreated on : March 30, 2020 01:14:46 
+[2020-03-30 13:20:09 : INFO] - 100 
+[2020-03-30 13:20:09 : INFO] - Task with ID 32 and type (smush) failed with error code 400 - No file or url provided 
+[2020-03-30 13:20:09 : INFO] - Re_Smush_It_Task with attachment ID : 1176, autocreated on : March 30, 2020 01:14:46 
+[2020-03-30 13:20:09 : INFO] - 100 
+[2020-03-30 13:20:11 : INFO] - Re_Smush_It_Task with attachment ID : 1176, autocreated on : March 30, 2020 01:14:46 
+[2020-03-30 13:20:11 : INFO] - 100 
+[2020-03-30 13:20:12 : INFO] - Task with ID 32 and type (smush) failed with error code 400 - No file or url provided 
+[2020-03-30 13:20:12 : INFO] - Re_Smush_It_Task with attachment ID : 1176, autocreated on : March 30, 2020 01:14:46 
+[2020-03-30 13:20:12 : INFO] - 100 
+[2020-03-30 13:20:13 : INFO] - Task with ID 32 and type (smush) failed with error code 400 - No file or url provided 
+[2020-03-30 13:20:13 : INFO] - Re_Smush_It_Task with attachment ID : 1176, autocreated on : March 30, 2020 01:14:46 
+[2020-03-30 13:20:13 : INFO] - 100 
+[2020-03-30 13:20:13 : INFO] - Re_Smush_It_Task with attachment ID : 1176, autocreated on : March 30, 2020 01:14:46 
+[2020-03-30 13:20:13 : INFO] - 100 
+[2020-03-30 13:20:13 : INFO] - Re_Smush_It_Task with attachment ID : 1176, autocreated on : March 30, 2020 01:14:46 
+[2020-03-30 13:20:13 : INFO] - 100 
+[2020-03-30 13:20:16 : INFO] - Re_Smush_It_Task with attachment ID : 1176, autocreated on : March 30, 2020 01:14:46 
+[2020-03-30 13:20:16 : INFO] - 100 
+[2020-03-30 13:20:16 : INFO] - Task with ID 32 and type (smush) failed with error code 400 - No file or url provided 
+[2020-03-30 13:20:16 : INFO] - Re_Smush_It_Task with attachment ID : 1176, autocreated on : March 30, 2020 01:14:46 
+[2020-03-30 13:20:16 : INFO] - 100 
+[2020-03-30 13:20:16 : INFO] - Re_Smush_It_Task with attachment ID : 1176, autocreated on : March 30, 2020 01:14:46 
+[2020-03-30 13:20:16 : INFO] - 100 
+[2020-03-30 13:20:18 : INFO] - Task with ID 32 and type (smush) failed with error code 400 - No file or url provided 
+[2020-03-30 13:20:18 : INFO] - Re_Smush_It_Task with attachment ID : 1176, autocreated on : March 30, 2020 01:14:46 
+[2020-03-30 13:20:18 : INFO] - 100 
+[2020-03-30 13:20:19 : INFO] - Re_Smush_It_Task with attachment ID : 1176, autocreated on : March 30, 2020 01:14:46 
+[2020-03-30 13:20:19 : INFO] - 100 
+[2020-03-30 13:20:19 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2020/03/gs1500bt-hw_hitools.jpg.Le fichier a été compressé de 29.78 KB à 29.78 KB en réduisant de 0 pourcent avec WP-Optimize. 
+[2020-03-30 13:20:19 : INFO] - Completed processing task with ID : 32, and type 'smush' 
+[2020-03-30 13:20:19 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-30 13:20:19 : INFO] - Semaphore (smush) unlocked 
+[2020-03-30 13:20:19 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-03-30 13:20:19 : INFO] - Semaphore (smush, hit_options) was successfully cleaned up 
+[2020-03-30 13:20:19 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-03-30 13:30:16 : INFO] - 
+ 
+[2020-03-30 13:30:16 : INFO] - Header for logs at time:  Mon, 30 Mar 2020 13:30:16 +0000 on https://www.hitools.fr 
+[2020-03-30 13:30:16 : INFO] - WP: 5.3.2 
+[2020-03-30 13:30:16 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-30 13:30:16 : INFO] - MySQL: 5.5.60 
+[2020-03-30 13:30:16 : INFO] - WPLANG: fr_FR 
+[2020-03-30 13:30:16 : INFO] - Server: Apache 
+[2020-03-30 13:30:16 : INFO] - Outbound connections: N 
+[2020-03-30 13:30:16 : INFO] - safe_mode: 0 
+[2020-03-30 13:30:16 : INFO] - max_execution_time: 50000 
+[2020-03-30 13:30:16 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-30 13:30:16 : INFO] - multisite: N 
+[2020-03-30 13:30:16 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-30 13:30:16 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-03-30 14:20:47 : INFO] - Re_Smush_It_Task with attachment ID : 1178, autocreated on : March 30, 2020 02:20:47 
+[2020-03-30 14:25:58 : INFO] - 
+ 
+[2020-03-30 14:25:58 : INFO] - Header for logs at time:  Mon, 30 Mar 2020 14:25:58 +0000 on https://www.hitools.fr 
+[2020-03-30 14:25:58 : INFO] - WP: 5.3.2 
+[2020-03-30 14:25:58 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-30 14:25:58 : INFO] - MySQL: 5.5.60 
+[2020-03-30 14:25:58 : INFO] - WPLANG: fr_FR 
+[2020-03-30 14:25:58 : INFO] - Server: Apache 
+[2020-03-30 14:25:58 : INFO] - Outbound connections: N 
+[2020-03-30 14:25:58 : INFO] - safe_mode: 0 
+[2020-03-30 14:25:58 : INFO] - max_execution_time: 50000 
+[2020-03-30 14:25:58 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-30 14:25:58 : INFO] - multisite: N 
+[2020-03-30 14:25:58 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-30 14:25:58 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-03-30 14:25:58 : INFO] - Set semaphore last lock (smush) time to 2020-03-30 14:25:58 
+[2020-03-30 14:25:58 : INFO] - Semaphore lock (smush) complete 
+[2020-03-30 14:25:58 : INFO] - Processing task with ID : 33, and type 'smush' 
+[2020-03-30 14:25:58 : INFO] - Re_Smush_It_Task with attachment ID : 1178, autocreated on : March 30, 2020 02:20:47 
+[2020-03-30 14:25:58 : INFO] - 100 
+[2020-03-30 14:26:02 : INFO] - Task with ID 33 and type (smush) failed with error code 400 - No file or url provided 
+[2020-03-30 14:26:02 : INFO] - Re_Smush_It_Task with attachment ID : 1178, autocreated on : March 30, 2020 02:20:47 
+[2020-03-30 14:26:02 : INFO] - 100 
+[2020-03-30 14:26:05 : INFO] - Re_Smush_It_Task with attachment ID : 1178, autocreated on : March 30, 2020 02:20:47 
+[2020-03-30 14:26:05 : INFO] - 100 
+[2020-03-30 14:26:09 : INFO] - Task with ID 33 and type (smush) failed with error code 400 - No file or url provided 
+[2020-03-30 14:26:09 : INFO] - Re_Smush_It_Task with attachment ID : 1178, autocreated on : March 30, 2020 02:20:47 
+[2020-03-30 14:26:09 : INFO] - 100 
+[2020-03-30 14:26:10 : INFO] - Task with ID 33 and type (smush) failed with error code 400 - No file or url provided 
+[2020-03-30 14:26:10 : INFO] - Re_Smush_It_Task with attachment ID : 1178, autocreated on : March 30, 2020 02:20:47 
+[2020-03-30 14:26:10 : INFO] - 100 
+[2020-03-30 14:26:11 : INFO] - Task with ID 33 and type (smush) failed with error code 400 - No file or url provided 
+[2020-03-30 14:26:11 : INFO] - Re_Smush_It_Task with attachment ID : 1178, autocreated on : March 30, 2020 02:20:47 
+[2020-03-30 14:26:11 : INFO] - 100 
+[2020-03-30 14:26:12 : INFO] - Re_Smush_It_Task with attachment ID : 1178, autocreated on : March 30, 2020 02:20:47 
+[2020-03-30 14:26:12 : INFO] - 100 
+[2020-03-30 14:26:18 : INFO] - Re_Smush_It_Task with attachment ID : 1178, autocreated on : March 30, 2020 02:20:47 
+[2020-03-30 14:26:18 : INFO] - 100 
+[2020-03-30 14:26:19 : INFO] - Task with ID 33 and type (smush) failed with error code 400 - No file or url provided 
+[2020-03-30 14:26:19 : INFO] - Re_Smush_It_Task with attachment ID : 1178, autocreated on : March 30, 2020 02:20:47 
+[2020-03-30 14:26:19 : INFO] - 100 
+[2020-03-30 14:26:22 : INFO] - Re_Smush_It_Task with attachment ID : 1178, autocreated on : March 30, 2020 02:20:47 
+[2020-03-30 14:26:22 : INFO] - 100 
+[2020-03-30 14:26:23 : INFO] - Re_Smush_It_Task with attachment ID : 1178, autocreated on : March 30, 2020 02:20:47 
+[2020-03-30 14:26:23 : INFO] - 100 
+[2020-03-30 14:26:24 : INFO] - Task with ID 33 and type (smush) failed with error code 400 - No file or url provided 
+[2020-03-30 14:26:24 : INFO] - Re_Smush_It_Task with attachment ID : 1178, autocreated on : March 30, 2020 02:20:47 
+[2020-03-30 14:26:24 : INFO] - 100 
+[2020-03-30 14:26:25 : INFO] - Task with ID 33 and type (smush) failed with error code 400 - No file or url provided 
+[2020-03-30 14:26:25 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2020/03/gs5000bt-hw_hitools.jpg.Le fichier a été compressé de 89.57 KB à 89.57 KB en réduisant de 0 pourcent avec WP-Optimize. 
+[2020-03-30 14:26:25 : INFO] - Completed processing task with ID : 33, and type 'smush' 
+[2020-03-30 14:26:25 : INFO] - Set semaphore last lock (smush) time to 2020-03-30 14:26:25 
+[2020-03-30 14:26:25 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-30 14:26:25 : INFO] - Semaphore (smush) unlocked 
+[2020-03-30 14:26:25 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-03-30 14:26:25 : INFO] - Semaphore (smush, hit_options) was successfully cleaned up 
+[2020-03-30 14:26:25 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-03-30 14:36:02 : INFO] - 
+ 
+[2020-03-30 14:36:02 : INFO] - Header for logs at time:  Mon, 30 Mar 2020 14:36:02 +0000 on https://www.hitools.fr 
+[2020-03-30 14:36:02 : INFO] - WP: 5.3.2 
+[2020-03-30 14:36:02 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-30 14:36:02 : INFO] - MySQL: 5.5.60 
+[2020-03-30 14:36:02 : INFO] - WPLANG: fr_FR 
+[2020-03-30 14:36:02 : INFO] - Server: Apache 
+[2020-03-30 14:36:02 : INFO] - Outbound connections: N 
+[2020-03-30 14:36:02 : INFO] - safe_mode: 0 
+[2020-03-30 14:36:02 : INFO] - max_execution_time: 50000 
+[2020-03-30 14:36:02 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-30 14:36:02 : INFO] - multisite: N 
+[2020-03-30 14:36:02 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-30 14:36:02 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-03-30 15:43:06 : INFO] - Re_Smush_It_Task with attachment ID : 1180, autocreated on : March 30, 2020 03:43:06 
+[2020-03-30 15:48:16 : INFO] - 
+ 
+[2020-03-30 15:48:16 : INFO] - Header for logs at time:  Mon, 30 Mar 2020 15:48:16 +0000 on https://www.hitools.fr 
+[2020-03-30 15:48:16 : INFO] - WP: 5.3.2 
+[2020-03-30 15:48:16 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-30 15:48:16 : INFO] - MySQL: 5.5.60 
+[2020-03-30 15:48:16 : INFO] - WPLANG: fr_FR 
+[2020-03-30 15:48:16 : INFO] - Server: Apache 
+[2020-03-30 15:48:16 : INFO] - Outbound connections: N 
+[2020-03-30 15:48:16 : INFO] - safe_mode: 0 
+[2020-03-30 15:48:16 : INFO] - max_execution_time: 50000 
+[2020-03-30 15:48:16 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-30 15:48:16 : INFO] - multisite: N 
+[2020-03-30 15:48:16 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-30 15:48:16 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-03-30 15:48:16 : INFO] - Set semaphore last lock (smush) time to 2020-03-30 15:48:16 
+[2020-03-30 15:48:16 : INFO] - Semaphore lock (smush) complete 
+[2020-03-30 15:48:16 : INFO] - Processing task with ID : 34, and type 'smush' 
+[2020-03-30 15:48:16 : INFO] - Re_Smush_It_Task with attachment ID : 1180, autocreated on : March 30, 2020 03:43:06 
+[2020-03-30 15:48:16 : INFO] - 100 
+[2020-03-30 15:48:17 : INFO] - Backing up the original image - 2020/03/gs5000bt-65q_hitools-updraft-pre-smush-original.jpg 
+[2020-03-30 15:48:17 : INFO] - Re_Smush_It_Task with attachment ID : 1180, autocreated on : March 30, 2020 03:43:06 
+[2020-03-30 15:48:17 : INFO] - 100 
+[2020-03-30 15:48:21 : INFO] - Re_Smush_It_Task with attachment ID : 1180, autocreated on : March 30, 2020 03:43:06 
+[2020-03-30 15:48:21 : INFO] - 100 
+[2020-03-30 15:48:22 : INFO] - Re_Smush_It_Task with attachment ID : 1180, autocreated on : March 30, 2020 03:43:06 
+[2020-03-30 15:48:22 : INFO] - 100 
+[2020-03-30 15:48:22 : INFO] - Task with ID 34 and type (smush) failed with error code 400 - No file or url provided 
+[2020-03-30 15:48:22 : INFO] - Re_Smush_It_Task with attachment ID : 1180, autocreated on : March 30, 2020 03:43:06 
+[2020-03-30 15:48:22 : INFO] - 100 
+[2020-03-30 15:48:25 : INFO] - Re_Smush_It_Task with attachment ID : 1180, autocreated on : March 30, 2020 03:43:06 
+[2020-03-30 15:48:25 : INFO] - 100 
+[2020-03-30 15:48:28 : INFO] - Re_Smush_It_Task with attachment ID : 1180, autocreated on : March 30, 2020 03:43:06 
+[2020-03-30 15:48:28 : INFO] - 100 
+[2020-03-30 15:48:29 : INFO] - Re_Smush_It_Task with attachment ID : 1180, autocreated on : March 30, 2020 03:43:06 
+[2020-03-30 15:48:29 : INFO] - 100 
+[2020-03-30 15:48:29 : INFO] - Re_Smush_It_Task with attachment ID : 1180, autocreated on : March 30, 2020 03:43:06 
+[2020-03-30 15:48:29 : INFO] - 100 
+[2020-03-30 15:48:30 : INFO] - Task with ID 34 and type (smush) failed with error code 400 - No file or url provided 
+[2020-03-30 15:48:30 : INFO] - Re_Smush_It_Task with attachment ID : 1180, autocreated on : March 30, 2020 03:43:06 
+[2020-03-30 15:48:30 : INFO] - 100 
+[2020-03-30 15:48:30 : INFO] - Task with ID 34 and type (smush) failed with error code 400 - No file or url provided 
+[2020-03-30 15:48:30 : INFO] - Re_Smush_It_Task with attachment ID : 1180, autocreated on : March 30, 2020 03:43:06 
+[2020-03-30 15:48:30 : INFO] - 100 
+[2020-03-30 15:48:30 : INFO] - Re_Smush_It_Task with attachment ID : 1180, autocreated on : March 30, 2020 03:43:06 
+[2020-03-30 15:48:30 : INFO] - 100 
+[2020-03-30 15:48:30 : INFO] - Task with ID 34 and type (smush) failed with error code 400 - No file or url provided 
+[2020-03-30 15:48:30 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2020/03/gs5000bt-65q_hitools.jpg.Le fichier a été compressé de 80.60 KB à 78.35 KB en réduisant de 2.79 pourcent avec WP-Optimize. 
+[2020-03-30 15:48:30 : INFO] - Completed processing task with ID : 34, and type 'smush' 
+[2020-03-30 15:48:30 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-30 15:48:30 : INFO] - Semaphore (smush) unlocked 
+[2020-03-30 15:48:30 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-03-30 15:48:30 : INFO] - Semaphore (smush, hit_options) was successfully cleaned up 
+[2020-03-30 15:48:30 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-03-30 15:58:18 : INFO] - 
+ 
+[2020-03-30 15:58:18 : INFO] - Header for logs at time:  Mon, 30 Mar 2020 15:58:18 +0000 on https://www.hitools.fr 
+[2020-03-30 15:58:18 : INFO] - WP: 5.3.2 
+[2020-03-30 15:58:18 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-30 15:58:18 : INFO] - MySQL: 5.5.60 
+[2020-03-30 15:58:18 : INFO] - WPLANG: fr_FR 
+[2020-03-30 15:58:18 : INFO] - Server: Apache 
+[2020-03-30 15:58:18 : INFO] - Outbound connections: N 
+[2020-03-30 15:58:18 : INFO] - safe_mode: 0 
+[2020-03-30 15:58:18 : INFO] - max_execution_time: 50000 
+[2020-03-30 15:58:18 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-30 15:58:18 : INFO] - multisite: N 
+[2020-03-30 15:58:18 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-30 15:58:18 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-03-31 08:13:26 : INFO] - Re_Smush_It_Task with attachment ID : 1183, autocreated on : March 31, 2020 08:13:26 
+[2020-03-31 08:18:26 : INFO] - 
+ 
+[2020-03-31 08:18:26 : INFO] - Header for logs at time:  Tue, 31 Mar 2020 08:18:26 +0000 on https://www.hitools.fr 
+[2020-03-31 08:18:26 : INFO] - WP: 5.3.2 
+[2020-03-31 08:18:26 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-31 08:18:26 : INFO] - MySQL: 5.5.60 
+[2020-03-31 08:18:26 : INFO] - WPLANG: fr_FR 
+[2020-03-31 08:18:26 : INFO] - Server: Apache 
+[2020-03-31 08:18:26 : INFO] - Outbound connections: N 
+[2020-03-31 08:18:26 : INFO] - safe_mode: 0 
+[2020-03-31 08:18:26 : INFO] - max_execution_time: 50000 
+[2020-03-31 08:18:26 : INFO] - memory_limit: -1 (used: 71.1M | 74.5M) 
+[2020-03-31 08:18:26 : INFO] - multisite: N 
+[2020-03-31 08:18:26 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-31 08:18:26 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-03-31 08:18:26 : INFO] - Set semaphore last lock (smush) time to 2020-03-31 08:18:26 
+[2020-03-31 08:18:26 : INFO] - Semaphore lock (smush) complete 
+[2020-03-31 08:18:26 : INFO] - Processing task with ID : 35, and type 'smush' 
+[2020-03-31 08:18:26 : INFO] - Re_Smush_It_Task with attachment ID : 1183, autocreated on : March 31, 2020 08:13:26 
+[2020-03-31 08:18:26 : INFO] - 100 
+[2020-03-31 08:18:26 : INFO] - Task with ID 35 and type (smush) failed with error code 400 - No file or url provided 
+[2020-03-31 08:18:26 : INFO] - Re_Smush_It_Task with attachment ID : 1183, autocreated on : March 31, 2020 08:13:26 
+[2020-03-31 08:18:26 : INFO] - 100 
+[2020-03-31 08:18:27 : INFO] - Re_Smush_It_Task with attachment ID : 1183, autocreated on : March 31, 2020 08:13:26 
+[2020-03-31 08:18:27 : INFO] - 100 
+[2020-03-31 08:18:29 : INFO] - Re_Smush_It_Task with attachment ID : 1183, autocreated on : March 31, 2020 08:13:26 
+[2020-03-31 08:18:29 : INFO] - 100 
+[2020-03-31 08:18:29 : INFO] - Re_Smush_It_Task with attachment ID : 1183, autocreated on : March 31, 2020 08:13:26 
+[2020-03-31 08:18:29 : INFO] - 100 
+[2020-03-31 08:18:29 : INFO] - Re_Smush_It_Task with attachment ID : 1183, autocreated on : March 31, 2020 08:13:26 
+[2020-03-31 08:18:29 : INFO] - 100 
+[2020-03-31 08:18:29 : INFO] - Re_Smush_It_Task with attachment ID : 1183, autocreated on : March 31, 2020 08:13:26 
+[2020-03-31 08:18:29 : INFO] - 100 
+[2020-03-31 08:18:29 : INFO] - Re_Smush_It_Task with attachment ID : 1183, autocreated on : March 31, 2020 08:13:26 
+[2020-03-31 08:18:29 : INFO] - 100 
+[2020-03-31 08:18:29 : INFO] - Re_Smush_It_Task with attachment ID : 1183, autocreated on : March 31, 2020 08:13:26 
+[2020-03-31 08:18:29 : INFO] - 100 
+[2020-03-31 08:18:29 : INFO] - Re_Smush_It_Task with attachment ID : 1183, autocreated on : March 31, 2020 08:13:26 
+[2020-03-31 08:18:29 : INFO] - 100 
+[2020-03-31 08:18:30 : INFO] - Re_Smush_It_Task with attachment ID : 1183, autocreated on : March 31, 2020 08:13:26 
+[2020-03-31 08:18:30 : INFO] - 100 
+[2020-03-31 08:18:31 : INFO] - Re_Smush_It_Task with attachment ID : 1183, autocreated on : March 31, 2020 08:13:26 
+[2020-03-31 08:18:31 : INFO] - 100 
+[2020-03-31 08:18:31 : INFO] - Task with ID 35 and type (smush) failed with error code 400 - No file or url provided 
+[2020-03-31 08:18:31 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2020/03/gs5000bt-5mq_hitools.jpg.Le fichier a été compressé de 81.00 KB à 81.00 KB en réduisant de 0 pourcent avec WP-Optimize. 
+[2020-03-31 08:18:31 : INFO] - Completed processing task with ID : 35, and type 'smush' 
+[2020-03-31 08:18:31 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-31 08:18:31 : INFO] - Semaphore (smush) unlocked 
+[2020-03-31 08:18:31 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-03-31 08:18:31 : INFO] - Semaphore (smush, hit_options) was successfully cleaned up 
+[2020-03-31 08:18:31 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-03-31 08:28:47 : INFO] - 
+ 
+[2020-03-31 08:28:47 : INFO] - Header for logs at time:  Tue, 31 Mar 2020 08:28:47 +0000 on https://www.hitools.fr 
+[2020-03-31 08:28:47 : INFO] - WP: 5.3.2 
+[2020-03-31 08:28:47 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-31 08:28:47 : INFO] - MySQL: 5.5.60 
+[2020-03-31 08:28:47 : INFO] - WPLANG: fr_FR 
+[2020-03-31 08:28:47 : INFO] - Server: Apache 
+[2020-03-31 08:28:47 : INFO] - Outbound connections: N 
+[2020-03-31 08:28:47 : INFO] - safe_mode: 0 
+[2020-03-31 08:28:47 : INFO] - max_execution_time: 50000 
+[2020-03-31 08:28:47 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-31 08:28:47 : INFO] - multisite: N 
+[2020-03-31 08:28:47 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-31 08:28:47 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-03-31 09:18:16 : INFO] - Re_Smush_It_Task with attachment ID : 1185, autocreated on : March 31, 2020 09:18:16 
+[2020-03-31 09:23:20 : INFO] - 
+ 
+[2020-03-31 09:23:20 : INFO] - Header for logs at time:  Tue, 31 Mar 2020 09:23:20 +0000 on https://www.hitools.fr 
+[2020-03-31 09:23:20 : INFO] - WP: 5.3.2 
+[2020-03-31 09:23:20 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-31 09:23:20 : INFO] - MySQL: 5.5.60 
+[2020-03-31 09:23:20 : INFO] - WPLANG: fr_FR 
+[2020-03-31 09:23:20 : INFO] - Server: Apache 
+[2020-03-31 09:23:20 : INFO] - Outbound connections: N 
+[2020-03-31 09:23:20 : INFO] - safe_mode: 0 
+[2020-03-31 09:23:20 : INFO] - max_execution_time: 50000 
+[2020-03-31 09:23:20 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-31 09:23:20 : INFO] - multisite: N 
+[2020-03-31 09:23:20 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-31 09:23:20 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-03-31 09:23:20 : INFO] - Set semaphore last lock (smush) time to 2020-03-31 09:23:20 
+[2020-03-31 09:23:20 : INFO] - Semaphore lock (smush) complete 
+[2020-03-31 09:23:20 : INFO] - Processing task with ID : 36, and type 'smush' 
+[2020-03-31 09:23:20 : INFO] - Re_Smush_It_Task with attachment ID : 1185, autocreated on : March 31, 2020 09:18:16 
+[2020-03-31 09:23:20 : INFO] - 100 
+[2020-03-31 09:23:20 : INFO] - Backing up the original image - 2020/03/gs5000bt-51c_hitools-updraft-pre-smush-original.jpg 
+[2020-03-31 09:23:20 : INFO] - Re_Smush_It_Task with attachment ID : 1185, autocreated on : March 31, 2020 09:18:16 
+[2020-03-31 09:23:20 : INFO] - 100 
+[2020-03-31 09:23:21 : INFO] - Re_Smush_It_Task with attachment ID : 1185, autocreated on : March 31, 2020 09:18:16 
+[2020-03-31 09:23:21 : INFO] - 100 
+[2020-03-31 09:23:21 : INFO] - Re_Smush_It_Task with attachment ID : 1185, autocreated on : March 31, 2020 09:18:16 
+[2020-03-31 09:23:21 : INFO] - 100 
+[2020-03-31 09:23:21 : INFO] - Task with ID 36 and type (smush) failed with error code 400 - No file or url provided 
+[2020-03-31 09:23:21 : INFO] - Re_Smush_It_Task with attachment ID : 1185, autocreated on : March 31, 2020 09:18:16 
+[2020-03-31 09:23:21 : INFO] - 100 
+[2020-03-31 09:23:22 : INFO] - Re_Smush_It_Task with attachment ID : 1185, autocreated on : March 31, 2020 09:18:16 
+[2020-03-31 09:23:22 : INFO] - 100 
+[2020-03-31 09:23:22 : INFO] - Re_Smush_It_Task with attachment ID : 1185, autocreated on : March 31, 2020 09:18:16 
+[2020-03-31 09:23:22 : INFO] - 100 
+[2020-03-31 09:23:22 : INFO] - Task with ID 36 and type (smush) failed with error code 400 - No file or url provided 
+[2020-03-31 09:23:22 : INFO] - Re_Smush_It_Task with attachment ID : 1185, autocreated on : March 31, 2020 09:18:16 
+[2020-03-31 09:23:22 : INFO] - 100 
+[2020-03-31 09:23:23 : INFO] - Task with ID 36 and type (smush) failed with error code 400 - No file or url provided 
+[2020-03-31 09:23:23 : INFO] - Re_Smush_It_Task with attachment ID : 1185, autocreated on : March 31, 2020 09:18:16 
+[2020-03-31 09:23:23 : INFO] - 100 
+[2020-03-31 09:23:24 : INFO] - Task with ID 36 and type (smush) failed with error code 400 - No file or url provided 
+[2020-03-31 09:23:24 : INFO] - Re_Smush_It_Task with attachment ID : 1185, autocreated on : March 31, 2020 09:18:16 
+[2020-03-31 09:23:24 : INFO] - 100 
+[2020-03-31 09:23:24 : INFO] - Task with ID 36 and type (smush) failed with error code 400 - No file or url provided 
+[2020-03-31 09:23:24 : INFO] - Re_Smush_It_Task with attachment ID : 1185, autocreated on : March 31, 2020 09:18:16 
+[2020-03-31 09:23:24 : INFO] - 100 
+[2020-03-31 09:23:25 : INFO] - Re_Smush_It_Task with attachment ID : 1185, autocreated on : March 31, 2020 09:18:16 
+[2020-03-31 09:23:25 : INFO] - 100 
+[2020-03-31 09:23:25 : INFO] - Task with ID 36 and type (smush) failed with error code 400 - No file or url provided 
+[2020-03-31 09:23:25 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2020/03/gs5000bt-51c_hitools.jpg.Le fichier a été compressé de 92.41 KB à 69.84 KB en réduisant de 24.43 pourcent avec WP-Optimize. 
+[2020-03-31 09:23:25 : INFO] - Completed processing task with ID : 36, and type 'smush' 
+[2020-03-31 09:23:25 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-31 09:23:25 : INFO] - Semaphore (smush) unlocked 
+[2020-03-31 09:23:25 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-03-31 09:23:25 : INFO] - Semaphore (smush, hit_options) was successfully cleaned up 
+[2020-03-31 09:23:25 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-03-31 09:33:25 : INFO] - 
+ 
+[2020-03-31 09:33:25 : INFO] - Header for logs at time:  Tue, 31 Mar 2020 09:33:25 +0000 on https://www.hitools.fr 
+[2020-03-31 09:33:25 : INFO] - WP: 5.3.2 
+[2020-03-31 09:33:25 : INFO] - PHP: 7.2.29 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2020-03-31 09:33:25 : INFO] - MySQL: 5.5.60 
+[2020-03-31 09:33:25 : INFO] - WPLANG: fr_FR 
+[2020-03-31 09:33:25 : INFO] - Server: Apache 
+[2020-03-31 09:33:25 : INFO] - Outbound connections: N 
+[2020-03-31 09:33:25 : INFO] - safe_mode: 0 
+[2020-03-31 09:33:25 : INFO] - max_execution_time: 50000 
+[2020-03-31 09:33:25 : INFO] - memory_limit: -1 (used: 71.2M | 74.5M) 
+[2020-03-31 09:33:25 : INFO] - multisite: N 
+[2020-03-31 09:33:25 : INFO] - openssl: OpenSSL 1.0.1t  3 May 2016 
+[2020-03-31 09:33:25 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-10-28 09:50:59 : INFO] - Re_Smush_It_Task with attachment ID : 1324, autocreated on : October 28, 2022 09:50:59 
+[2022-10-28 09:56:07 : INFO] - 
+ 
+[2022-10-28 09:56:07 : INFO] - Header for logs at time:  Fri, 28 Oct 2022 09:56:07 +0000 on https://www.hitools.fr 
+[2022-10-28 09:56:07 : INFO] - WP: 6.0.3 
+[2022-10-28 09:56:07 : INFO] - PHP: 7.4.32 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2022-10-28 09:56:07 : INFO] - MySQL: 5.7.38 
+[2022-10-28 09:56:07 : INFO] - WPLANG: fr_FR 
+[2022-10-28 09:56:07 : INFO] - Server: Apache 
+[2022-10-28 09:56:07 : INFO] - Outbound connections: N 
+[2022-10-28 09:56:07 : INFO] - safe_mode: 0 
+[2022-10-28 09:56:07 : INFO] - max_execution_time: 50000 
+[2022-10-28 09:56:07 : INFO] - memory_limit: -1 (used: 98.2M | 101M) 
+[2022-10-28 09:56:07 : INFO] - multisite: N 
+[2022-10-28 09:56:07 : INFO] - openssl: OpenSSL 1.1.1n  15 Mar 2022 
+[2022-10-28 09:56:07 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-10-28 09:56:08 : DEBUG] - Lock option (updraft_lock_smush, hit_options) was created in the database 
+[2022-10-28 09:56:08 : INFO] - Lock (updraft_lock_smush, hit_options) acquired after initialising the database 
+[2022-10-28 09:56:08 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2022-10-28 09:56:08 : INFO] - Re_Smush_It_Task with attachment ID : 1324, autocreated on : October 28, 2022 09:50:59 
+[2022-10-28 09:56:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-28 09:56:08 : INFO] - 100 
+[2022-10-28 09:56:08 : INFO] - Backing up the original image - 2022/10/pacs-seos-essential-hid-prox-card-500_0-updraft-pre-smush-original.png 
+[2022-10-28 09:56:08 : INFO] - Re_Smush_It_Task with attachment ID : 1324, autocreated on : October 28, 2022 09:50:59 
+[2022-10-28 09:56:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-28 09:56:08 : INFO] - 100 
+[2022-10-28 09:56:08 : INFO] - Re_Smush_It_Task with attachment ID : 1324, autocreated on : October 28, 2022 09:50:59 
+[2022-10-28 09:56:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-28 09:56:08 : INFO] - 100 
+[2022-10-28 09:56:09 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2022/10/pacs-seos-essential-hid-prox-card-500_0.png. 
+[2022-10-28 09:56:09 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2022-10-28 09:56:09 : INFO] - Lock option (updraft_lock_smush, hit_options) released 
+[2022-10-28 09:56:09 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-10-28 09:56:09 : INFO] - Lock option (updraft_lock_smush, hit_options) was deleted from the database 
+[2022-10-28 09:56:09 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-10-28 10:03:50 : INFO] - Re_Smush_It_Task with attachment ID : 1326, autocreated on : October 28, 2022 10:03:49 
+[2022-10-28 10:06:11 : INFO] - 
+ 
+[2022-10-28 10:06:11 : INFO] - Header for logs at time:  Fri, 28 Oct 2022 10:06:11 +0000 on https://www.hitools.fr 
+[2022-10-28 10:06:11 : INFO] - WP: 6.0.3 
+[2022-10-28 10:06:11 : INFO] - PHP: 7.4.32 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2022-10-28 10:06:11 : INFO] - MySQL: 5.7.38 
+[2022-10-28 10:06:11 : INFO] - WPLANG: fr_FR 
+[2022-10-28 10:06:11 : INFO] - Server: Apache 
+[2022-10-28 10:06:11 : INFO] - Outbound connections: N 
+[2022-10-28 10:06:11 : INFO] - safe_mode: 0 
+[2022-10-28 10:06:11 : INFO] - max_execution_time: 50000 
+[2022-10-28 10:06:11 : INFO] - memory_limit: -1 (used: 98.2M | 101M) 
+[2022-10-28 10:06:11 : INFO] - multisite: N 
+[2022-10-28 10:06:11 : INFO] - openssl: OpenSSL 1.1.1n  15 Mar 2022 
+[2022-10-28 10:06:11 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-10-28 10:06:11 : DEBUG] - Lock option (updraft_lock_smush, hit_options) was created in the database 
+[2022-10-28 10:06:11 : INFO] - Lock (updraft_lock_smush, hit_options) acquired after initialising the database 
+[2022-10-28 10:06:11 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2022-10-28 10:06:11 : INFO] - Re_Smush_It_Task with attachment ID : 1326, autocreated on : October 28, 2022 10:03:49 
+[2022-10-28 10:06:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-28 10:06:11 : INFO] - 100 
+[2022-10-28 10:06:11 : INFO] - Backing up the original image - 2022/10/hid-seos-8k-mifare-4k-card-ds-en-2-updraft-pre-smush-original.png 
+[2022-10-28 10:06:11 : INFO] - Re_Smush_It_Task with attachment ID : 1326, autocreated on : October 28, 2022 10:03:49 
+[2022-10-28 10:06:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-28 10:06:11 : INFO] - 100 
+[2022-10-28 10:06:11 : INFO] - Re_Smush_It_Task with attachment ID : 1326, autocreated on : October 28, 2022 10:03:49 
+[2022-10-28 10:06:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-28 10:06:11 : INFO] - 100 
+[2022-10-28 10:06:12 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2022/10/hid-seos-8k-mifare-4k-card-ds-en-2.png. 
+[2022-10-28 10:06:12 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2022-10-28 10:06:12 : INFO] - Lock option (updraft_lock_smush, hit_options) released 
+[2022-10-28 10:06:12 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-10-28 10:06:12 : INFO] - Lock option (updraft_lock_smush, hit_options) was deleted from the database 
+[2022-10-28 10:06:12 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-10-28 10:11:10 : INFO] - Re_Smush_It_Task with attachment ID : 1328, autocreated on : October 28, 2022 10:11:09 
+[2022-10-28 10:16:12 : INFO] - 
+ 
+[2022-10-28 10:16:12 : INFO] - Header for logs at time:  Fri, 28 Oct 2022 10:16:12 +0000 on https://www.hitools.fr 
+[2022-10-28 10:16:12 : INFO] - WP: 6.0.3 
+[2022-10-28 10:16:12 : INFO] - PHP: 7.4.32 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2022-10-28 10:16:12 : INFO] - MySQL: 5.7.38 
+[2022-10-28 10:16:12 : INFO] - WPLANG: fr_FR 
+[2022-10-28 10:16:12 : INFO] - Server: Apache 
+[2022-10-28 10:16:12 : INFO] - Outbound connections: N 
+[2022-10-28 10:16:12 : INFO] - safe_mode: 0 
+[2022-10-28 10:16:12 : INFO] - max_execution_time: 50000 
+[2022-10-28 10:16:12 : INFO] - memory_limit: -1 (used: 98.2M | 101M) 
+[2022-10-28 10:16:12 : INFO] - multisite: N 
+[2022-10-28 10:16:12 : INFO] - openssl: OpenSSL 1.1.1n  15 Mar 2022 
+[2022-10-28 10:16:12 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-10-28 10:16:12 : DEBUG] - Lock option (updraft_lock_smush, hit_options) was created in the database 
+[2022-10-28 10:16:12 : INFO] - Lock (updraft_lock_smush, hit_options) acquired after initialising the database 
+[2022-10-28 10:16:12 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2022-10-28 10:16:12 : INFO] - Re_Smush_It_Task with attachment ID : 1328, autocreated on : October 28, 2022 10:11:09 
+[2022-10-28 10:16:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-28 10:16:12 : INFO] - 100 
+[2022-10-28 10:16:12 : INFO] - Backing up the original image - 2022/10/seos-key-fob-front-img_6079-updraft-pre-smush-original.png 
+[2022-10-28 10:16:12 : INFO] - Re_Smush_It_Task with attachment ID : 1328, autocreated on : October 28, 2022 10:11:09 
+[2022-10-28 10:16:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-28 10:16:12 : INFO] - 100 
+[2022-10-28 10:16:13 : INFO] - Re_Smush_It_Task with attachment ID : 1328, autocreated on : October 28, 2022 10:11:09 
+[2022-10-28 10:16:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-28 10:16:13 : INFO] - 100 
+[2022-10-28 10:16:13 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2022/10/seos-key-fob-front-img_6079.png. 
+[2022-10-28 10:16:13 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2022-10-28 10:16:13 : INFO] - Lock option (updraft_lock_smush, hit_options) released 
+[2022-10-28 10:16:13 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-10-28 10:16:13 : INFO] - Lock option (updraft_lock_smush, hit_options) was deleted from the database 
+[2022-10-28 10:16:13 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-10-28 10:21:12 : INFO] - Re_Smush_It_Task with attachment ID : 1330, autocreated on : October 28, 2022 10:21:11 
+[2022-10-28 10:26:22 : INFO] - 
+ 
+[2022-10-28 10:26:22 : INFO] - Header for logs at time:  Fri, 28 Oct 2022 10:26:22 +0000 on https://www.hitools.fr 
+[2022-10-28 10:26:22 : INFO] - WP: 6.0.3 
+[2022-10-28 10:26:22 : INFO] - PHP: 7.4.32 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2022-10-28 10:26:22 : INFO] - MySQL: 5.7.38 
+[2022-10-28 10:26:22 : INFO] - WPLANG: fr_FR 
+[2022-10-28 10:26:22 : INFO] - Server: Apache 
+[2022-10-28 10:26:22 : INFO] - Outbound connections: N 
+[2022-10-28 10:26:22 : INFO] - safe_mode: 0 
+[2022-10-28 10:26:22 : INFO] - max_execution_time: 50000 
+[2022-10-28 10:26:22 : INFO] - memory_limit: -1 (used: 98.2M | 101M) 
+[2022-10-28 10:26:22 : INFO] - multisite: N 
+[2022-10-28 10:26:22 : INFO] - openssl: OpenSSL 1.1.1n  15 Mar 2022 
+[2022-10-28 10:26:22 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-10-28 10:26:22 : DEBUG] - Lock option (updraft_lock_smush, hit_options) was created in the database 
+[2022-10-28 10:26:22 : INFO] - Lock (updraft_lock_smush, hit_options) acquired after initialising the database 
+[2022-10-28 10:26:22 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2022-10-28 10:26:22 : INFO] - Re_Smush_It_Task with attachment ID : 1330, autocreated on : October 28, 2022 10:21:11 
+[2022-10-28 10:26:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-28 10:26:22 : INFO] - 100 
+[2022-10-28 10:26:22 : INFO] - Backing up the original image - 2022/10/seos-card_0-updraft-pre-smush-original.png 
+[2022-10-28 10:26:22 : INFO] - Re_Smush_It_Task with attachment ID : 1330, autocreated on : October 28, 2022 10:21:11 
+[2022-10-28 10:26:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-28 10:26:22 : INFO] - 100 
+[2022-10-28 10:26:22 : INFO] - Re_Smush_It_Task with attachment ID : 1330, autocreated on : October 28, 2022 10:21:11 
+[2022-10-28 10:26:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-28 10:26:22 : INFO] - 100 
+[2022-10-28 10:26:22 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2022/10/seos-card_0.png. 
+[2022-10-28 10:26:22 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2022-10-28 10:26:22 : INFO] - Lock option (updraft_lock_smush, hit_options) released 
+[2022-10-28 10:26:22 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-10-28 10:26:22 : INFO] - Lock option (updraft_lock_smush, hit_options) was deleted from the database 
+[2022-10-28 10:26:22 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-10-28 10:28:33 : INFO] - Re_Smush_It_Task with attachment ID : 1332, autocreated on : October 28, 2022 10:28:33 
+[2022-10-28 10:36:25 : INFO] - 
+ 
+[2022-10-28 10:36:25 : INFO] - Header for logs at time:  Fri, 28 Oct 2022 10:36:25 +0000 on https://www.hitools.fr 
+[2022-10-28 10:36:25 : INFO] - WP: 6.0.3 
+[2022-10-28 10:36:25 : INFO] - PHP: 7.4.32 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2022-10-28 10:36:25 : INFO] - MySQL: 5.7.38 
+[2022-10-28 10:36:25 : INFO] - WPLANG: fr_FR 
+[2022-10-28 10:36:25 : INFO] - Server: Apache 
+[2022-10-28 10:36:25 : INFO] - Outbound connections: N 
+[2022-10-28 10:36:25 : INFO] - safe_mode: 0 
+[2022-10-28 10:36:25 : INFO] - max_execution_time: 50000 
+[2022-10-28 10:36:25 : INFO] - memory_limit: -1 (used: 98.2M | 101M) 
+[2022-10-28 10:36:25 : INFO] - multisite: N 
+[2022-10-28 10:36:25 : INFO] - openssl: OpenSSL 1.1.1n  15 Mar 2022 
+[2022-10-28 10:36:25 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-10-28 10:36:25 : DEBUG] - Lock option (updraft_lock_smush, hit_options) was created in the database 
+[2022-10-28 10:36:25 : INFO] - Lock (updraft_lock_smush, hit_options) acquired after initialising the database 
+[2022-10-28 10:36:25 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2022-10-28 10:36:25 : INFO] - Re_Smush_It_Task with attachment ID : 1332, autocreated on : October 28, 2022 10:28:33 
+[2022-10-28 10:36:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-28 10:36:25 : INFO] - 100 
+[2022-10-28 10:36:25 : INFO] - Backing up the original image - 2022/10/clamshell-card-front-seos-updraft-pre-smush-original.png 
+[2022-10-28 10:36:25 : INFO] - Re_Smush_It_Task with attachment ID : 1332, autocreated on : October 28, 2022 10:28:33 
+[2022-10-28 10:36:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-28 10:36:25 : INFO] - 100 
+[2022-10-28 10:36:25 : INFO] - Re_Smush_It_Task with attachment ID : 1332, autocreated on : October 28, 2022 10:28:33 
+[2022-10-28 10:36:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-28 10:36:25 : INFO] - 100 
+[2022-10-28 10:36:25 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2022/10/clamshell-card-front-seos.png. 
+[2022-10-28 10:36:25 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2022-10-28 10:36:25 : INFO] - Lock option (updraft_lock_smush, hit_options) released 
+[2022-10-28 10:36:25 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-10-28 10:36:25 : INFO] - Lock option (updraft_lock_smush, hit_options) was deleted from the database 
+[2022-10-28 10:36:25 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-10-28 10:43:58 : INFO] - Re_Smush_It_Task with attachment ID : 1334, autocreated on : October 28, 2022 10:43:58 
+[2022-10-28 10:46:29 : INFO] - 
+ 
+[2022-10-28 10:46:29 : INFO] - Header for logs at time:  Fri, 28 Oct 2022 10:46:29 +0000 on https://www.hitools.fr 
+[2022-10-28 10:46:29 : INFO] - WP: 6.0.3 
+[2022-10-28 10:46:29 : INFO] - PHP: 7.4.32 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2022-10-28 10:46:29 : INFO] - MySQL: 5.7.38 
+[2022-10-28 10:46:29 : INFO] - WPLANG: fr_FR 
+[2022-10-28 10:46:29 : INFO] - Server: Apache 
+[2022-10-28 10:46:29 : INFO] - Outbound connections: N 
+[2022-10-28 10:46:29 : INFO] - safe_mode: 0 
+[2022-10-28 10:46:29 : INFO] - max_execution_time: 50000 
+[2022-10-28 10:46:29 : INFO] - memory_limit: -1 (used: 98.2M | 101M) 
+[2022-10-28 10:46:29 : INFO] - multisite: N 
+[2022-10-28 10:46:29 : INFO] - openssl: OpenSSL 1.1.1n  15 Mar 2022 
+[2022-10-28 10:46:29 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-10-28 10:46:29 : DEBUG] - Lock option (updraft_lock_smush, hit_options) was created in the database 
+[2022-10-28 10:46:29 : INFO] - Lock (updraft_lock_smush, hit_options) acquired after initialising the database 
+[2022-10-28 10:46:29 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2022-10-28 10:46:29 : INFO] - Re_Smush_It_Task with attachment ID : 1334, autocreated on : October 28, 2022 10:43:58 
+[2022-10-28 10:46:29 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-28 10:46:29 : INFO] - 100 
+[2022-10-28 10:46:30 : INFO] - Backing up the original image - 2022/10/seos-prox_0_0-updraft-pre-smush-original.png 
+[2022-10-28 10:46:30 : INFO] - Re_Smush_It_Task with attachment ID : 1334, autocreated on : October 28, 2022 10:43:58 
+[2022-10-28 10:46:30 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-28 10:46:30 : INFO] - 100 
+[2022-10-28 10:46:30 : INFO] - Re_Smush_It_Task with attachment ID : 1334, autocreated on : October 28, 2022 10:43:58 
+[2022-10-28 10:46:30 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-28 10:46:30 : INFO] - 100 
+[2022-10-28 10:46:30 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2022/10/seos-prox_0_0.png. 
+[2022-10-28 10:46:30 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2022-10-28 10:46:30 : INFO] - Lock option (updraft_lock_smush, hit_options) released 
+[2022-10-28 10:46:30 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-10-28 10:46:30 : INFO] - Lock option (updraft_lock_smush, hit_options) was deleted from the database 
+[2022-10-28 10:46:30 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-10-28 10:56:50 : INFO] - 
+ 
+[2022-10-28 10:56:50 : INFO] - Header for logs at time:  Fri, 28 Oct 2022 10:56:50 +0000 on https://www.hitools.fr 
+[2022-10-28 10:56:50 : INFO] - WP: 6.0.3 
+[2022-10-28 10:56:50 : INFO] - PHP: 7.4.32 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2022-10-28 10:56:50 : INFO] - MySQL: 5.7.38 
+[2022-10-28 10:56:50 : INFO] - WPLANG: fr_FR 
+[2022-10-28 10:56:50 : INFO] - Server: Apache 
+[2022-10-28 10:56:50 : INFO] - Outbound connections: N 
+[2022-10-28 10:56:50 : INFO] - safe_mode: 0 
+[2022-10-28 10:56:50 : INFO] - max_execution_time: 50000 
+[2022-10-28 10:56:50 : INFO] - memory_limit: -1 (used: 98.3M | 101M) 
+[2022-10-28 10:56:50 : INFO] - multisite: N 
+[2022-10-28 10:56:50 : INFO] - openssl: OpenSSL 1.1.1n  15 Mar 2022 
+[2022-10-28 10:56:50 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-10-28 11:02:50 : INFO] - Re_Smush_It_Task with attachment ID : 1336, autocreated on : October 28, 2022 11:02:49 
+[2022-10-28 11:08:08 : INFO] - 
+ 
+[2022-10-28 11:08:08 : INFO] - Header for logs at time:  Fri, 28 Oct 2022 11:08:08 +0000 on https://www.hitools.fr 
+[2022-10-28 11:08:08 : INFO] - WP: 6.0.3 
+[2022-10-28 11:08:08 : INFO] - PHP: 7.4.32 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2022-10-28 11:08:08 : INFO] - MySQL: 5.7.38 
+[2022-10-28 11:08:08 : INFO] - WPLANG: fr_FR 
+[2022-10-28 11:08:08 : INFO] - Server: Apache 
+[2022-10-28 11:08:08 : INFO] - Outbound connections: N 
+[2022-10-28 11:08:08 : INFO] - safe_mode: 0 
+[2022-10-28 11:08:08 : INFO] - max_execution_time: 50000 
+[2022-10-28 11:08:08 : INFO] - memory_limit: -1 (used: 98.3M | 101M) 
+[2022-10-28 11:08:08 : INFO] - multisite: N 
+[2022-10-28 11:08:08 : INFO] - openssl: OpenSSL 1.1.1n  15 Mar 2022 
+[2022-10-28 11:08:08 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-10-28 11:08:08 : DEBUG] - Lock option (updraft_lock_smush, hit_options) was created in the database 
+[2022-10-28 11:08:08 : INFO] - Lock (updraft_lock_smush, hit_options) acquired after initialising the database 
+[2022-10-28 11:08:08 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2022-10-28 11:08:08 : INFO] - Re_Smush_It_Task with attachment ID : 1336, autocreated on : October 28, 2022 11:02:49 
+[2022-10-28 11:08:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-28 11:08:08 : INFO] - 100 
+[2022-10-28 11:08:14 : INFO] - Backing up the original image - 2022/10/pacs-seos-essential-card-02_0-updraft-pre-smush-original.png 
+[2022-10-28 11:08:14 : INFO] - Re_Smush_It_Task with attachment ID : 1336, autocreated on : October 28, 2022 11:02:49 
+[2022-10-28 11:08:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-28 11:08:14 : INFO] - 100 
+[2022-10-28 11:08:14 : INFO] - Re_Smush_It_Task with attachment ID : 1336, autocreated on : October 28, 2022 11:02:49 
+[2022-10-28 11:08:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-28 11:08:14 : INFO] - 100 
+[2022-10-28 11:08:14 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2022/10/pacs-seos-essential-card-02_0.png. 
+[2022-10-28 11:08:14 : INFO] - Completed processing task with ID : 7, and type 'smush' 
+[2022-10-28 11:08:14 : INFO] - Lock option (updraft_lock_smush, hit_options) released 
+[2022-10-28 11:08:14 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-10-28 11:08:14 : INFO] - Lock option (updraft_lock_smush, hit_options) was deleted from the database 
+[2022-10-28 11:08:14 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-10-28 11:18:20 : INFO] - 
+ 
+[2022-10-28 11:18:20 : INFO] - Header for logs at time:  Fri, 28 Oct 2022 11:18:20 +0000 on https://www.hitools.fr 
+[2022-10-28 11:18:20 : INFO] - WP: 6.0.3 
+[2022-10-28 11:18:20 : INFO] - PHP: 7.4.32 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2022-10-28 11:18:20 : INFO] - MySQL: 5.7.38 
+[2022-10-28 11:18:20 : INFO] - WPLANG: fr_FR 
+[2022-10-28 11:18:20 : INFO] - Server: Apache 
+[2022-10-28 11:18:20 : INFO] - Outbound connections: N 
+[2022-10-28 11:18:20 : INFO] - safe_mode: 0 
+[2022-10-28 11:18:20 : INFO] - max_execution_time: 50000 
+[2022-10-28 11:18:20 : INFO] - memory_limit: -1 (used: 98.2M | 101M) 
+[2022-10-28 11:18:20 : INFO] - multisite: N 
+[2022-10-28 11:18:20 : INFO] - openssl: OpenSSL 1.1.1n  15 Mar 2022 
+[2022-10-28 11:18:20 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-10-28 11:25:58 : INFO] - Re_Smush_It_Task with attachment ID : 1338, autocreated on : October 28, 2022 11:25:58 
+[2022-10-28 11:31:47 : INFO] - 
+ 
+[2022-10-28 11:31:47 : INFO] - Header for logs at time:  Fri, 28 Oct 2022 11:31:47 +0000 on https://www.hitools.fr 
+[2022-10-28 11:31:47 : INFO] - WP: 6.0.3 
+[2022-10-28 11:31:47 : INFO] - PHP: 7.4.32 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2022-10-28 11:31:47 : INFO] - MySQL: 5.7.38 
+[2022-10-28 11:31:47 : INFO] - WPLANG: fr_FR 
+[2022-10-28 11:31:47 : INFO] - Server: Apache 
+[2022-10-28 11:31:47 : INFO] - Outbound connections: N 
+[2022-10-28 11:31:47 : INFO] - safe_mode: 0 
+[2022-10-28 11:31:47 : INFO] - max_execution_time: 50000 
+[2022-10-28 11:31:47 : INFO] - memory_limit: -1 (used: 98.3M | 101M) 
+[2022-10-28 11:31:47 : INFO] - multisite: N 
+[2022-10-28 11:31:47 : INFO] - openssl: OpenSSL 1.1.1n  15 Mar 2022 
+[2022-10-28 11:31:47 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-10-28 11:31:47 : DEBUG] - Lock option (updraft_lock_smush, hit_options) was created in the database 
+[2022-10-28 11:31:47 : INFO] - Lock (updraft_lock_smush, hit_options) acquired after initialising the database 
+[2022-10-28 11:31:47 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2022-10-28 11:31:47 : INFO] - Re_Smush_It_Task with attachment ID : 1338, autocreated on : October 28, 2022 11:25:58 
+[2022-10-28 11:31:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-28 11:31:47 : INFO] - 100 
+[2022-10-28 11:31:47 : INFO] - Backing up the original image - 2022/10/seos-desfire-ev1_0-updraft-pre-smush-original.png 
+[2022-10-28 11:31:47 : INFO] - Re_Smush_It_Task with attachment ID : 1338, autocreated on : October 28, 2022 11:25:58 
+[2022-10-28 11:31:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-28 11:31:47 : INFO] - 100 
+[2022-10-28 11:31:48 : INFO] - Re_Smush_It_Task with attachment ID : 1338, autocreated on : October 28, 2022 11:25:58 
+[2022-10-28 11:31:48 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-10-28 11:31:48 : INFO] - 100 
+[2022-10-28 11:31:48 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2022/10/seos-desfire-ev1_0.png. 
+[2022-10-28 11:31:48 : INFO] - Completed processing task with ID : 8, and type 'smush' 
+[2022-10-28 11:31:48 : INFO] - Lock option (updraft_lock_smush, hit_options) released 
+[2022-10-28 11:31:48 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-10-28 11:31:48 : INFO] - Lock option (updraft_lock_smush, hit_options) was deleted from the database 
+[2022-10-28 11:31:48 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-10-28 11:42:28 : INFO] - 
+ 
+[2022-10-28 11:42:28 : INFO] - Header for logs at time:  Fri, 28 Oct 2022 11:42:28 +0000 on http://www.hitools.fr 
+[2022-10-28 11:42:28 : INFO] - WP: 6.0.3 
+[2022-10-28 11:42:28 : INFO] - PHP: 7.4.32 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2022-10-28 11:42:28 : INFO] - MySQL: 5.7.38 
+[2022-10-28 11:42:28 : INFO] - WPLANG: fr_FR 
+[2022-10-28 11:42:28 : INFO] - Server: Apache 
+[2022-10-28 11:42:28 : INFO] - Outbound connections: N 
+[2022-10-28 11:42:28 : INFO] - safe_mode: 0 
+[2022-10-28 11:42:28 : INFO] - max_execution_time: 50000 
+[2022-10-28 11:42:28 : INFO] - memory_limit: -1 (used: 98.2M | 101M) 
+[2022-10-28 11:42:28 : INFO] - multisite: N 
+[2022-10-28 11:42:28 : INFO] - openssl: OpenSSL 1.1.1n  15 Mar 2022 
+[2022-10-28 11:42:28 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-12-03 11:55:09 : INFO] - Re_Smush_It_Task with attachment ID : 1350, autocreated on : December 03, 2022 11:55:08 
+[2022-12-03 12:00:13 : INFO] - 
+ 
+[2022-12-03 12:00:13 : INFO] - Header for logs at time:  Sat, 03 Dec 2022 12:00:13 +0000 on https://www.hitools.fr 
+[2022-12-03 12:00:13 : INFO] - WP: 6.1.1 
+[2022-12-03 12:00:13 : INFO] - PHP: 7.4.33 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2022-12-03 12:00:13 : INFO] - MySQL: 5.7.38 
+[2022-12-03 12:00:13 : INFO] - WPLANG: fr_FR 
+[2022-12-03 12:00:13 : INFO] - Server: Apache 
+[2022-12-03 12:00:13 : INFO] - Outbound connections: N 
+[2022-12-03 12:00:13 : INFO] - safe_mode: 0 
+[2022-12-03 12:00:13 : INFO] - max_execution_time: 50000 
+[2022-12-03 12:00:13 : INFO] - memory_limit: -1 (used: 101.2M | 103M) 
+[2022-12-03 12:00:13 : INFO] - multisite: N 
+[2022-12-03 12:00:13 : INFO] - openssl: OpenSSL 1.1.1n  15 Mar 2022 
+[2022-12-03 12:00:13 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-12-03 12:00:13 : DEBUG] - Lock option (updraft_lock_smush, hit_options) was created in the database 
+[2022-12-03 12:00:13 : INFO] - Lock (updraft_lock_smush, hit_options) acquired after initialising the database 
+[2022-12-03 12:00:13 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2022-12-03 12:00:13 : INFO] - Re_Smush_It_Task with attachment ID : 1350, autocreated on : December 03, 2022 11:55:08 
+[2022-12-03 12:00:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:00:13 : INFO] - 100 
+[2022-12-03 12:00:14 : INFO] - Backing up the original image - 2022/12/proxpro_keypad_blk_5355_5352_5358-updraft-pre-smush-original.png 
+[2022-12-03 12:00:14 : INFO] - Re_Smush_It_Task with attachment ID : 1350, autocreated on : December 03, 2022 11:55:08 
+[2022-12-03 12:00:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:00:14 : INFO] - 100 
+[2022-12-03 12:00:14 : INFO] - Re_Smush_It_Task with attachment ID : 1350, autocreated on : December 03, 2022 11:55:08 
+[2022-12-03 12:00:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:00:14 : INFO] - 100 
+[2022-12-03 12:00:14 : INFO] - Re_Smush_It_Task with attachment ID : 1350, autocreated on : December 03, 2022 11:55:08 
+[2022-12-03 12:00:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:00:14 : INFO] - 100 
+[2022-12-03 12:00:16 : INFO] - Re_Smush_It_Task with attachment ID : 1350, autocreated on : December 03, 2022 11:55:08 
+[2022-12-03 12:00:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:00:16 : INFO] - 100 
+[2022-12-03 12:00:16 : INFO] - Re_Smush_It_Task with attachment ID : 1350, autocreated on : December 03, 2022 11:55:08 
+[2022-12-03 12:00:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:00:16 : INFO] - 100 
+[2022-12-03 12:00:17 : INFO] - Re_Smush_It_Task with attachment ID : 1350, autocreated on : December 03, 2022 11:55:08 
+[2022-12-03 12:00:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:00:17 : INFO] - 100 
+[2022-12-03 12:00:17 : INFO] - Re_Smush_It_Task with attachment ID : 1350, autocreated on : December 03, 2022 11:55:08 
+[2022-12-03 12:00:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:00:17 : INFO] - 100 
+[2022-12-03 12:00:18 : INFO] - Re_Smush_It_Task with attachment ID : 1350, autocreated on : December 03, 2022 11:55:08 
+[2022-12-03 12:00:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:00:18 : INFO] - 100 
+[2022-12-03 12:00:18 : INFO] - Re_Smush_It_Task with attachment ID : 1350, autocreated on : December 03, 2022 11:55:08 
+[2022-12-03 12:00:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:00:18 : INFO] - 100 
+[2022-12-03 12:00:19 : INFO] - Re_Smush_It_Task with attachment ID : 1350, autocreated on : December 03, 2022 11:55:08 
+[2022-12-03 12:00:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:00:19 : INFO] - 100 
+[2022-12-03 12:00:19 : INFO] - Re_Smush_It_Task with attachment ID : 1350, autocreated on : December 03, 2022 11:55:08 
+[2022-12-03 12:00:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:00:19 : INFO] - 100 
+[2022-12-03 12:00:20 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2022/12/proxpro_keypad_blk_5355_5352_5358.png. 
+[2022-12-03 12:00:20 : INFO] - Completed processing task with ID : 9, and type 'smush' 
+[2022-12-03 12:00:20 : INFO] - Lock option (updraft_lock_smush, hit_options) released 
+[2022-12-03 12:00:20 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-12-03 12:00:20 : INFO] - Lock option (updraft_lock_smush, hit_options) was deleted from the database 
+[2022-12-03 12:00:20 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-12-03 12:10:59 : INFO] - 
+ 
+[2022-12-03 12:10:59 : INFO] - Header for logs at time:  Sat, 03 Dec 2022 12:10:59 +0000 on https://www.hitools.fr 
+[2022-12-03 12:10:59 : INFO] - WP: 6.1.1 
+[2022-12-03 12:10:59 : INFO] - PHP: 7.4.33 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2022-12-03 12:10:59 : INFO] - MySQL: 5.7.38 
+[2022-12-03 12:10:59 : INFO] - WPLANG: fr_FR 
+[2022-12-03 12:10:59 : INFO] - Server: Apache 
+[2022-12-03 12:10:59 : INFO] - Outbound connections: N 
+[2022-12-03 12:10:59 : INFO] - safe_mode: 0 
+[2022-12-03 12:10:59 : INFO] - max_execution_time: 50000 
+[2022-12-03 12:10:59 : INFO] - memory_limit: -1 (used: 101.2M | 105M) 
+[2022-12-03 12:10:59 : INFO] - multisite: N 
+[2022-12-03 12:10:59 : INFO] - openssl: OpenSSL 1.1.1n  15 Mar 2022 
+[2022-12-03 12:10:59 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-12-03 12:13:00 : INFO] - Re_Smush_It_Task with attachment ID : 1352, autocreated on : December 03, 2022 12:13:00 
+[2022-12-03 12:18:08 : INFO] - 
+ 
+[2022-12-03 12:18:08 : INFO] - Header for logs at time:  Sat, 03 Dec 2022 12:18:08 +0000 on https://www.hitools.fr 
+[2022-12-03 12:18:08 : INFO] - WP: 6.1.1 
+[2022-12-03 12:18:08 : INFO] - PHP: 7.4.33 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2022-12-03 12:18:08 : INFO] - MySQL: 5.7.38 
+[2022-12-03 12:18:08 : INFO] - WPLANG: fr_FR 
+[2022-12-03 12:18:08 : INFO] - Server: Apache 
+[2022-12-03 12:18:08 : INFO] - Outbound connections: N 
+[2022-12-03 12:18:08 : INFO] - safe_mode: 0 
+[2022-12-03 12:18:08 : INFO] - max_execution_time: 50000 
+[2022-12-03 12:18:08 : INFO] - memory_limit: -1 (used: 101.2M | 103M) 
+[2022-12-03 12:18:08 : INFO] - multisite: N 
+[2022-12-03 12:18:08 : INFO] - openssl: OpenSSL 1.1.1n  15 Mar 2022 
+[2022-12-03 12:18:08 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-12-03 12:18:08 : DEBUG] - Lock option (updraft_lock_smush, hit_options) was created in the database 
+[2022-12-03 12:18:08 : INFO] - Lock (updraft_lock_smush, hit_options) acquired after initialising the database 
+[2022-12-03 12:18:08 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2022-12-03 12:18:08 : INFO] - Re_Smush_It_Task with attachment ID : 1352, autocreated on : December 03, 2022 12:13:00 
+[2022-12-03 12:18:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:18:08 : INFO] - 100 
+[2022-12-03 12:18:09 : INFO] - Backing up the original image - 2022/12/miniprox_blk-updraft-pre-smush-original.png 
+[2022-12-03 12:18:09 : INFO] - Re_Smush_It_Task with attachment ID : 1352, autocreated on : December 03, 2022 12:13:00 
+[2022-12-03 12:18:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:18:09 : INFO] - 100 
+[2022-12-03 12:18:09 : INFO] - Re_Smush_It_Task with attachment ID : 1352, autocreated on : December 03, 2022 12:13:00 
+[2022-12-03 12:18:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:18:09 : INFO] - 100 
+[2022-12-03 12:18:09 : INFO] - Re_Smush_It_Task with attachment ID : 1352, autocreated on : December 03, 2022 12:13:00 
+[2022-12-03 12:18:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:18:09 : INFO] - 100 
+[2022-12-03 12:18:10 : INFO] - Re_Smush_It_Task with attachment ID : 1352, autocreated on : December 03, 2022 12:13:00 
+[2022-12-03 12:18:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:18:10 : INFO] - 100 
+[2022-12-03 12:18:10 : INFO] - Re_Smush_It_Task with attachment ID : 1352, autocreated on : December 03, 2022 12:13:00 
+[2022-12-03 12:18:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:18:10 : INFO] - 100 
+[2022-12-03 12:18:11 : INFO] - Re_Smush_It_Task with attachment ID : 1352, autocreated on : December 03, 2022 12:13:00 
+[2022-12-03 12:18:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:18:11 : INFO] - 100 
+[2022-12-03 12:18:11 : INFO] - Re_Smush_It_Task with attachment ID : 1352, autocreated on : December 03, 2022 12:13:00 
+[2022-12-03 12:18:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:18:11 : INFO] - 100 
+[2022-12-03 12:18:11 : INFO] - Re_Smush_It_Task with attachment ID : 1352, autocreated on : December 03, 2022 12:13:00 
+[2022-12-03 12:18:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:18:11 : INFO] - 100 
+[2022-12-03 12:18:12 : INFO] - Re_Smush_It_Task with attachment ID : 1352, autocreated on : December 03, 2022 12:13:00 
+[2022-12-03 12:18:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:18:12 : INFO] - 100 
+[2022-12-03 12:18:12 : INFO] - Re_Smush_It_Task with attachment ID : 1352, autocreated on : December 03, 2022 12:13:00 
+[2022-12-03 12:18:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:18:12 : INFO] - 100 
+[2022-12-03 12:18:13 : INFO] - Re_Smush_It_Task with attachment ID : 1352, autocreated on : December 03, 2022 12:13:00 
+[2022-12-03 12:18:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:18:13 : INFO] - 100 
+[2022-12-03 12:18:13 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2022/12/miniprox_blk.png. 
+[2022-12-03 12:18:13 : INFO] - Completed processing task with ID : 10, and type 'smush' 
+[2022-12-03 12:18:13 : INFO] - Lock option (updraft_lock_smush, hit_options) released 
+[2022-12-03 12:18:13 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-12-03 12:18:13 : INFO] - Lock option (updraft_lock_smush, hit_options) was deleted from the database 
+[2022-12-03 12:18:13 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-12-03 12:18:57 : INFO] - Re_Smush_It_Task with attachment ID : 1354, autocreated on : December 03, 2022 12:18:57 
+[2022-12-03 12:25:58 : INFO] - Re_Smush_It_Task with attachment ID : 1357, autocreated on : December 03, 2022 12:25:58 
+[2022-12-03 12:27:35 : INFO] - Re_Smush_It_Task with attachment ID : 1359, autocreated on : December 03, 2022 12:27:35 
+[2022-12-03 12:28:13 : INFO] - 
+ 
+[2022-12-03 12:28:13 : INFO] - Header for logs at time:  Sat, 03 Dec 2022 12:28:13 +0000 on https://www.hitools.fr 
+[2022-12-03 12:28:13 : INFO] - WP: 6.1.1 
+[2022-12-03 12:28:13 : INFO] - PHP: 7.4.33 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2022-12-03 12:28:13 : INFO] - MySQL: 5.7.38 
+[2022-12-03 12:28:13 : INFO] - WPLANG: fr_FR 
+[2022-12-03 12:28:13 : INFO] - Server: Apache 
+[2022-12-03 12:28:13 : INFO] - Outbound connections: N 
+[2022-12-03 12:28:13 : INFO] - safe_mode: 0 
+[2022-12-03 12:28:13 : INFO] - max_execution_time: 50000 
+[2022-12-03 12:28:13 : INFO] - memory_limit: -1 (used: 101.2M | 103M) 
+[2022-12-03 12:28:13 : INFO] - multisite: N 
+[2022-12-03 12:28:13 : INFO] - openssl: OpenSSL 1.1.1n  15 Mar 2022 
+[2022-12-03 12:28:13 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2022-12-03 12:28:13 : DEBUG] - Lock option (updraft_lock_smush, hit_options) was created in the database 
+[2022-12-03 12:28:13 : INFO] - Lock (updraft_lock_smush, hit_options) acquired after initialising the database 
+[2022-12-03 12:28:13 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2022-12-03 12:28:13 : INFO] - Re_Smush_It_Task with attachment ID : 1354, autocreated on : December 03, 2022 12:18:57 
+[2022-12-03 12:28:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:13 : INFO] - 100 
+[2022-12-03 12:28:14 : INFO] - Backing up the original image - 2022/12/proxproii_blk_5455_5458-updraft-pre-smush-original.png 
+[2022-12-03 12:28:14 : INFO] - Re_Smush_It_Task with attachment ID : 1354, autocreated on : December 03, 2022 12:18:57 
+[2022-12-03 12:28:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:14 : INFO] - 100 
+[2022-12-03 12:28:14 : INFO] - Re_Smush_It_Task with attachment ID : 1354, autocreated on : December 03, 2022 12:18:57 
+[2022-12-03 12:28:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:14 : INFO] - 100 
+[2022-12-03 12:28:14 : INFO] - Re_Smush_It_Task with attachment ID : 1354, autocreated on : December 03, 2022 12:18:57 
+[2022-12-03 12:28:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:14 : INFO] - 100 
+[2022-12-03 12:28:15 : INFO] - Re_Smush_It_Task with attachment ID : 1354, autocreated on : December 03, 2022 12:18:57 
+[2022-12-03 12:28:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:15 : INFO] - 100 
+[2022-12-03 12:28:15 : INFO] - Re_Smush_It_Task with attachment ID : 1354, autocreated on : December 03, 2022 12:18:57 
+[2022-12-03 12:28:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:15 : INFO] - 100 
+[2022-12-03 12:28:17 : INFO] - Re_Smush_It_Task with attachment ID : 1354, autocreated on : December 03, 2022 12:18:57 
+[2022-12-03 12:28:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:17 : INFO] - 100 
+[2022-12-03 12:28:17 : INFO] - Re_Smush_It_Task with attachment ID : 1354, autocreated on : December 03, 2022 12:18:57 
+[2022-12-03 12:28:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:17 : INFO] - 100 
+[2022-12-03 12:28:17 : INFO] - Re_Smush_It_Task with attachment ID : 1354, autocreated on : December 03, 2022 12:18:57 
+[2022-12-03 12:28:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:17 : INFO] - 100 
+[2022-12-03 12:28:18 : INFO] - Re_Smush_It_Task with attachment ID : 1354, autocreated on : December 03, 2022 12:18:57 
+[2022-12-03 12:28:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:18 : INFO] - 100 
+[2022-12-03 12:28:18 : INFO] - Re_Smush_It_Task with attachment ID : 1354, autocreated on : December 03, 2022 12:18:57 
+[2022-12-03 12:28:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:18 : INFO] - 100 
+[2022-12-03 12:28:19 : INFO] - Re_Smush_It_Task with attachment ID : 1354, autocreated on : December 03, 2022 12:18:57 
+[2022-12-03 12:28:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:19 : INFO] - 100 
+[2022-12-03 12:28:19 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2022/12/proxproii_blk_5455_5458.png. 
+[2022-12-03 12:28:19 : INFO] - Completed processing task with ID : 11, and type 'smush' 
+[2022-12-03 12:28:19 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2022-12-03 12:28:19 : INFO] - Re_Smush_It_Task with attachment ID : 1357, autocreated on : December 03, 2022 12:25:58 
+[2022-12-03 12:28:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:19 : INFO] - 100 
+[2022-12-03 12:28:20 : INFO] - Backing up the original image - 2022/12/mini-hazard-working-updraft-pre-smush-original.png 
+[2022-12-03 12:28:20 : INFO] - Re_Smush_It_Task with attachment ID : 1357, autocreated on : December 03, 2022 12:25:58 
+[2022-12-03 12:28:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:20 : INFO] - 100 
+[2022-12-03 12:28:20 : INFO] - Re_Smush_It_Task with attachment ID : 1357, autocreated on : December 03, 2022 12:25:58 
+[2022-12-03 12:28:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:20 : INFO] - 100 
+[2022-12-03 12:28:20 : INFO] - Re_Smush_It_Task with attachment ID : 1357, autocreated on : December 03, 2022 12:25:58 
+[2022-12-03 12:28:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:20 : INFO] - 100 
+[2022-12-03 12:28:21 : INFO] - Re_Smush_It_Task with attachment ID : 1357, autocreated on : December 03, 2022 12:25:58 
+[2022-12-03 12:28:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:21 : INFO] - 100 
+[2022-12-03 12:28:21 : INFO] - Re_Smush_It_Task with attachment ID : 1357, autocreated on : December 03, 2022 12:25:58 
+[2022-12-03 12:28:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:21 : INFO] - 100 
+[2022-12-03 12:28:21 : INFO] - Re_Smush_It_Task with attachment ID : 1357, autocreated on : December 03, 2022 12:25:58 
+[2022-12-03 12:28:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:21 : INFO] - 100 
+[2022-12-03 12:28:22 : INFO] - Re_Smush_It_Task with attachment ID : 1357, autocreated on : December 03, 2022 12:25:58 
+[2022-12-03 12:28:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:22 : INFO] - 100 
+[2022-12-03 12:28:22 : INFO] - Re_Smush_It_Task with attachment ID : 1357, autocreated on : December 03, 2022 12:25:58 
+[2022-12-03 12:28:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:22 : INFO] - 100 
+[2022-12-03 12:28:23 : INFO] - Re_Smush_It_Task with attachment ID : 1357, autocreated on : December 03, 2022 12:25:58 
+[2022-12-03 12:28:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:23 : INFO] - 100 
+[2022-12-03 12:28:23 : INFO] - Re_Smush_It_Task with attachment ID : 1357, autocreated on : December 03, 2022 12:25:58 
+[2022-12-03 12:28:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:23 : INFO] - 100 
+[2022-12-03 12:28:24 : INFO] - Re_Smush_It_Task with attachment ID : 1357, autocreated on : December 03, 2022 12:25:58 
+[2022-12-03 12:28:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:24 : INFO] - 100 
+[2022-12-03 12:28:24 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2022/12/mini-hazard-working.png. 
+[2022-12-03 12:28:24 : INFO] - Completed processing task with ID : 12, and type 'smush' 
+[2022-12-03 12:28:24 : INFO] - Processing task with ID : 13, and type 'smush' 
+[2022-12-03 12:28:24 : INFO] - Re_Smush_It_Task with attachment ID : 1359, autocreated on : December 03, 2022 12:27:35 
+[2022-12-03 12:28:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:24 : INFO] - 100 
+[2022-12-03 12:28:25 : INFO] - Backing up the original image - 2022/12/maxiprox_5375-updraft-pre-smush-original.png 
+[2022-12-03 12:28:25 : INFO] - Re_Smush_It_Task with attachment ID : 1359, autocreated on : December 03, 2022 12:27:35 
+[2022-12-03 12:28:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:25 : INFO] - 100 
+[2022-12-03 12:28:25 : INFO] - Re_Smush_It_Task with attachment ID : 1359, autocreated on : December 03, 2022 12:27:35 
+[2022-12-03 12:28:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:25 : INFO] - 100 
+[2022-12-03 12:28:25 : INFO] - Re_Smush_It_Task with attachment ID : 1359, autocreated on : December 03, 2022 12:27:35 
+[2022-12-03 12:28:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:25 : INFO] - 100 
+[2022-12-03 12:28:26 : INFO] - Re_Smush_It_Task with attachment ID : 1359, autocreated on : December 03, 2022 12:27:35 
+[2022-12-03 12:28:26 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:26 : INFO] - 100 
+[2022-12-03 12:28:26 : INFO] - Re_Smush_It_Task with attachment ID : 1359, autocreated on : December 03, 2022 12:27:35 
+[2022-12-03 12:28:26 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:26 : INFO] - 100 
+[2022-12-03 12:28:27 : INFO] - Re_Smush_It_Task with attachment ID : 1359, autocreated on : December 03, 2022 12:27:35 
+[2022-12-03 12:28:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:27 : INFO] - 100 
+[2022-12-03 12:28:27 : INFO] - Re_Smush_It_Task with attachment ID : 1359, autocreated on : December 03, 2022 12:27:35 
+[2022-12-03 12:28:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:27 : INFO] - 100 
+[2022-12-03 12:28:28 : INFO] - Re_Smush_It_Task with attachment ID : 1359, autocreated on : December 03, 2022 12:27:35 
+[2022-12-03 12:28:28 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:28 : INFO] - 100 
+[2022-12-03 12:28:28 : INFO] - Re_Smush_It_Task with attachment ID : 1359, autocreated on : December 03, 2022 12:27:35 
+[2022-12-03 12:28:28 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:28 : INFO] - 100 
+[2022-12-03 12:28:29 : INFO] - Re_Smush_It_Task with attachment ID : 1359, autocreated on : December 03, 2022 12:27:35 
+[2022-12-03 12:28:29 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:29 : INFO] - 100 
+[2022-12-03 12:28:29 : INFO] - Re_Smush_It_Task with attachment ID : 1359, autocreated on : December 03, 2022 12:27:35 
+[2022-12-03 12:28:29 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:28:29 : INFO] - 100 
+[2022-12-03 12:28:29 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2022/12/maxiprox_5375.png. 
+[2022-12-03 12:28:29 : INFO] - Completed processing task with ID : 13, and type 'smush' 
+[2022-12-03 12:28:29 : INFO] - Lock option (updraft_lock_smush, hit_options) released 
+[2022-12-03 12:28:29 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2022-12-03 12:28:29 : INFO] - Lock option (updraft_lock_smush, hit_options) was deleted from the database 
+[2022-12-03 12:28:29 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2022-12-03 12:30:26 : INFO] - Re_Smush_It_Task with attachment ID : 1361, autocreated on : December 03, 2022 12:30:26 
+[2022-12-03 12:32:03 : INFO] - Re_Smush_It_Task with attachment ID : 1363, autocreated on : December 03, 2022 12:32:03 
+[2022-12-03 12:36:00 : INFO] - Re_Smush_It_Task with attachment ID : 1365, autocreated on : December 03, 2022 12:36:00 
+[2022-12-03 12:38:14 : INFO] - 
+ 
+[2022-12-03 12:38:14 : INFO] - Header for logs at time:  Sat, 03 Dec 2022 12:38:14 +0000 on https://www.hitools.fr 
+[2022-12-03 12:38:14 : INFO] - WP: 6.1.1 
+[2022-12-03 12:38:14 : INFO] - PHP: 7.4.33 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2022-12-03 12:38:14 : INFO] - MySQL: 5.7.38 
+[2022-12-03 12:38:14 : INFO] - WPLANG: fr_FR 
+[2022-12-03 12:38:14 : INFO] - Server: Apache 
+[2022-12-03 12:38:14 : INFO] - Outbound connections: N 
+[2022-12-03 12:38:14 : INFO] - safe_mode: 0 
+[2022-12-03 12:38:14 : INFO] - max_execution_time: 50000 
+[2022-12-03 12:38:14 : INFO] - memory_limit: -1 (used: 101.2M | 103M) 
+[2022-12-03 12:38:14 : INFO] - multisite: N 
+[2022-12-03 12:38:14 : INFO] - openssl: OpenSSL 1.1.1n  15 Mar 2022 
+[2022-12-03 12:38:14 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2022-12-03 12:38:14 : DEBUG] - Lock option (updraft_lock_smush, hit_options) was created in the database 
+[2022-12-03 12:38:14 : INFO] - Lock (updraft_lock_smush, hit_options) acquired after initialising the database 
+[2022-12-03 12:38:14 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2022-12-03 12:38:14 : INFO] - Re_Smush_It_Task with attachment ID : 1361, autocreated on : December 03, 2022 12:30:26 
+[2022-12-03 12:38:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:38:14 : INFO] - 100 
+[2022-12-03 12:38:15 : INFO] - Backing up the original image - 2022/12/thinline-classic-straight-updraft-pre-smush-original.png 
+[2022-12-03 12:38:15 : INFO] - Re_Smush_It_Task with attachment ID : 1361, autocreated on : December 03, 2022 12:30:26 
+[2022-12-03 12:38:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:38:15 : INFO] - 100 
+[2022-12-03 12:38:15 : INFO] - Re_Smush_It_Task with attachment ID : 1361, autocreated on : December 03, 2022 12:30:26 
+[2022-12-03 12:38:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:38:15 : INFO] - 100 
+[2022-12-03 12:38:15 : INFO] - Re_Smush_It_Task with attachment ID : 1361, autocreated on : December 03, 2022 12:30:26 
+[2022-12-03 12:38:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:38:15 : INFO] - 100 
+[2022-12-03 12:38:16 : INFO] - Re_Smush_It_Task with attachment ID : 1361, autocreated on : December 03, 2022 12:30:26 
+[2022-12-03 12:38:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:38:16 : INFO] - 100 
+[2022-12-03 12:38:16 : INFO] - Re_Smush_It_Task with attachment ID : 1361, autocreated on : December 03, 2022 12:30:26 
+[2022-12-03 12:38:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:38:16 : INFO] - 100 
+[2022-12-03 12:38:17 : INFO] - Re_Smush_It_Task with attachment ID : 1361, autocreated on : December 03, 2022 12:30:26 
+[2022-12-03 12:38:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:38:17 : INFO] - 100 
+[2022-12-03 12:38:17 : INFO] - Re_Smush_It_Task with attachment ID : 1361, autocreated on : December 03, 2022 12:30:26 
+[2022-12-03 12:38:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:38:17 : INFO] - 100 
+[2022-12-03 12:38:18 : INFO] - Re_Smush_It_Task with attachment ID : 1361, autocreated on : December 03, 2022 12:30:26 
+[2022-12-03 12:38:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:38:18 : INFO] - 100 
+[2022-12-03 12:38:18 : INFO] - Re_Smush_It_Task with attachment ID : 1361, autocreated on : December 03, 2022 12:30:26 
+[2022-12-03 12:38:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:38:18 : INFO] - 100 
+[2022-12-03 12:38:19 : INFO] - Re_Smush_It_Task with attachment ID : 1361, autocreated on : December 03, 2022 12:30:26 
+[2022-12-03 12:38:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:38:19 : INFO] - 100 
+[2022-12-03 12:38:19 : INFO] - Re_Smush_It_Task with attachment ID : 1361, autocreated on : December 03, 2022 12:30:26 
+[2022-12-03 12:38:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:38:19 : INFO] - 100 
+[2022-12-03 12:38:19 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2022/12/thinline-classic-straight.png. 
+[2022-12-03 12:38:19 : INFO] - Completed processing task with ID : 14, and type 'smush' 
+[2022-12-03 12:38:19 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2022-12-03 12:38:19 : INFO] - Re_Smush_It_Task with attachment ID : 1363, autocreated on : December 03, 2022 12:32:03 
+[2022-12-03 12:38:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:38:19 : INFO] - 100 
+[2022-12-03 12:38:20 : INFO] - Backing up the original image - 2022/12/entryprox-updraft-pre-smush-original.png 
+[2022-12-03 12:38:20 : INFO] - Re_Smush_It_Task with attachment ID : 1363, autocreated on : December 03, 2022 12:32:03 
+[2022-12-03 12:38:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:38:20 : INFO] - 100 
+[2022-12-03 12:38:20 : INFO] - Re_Smush_It_Task with attachment ID : 1363, autocreated on : December 03, 2022 12:32:03 
+[2022-12-03 12:38:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:38:20 : INFO] - 100 
+[2022-12-03 12:38:20 : INFO] - Re_Smush_It_Task with attachment ID : 1363, autocreated on : December 03, 2022 12:32:03 
+[2022-12-03 12:38:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:38:20 : INFO] - 100 
+[2022-12-03 12:38:21 : INFO] - Re_Smush_It_Task with attachment ID : 1363, autocreated on : December 03, 2022 12:32:03 
+[2022-12-03 12:38:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:38:21 : INFO] - 100 
+[2022-12-03 12:38:21 : INFO] - Re_Smush_It_Task with attachment ID : 1363, autocreated on : December 03, 2022 12:32:03 
+[2022-12-03 12:38:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:38:21 : INFO] - 100 
+[2022-12-03 12:38:22 : INFO] - Re_Smush_It_Task with attachment ID : 1363, autocreated on : December 03, 2022 12:32:03 
+[2022-12-03 12:38:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:38:22 : INFO] - 100 
+[2022-12-03 12:38:23 : INFO] - Re_Smush_It_Task with attachment ID : 1363, autocreated on : December 03, 2022 12:32:03 
+[2022-12-03 12:38:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:38:23 : INFO] - 100 
+[2022-12-03 12:38:23 : INFO] - Re_Smush_It_Task with attachment ID : 1363, autocreated on : December 03, 2022 12:32:03 
+[2022-12-03 12:38:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:38:23 : INFO] - 100 
+[2022-12-03 12:38:23 : INFO] - Re_Smush_It_Task with attachment ID : 1363, autocreated on : December 03, 2022 12:32:03 
+[2022-12-03 12:38:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:38:23 : INFO] - 100 
+[2022-12-03 12:38:24 : INFO] - Re_Smush_It_Task with attachment ID : 1363, autocreated on : December 03, 2022 12:32:03 
+[2022-12-03 12:38:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:38:24 : INFO] - 100 
+[2022-12-03 12:38:24 : INFO] - Re_Smush_It_Task with attachment ID : 1363, autocreated on : December 03, 2022 12:32:03 
+[2022-12-03 12:38:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:38:24 : INFO] - 100 
+[2022-12-03 12:38:24 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2022/12/entryprox.png. 
+[2022-12-03 12:38:24 : INFO] - Completed processing task with ID : 15, and type 'smush' 
+[2022-12-03 12:38:24 : INFO] - Processing task with ID : 16, and type 'smush' 
+[2022-12-03 12:38:24 : INFO] - Task with ID 16 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2022-12-03 12:38:24 : INFO] - Lock option (updraft_lock_smush, hit_options) released 
+[2022-12-03 12:38:24 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2022-12-03 12:38:24 : INFO] - Lock option (updraft_lock_smush, hit_options) was deleted from the database 
+[2022-12-03 12:38:24 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2022-12-03 12:38:44 : INFO] - Re_Smush_It_Task with attachment ID : 1367, autocreated on : December 03, 2022 12:38:44 
+[2022-12-03 12:49:44 : INFO] - 
+ 
+[2022-12-03 12:49:44 : INFO] - Header for logs at time:  Sat, 03 Dec 2022 12:49:44 +0000 on https://www.hitools.fr 
+[2022-12-03 12:49:44 : INFO] - WP: 6.1.1 
+[2022-12-03 12:49:44 : INFO] - PHP: 7.4.33 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2022-12-03 12:49:44 : INFO] - MySQL: 5.7.38 
+[2022-12-03 12:49:44 : INFO] - WPLANG: fr_FR 
+[2022-12-03 12:49:44 : INFO] - Server: Apache 
+[2022-12-03 12:49:44 : INFO] - Outbound connections: N 
+[2022-12-03 12:49:44 : INFO] - safe_mode: 0 
+[2022-12-03 12:49:44 : INFO] - max_execution_time: 50000 
+[2022-12-03 12:49:44 : INFO] - memory_limit: -1 (used: 101.2M | 103M) 
+[2022-12-03 12:49:44 : INFO] - multisite: N 
+[2022-12-03 12:49:44 : INFO] - openssl: OpenSSL 1.1.1n  15 Mar 2022 
+[2022-12-03 12:49:44 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-12-03 12:49:44 : DEBUG] - Lock option (updraft_lock_smush, hit_options) was created in the database 
+[2022-12-03 12:49:44 : INFO] - Lock (updraft_lock_smush, hit_options) acquired after initialising the database 
+[2022-12-03 12:49:44 : INFO] - Processing task with ID : 17, and type 'smush' 
+[2022-12-03 12:49:44 : INFO] - Re_Smush_It_Task with attachment ID : 1367, autocreated on : December 03, 2022 12:38:44 
+[2022-12-03 12:49:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:49:44 : INFO] - 100 
+[2022-12-03 12:49:45 : INFO] - Backing up the original image - 2022/12/proxpointplus_blk_6005_6008-updraft-pre-smush-original.png 
+[2022-12-03 12:49:45 : INFO] - Re_Smush_It_Task with attachment ID : 1367, autocreated on : December 03, 2022 12:38:44 
+[2022-12-03 12:49:45 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:49:45 : INFO] - 100 
+[2022-12-03 12:49:45 : INFO] - Re_Smush_It_Task with attachment ID : 1367, autocreated on : December 03, 2022 12:38:44 
+[2022-12-03 12:49:45 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:49:45 : INFO] - 100 
+[2022-12-03 12:49:45 : INFO] - Re_Smush_It_Task with attachment ID : 1367, autocreated on : December 03, 2022 12:38:44 
+[2022-12-03 12:49:45 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:49:45 : INFO] - 100 
+[2022-12-03 12:49:46 : INFO] - Re_Smush_It_Task with attachment ID : 1367, autocreated on : December 03, 2022 12:38:44 
+[2022-12-03 12:49:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:49:46 : INFO] - 100 
+[2022-12-03 12:49:46 : INFO] - Re_Smush_It_Task with attachment ID : 1367, autocreated on : December 03, 2022 12:38:44 
+[2022-12-03 12:49:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:49:46 : INFO] - 100 
+[2022-12-03 12:49:47 : INFO] - Re_Smush_It_Task with attachment ID : 1367, autocreated on : December 03, 2022 12:38:44 
+[2022-12-03 12:49:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:49:47 : INFO] - 100 
+[2022-12-03 12:49:47 : INFO] - Re_Smush_It_Task with attachment ID : 1367, autocreated on : December 03, 2022 12:38:44 
+[2022-12-03 12:49:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:49:47 : INFO] - 100 
+[2022-12-03 12:49:48 : INFO] - Re_Smush_It_Task with attachment ID : 1367, autocreated on : December 03, 2022 12:38:44 
+[2022-12-03 12:49:48 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:49:48 : INFO] - 100 
+[2022-12-03 12:49:48 : INFO] - Re_Smush_It_Task with attachment ID : 1367, autocreated on : December 03, 2022 12:38:44 
+[2022-12-03 12:49:48 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:49:48 : INFO] - 100 
+[2022-12-03 12:49:49 : INFO] - Re_Smush_It_Task with attachment ID : 1367, autocreated on : December 03, 2022 12:38:44 
+[2022-12-03 12:49:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:49:49 : INFO] - 100 
+[2022-12-03 12:49:49 : INFO] - Re_Smush_It_Task with attachment ID : 1367, autocreated on : December 03, 2022 12:38:44 
+[2022-12-03 12:49:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-12-03 12:49:49 : INFO] - 100 
+[2022-12-03 12:49:50 : INFO] - Successfully optimized the image - /homepages/42/d736809877/htdocs/hitools.fr/wp-content/uploads/2022/12/proxpointplus_blk_6005_6008.png. 
+[2022-12-03 12:49:50 : INFO] - Completed processing task with ID : 17, and type 'smush' 
+[2022-12-03 12:49:50 : INFO] - Lock option (updraft_lock_smush, hit_options) released 
+[2022-12-03 12:49:50 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-12-03 12:49:50 : INFO] - Lock option (updraft_lock_smush, hit_options) was deleted from the database 
+[2022-12-03 12:49:50 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-12-03 13:01:59 : INFO] - 
+ 
+[2022-12-03 13:01:59 : INFO] - Header for logs at time:  Sat, 03 Dec 2022 13:01:59 +0000 on https://www.hitools.fr 
+[2022-12-03 13:01:59 : INFO] - WP: 6.1.1 
+[2022-12-03 13:01:59 : INFO] - PHP: 7.4.33 (cgi-fcgi, Linux info 3.0 #1337 SMP Tue Jan 01 00:00:00 CEST 2000 all GNU/Linux) 
+[2022-12-03 13:01:59 : INFO] - MySQL: 5.7.38 
+[2022-12-03 13:01:59 : INFO] - WPLANG: fr_FR 
+[2022-12-03 13:01:59 : INFO] - Server: Apache 
+[2022-12-03 13:01:59 : INFO] - Outbound connections: N 
+[2022-12-03 13:01:59 : INFO] - safe_mode: 0 
+[2022-12-03 13:01:59 : INFO] - max_execution_time: 50000 
+[2022-12-03 13:01:59 : INFO] - memory_limit: -1 (used: 101.2M | 103M) 
+[2022-12-03 13:01:59 : INFO] - multisite: N 
+[2022-12-03 13:01:59 : INFO] - openssl: OpenSSL 1.1.1n  15 Mar 2022 
+[2022-12-03 13:01:59 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 

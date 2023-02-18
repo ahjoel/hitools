@@ -1,0 +1,26 @@
+{
+    "open sans": {
+        "normal": "\/homepages\/42\/d736809877\/htdocs\/hitools.fr\/wp-content\/uploads\/wpo_wcpdf\/fonts\/OpenSans-Normal",
+        "bold": "\/homepages\/42\/d736809877\/htdocs\/hitools.fr\/wp-content\/uploads\/wpo_wcpdf\/fonts\/OpenSans-Bold",
+        "italic": "\/homepages\/42\/d736809877\/htdocs\/hitools.fr\/wp-content\/uploads\/wpo_wcpdf\/fonts\/OpenSans-Italic",
+        "bold_italic": "\/homepages\/42\/d736809877\/htdocs\/hitools.fr\/wp-content\/uploads\/wpo_wcpdf\/fonts\/OpenSans-BoldItalic"
+    },
+    "segoe": {
+        "normal": "\/homepages\/42\/d736809877\/htdocs\/hitools.fr\/wp-content\/uploads\/wpo_wcpdf\/fonts\/Segoe-Normal",
+        "bold": "\/homepages\/42\/d736809877\/htdocs\/hitools.fr\/wp-content\/uploads\/wpo_wcpdf\/fonts\/Segoe-Bold",
+        "italic": "\/homepages\/42\/d736809877\/htdocs\/hitools.fr\/wp-content\/uploads\/wpo_wcpdf\/fonts\/Segoe-Italic",
+        "bold_italic": "\/homepages\/42\/d736809877\/htdocs\/hitools.fr\/wp-content\/uploads\/wpo_wcpdf\/fonts\/Segoe-BoldItalic"
+    },
+    "roboto slab": {
+        "normal": "\/homepages\/42\/d736809877\/htdocs\/hitools.fr\/wp-content\/uploads\/wpo_wcpdf\/fonts\/RobotoSlab-Normal",
+        "bold": "\/homepages\/42\/d736809877\/htdocs\/hitools.fr\/wp-content\/uploads\/wpo_wcpdf\/fonts\/RobotoSlab-Bold",
+        "italic": "\/homepages\/42\/d736809877\/htdocs\/hitools.fr\/wp-content\/uploads\/wpo_wcpdf\/fonts\/RobotoSlab-Italic",
+        "bold_italic": "\/homepages\/42\/d736809877\/htdocs\/hitools.fr\/wp-content\/uploads\/wpo_wcpdf\/fonts\/RobotoSlab-BoldItalic"
+    },
+    "currencies": {
+        "normal": "\/homepages\/42\/d736809877\/htdocs\/hitools.fr\/wp-content\/uploads\/wpo_wcpdf\/fonts\/currencies",
+        "bold": "\/homepages\/42\/d736809877\/htdocs\/hitools.fr\/wp-content\/uploads\/wpo_wcpdf\/fonts\/currencies",
+        "italic": "\/homepages\/42\/d736809877\/htdocs\/hitools.fr\/wp-content\/uploads\/wpo_wcpdf\/fonts\/currencies",
+        "bold_italic": "\/homepages\/42\/d736809877\/htdocs\/hitools.fr\/wp-content\/uploads\/wpo_wcpdf\/fonts\/currencies"
+    }
+}
