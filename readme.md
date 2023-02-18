@@ -1,6 +1,6 @@
 # HITOOLS - Site de vente des produits électroniques
 
-Visitez [le site.](https://hitools.fr){:target="_blank"}
+Visitez [www.hitools.fr](https://hitools.fr/?target=_blank)
 
 # Fonctionnalités
 
