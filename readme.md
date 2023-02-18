@@ -15,7 +15,7 @@ Visitez [le site.](https://hitools.fr)
 <a href="https://hitools.fr" >
     <img width="100%"
       alt="Accueil"
-      src="https://github.com/ahjoel/hitools/medias/accueil.png"
+      src="https://github.com/ahjoel/hitools/blob/master/medias/accueil.png"
     />
  </a>
  
@@ -24,7 +24,7 @@ Visitez [le site.](https://hitools.fr)
 <a href="https://hitools.fr" >
     <img width="100%"
       alt="Produit"
-      src="https://github.com/ahjoel/hitools/medias/produit.png"
+      src="https://github.com/ahjoel/hitools/blob/master/medias/produit.png"
     />
 </a>
 
@@ -33,6 +33,6 @@ Visitez [le site.](https://hitools.fr)
 <a href="https://hitools.fr" >
     <img width="100%"
       alt="Panier"
-      src="https://github.com/ahjoel/hitools/medias/panier.png"
+      src="https://github.com/ahjoel/hitools/blob/master/medias/panier.png"
     />
 </a>
